@@ -1,0 +1,36 @@
+{
+  "date": "20251229",
+  "root": "XBRL/20251229/",
+  "items": [
+    {
+      "ticker": "2935",
+      "company": "ピックルスＨＤ",
+      "title": "2026年２月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:50",
+      "file_id": "081220251229527872",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251229527872.zip",
+      "github_path": "XBRL/20251229/2935_ピックルスHD_2026年2月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2685",
+      "company": "アンドエスティＨＤ",
+      "title": "2026年２月期 第３四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220251226527664",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251226527664.zip",
+      "github_path": "XBRL/20251229/2685_アンドエスティHD_2026年2月期 第3四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7545",
+      "company": "西松屋チェ",
+      "title": "通期業績予想の修正に関するお知らせ",
+      "time": "12:00",
+      "file_id": "091220251226527388",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251226527388.zip",
+      "github_path": "XBRL/20251229/7545_西松屋チェ_通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
