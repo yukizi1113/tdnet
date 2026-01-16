@@ -1,0 +1,46 @@
+{
+  "date": "20260105",
+  "root": "XBRL/20260105/",
+  "items": [
+    {
+      "ticker": "9552",
+      "company": "クオンツ総研ＨＤ",
+      "title": "2025年９月期 決算短信〔ＩＦＲＳ〕(連結)",
+      "time": "16:00",
+      "file_id": "081220260105528710",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260105528710.zip",
+      "github_path": "XBRL/20260105/9552_クオンツ総研HD_2025年9月期 決算短信〔IFRS〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2789",
+      "company": "カルラ",
+      "title": "2026年２月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260105528174",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260105528174.zip",
+      "github_path": "XBRL/20260105/2789_カルラ_2026年2月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3186",
+      "company": "ネクステージ",
+      "title": "2025年11月期 決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220251224525934",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251224525934.zip",
+      "github_path": "XBRL/20260105/3186_ネクステージ_2025年11月期 決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2753",
+      "company": "あみやき",
+      "title": "2026年3月期第3四半期決算短信〔日本基準〕（連結）",
+      "time": "09:00",
+      "file_id": "081220251226527496",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251226527496.zip",
+      "github_path": "XBRL/20260105/2753_あみやき_2026年3月期第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
