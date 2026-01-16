@@ -1,0 +1,116 @@
+{
+  "date": "20251222",
+  "root": "XBRL/20251222/",
+  "items": [
+    {
+      "ticker": "4346",
+      "company": "ＮＥＸＹＺ．Ｇ",
+      "title": "（訂正・数値データ訂正）「2025 年９月期決算短信〔日本基準〕（連結）」 の一部訂正について」",
+      "time": "16:00",
+      "file_id": "081220251222523899",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251222523899.zip",
+      "github_path": "XBRL/20251222/4346_NEXYZ．G_（訂正・数値データ訂正）「2025 年9月期決算短信〔日本基準〕（連結）」 の一部訂正について」__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7923",
+      "company": "トーイン",
+      "title": "2026年３月期配当予想の修正（無配）に関するお知らせ",
+      "time": "15:40",
+      "file_id": "091220251219523247",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251219523247.zip",
+      "github_path": "XBRL/20251222/7923_トーイン_2026年3月期配当予想の修正（無配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "215A",
+      "company": "Ｇ－タイミー",
+      "title": "決算期変更に伴う通期業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220251222523643",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251222523643.zip",
+      "github_path": "XBRL/20251222/215A_G－タイミー_決算期変更に伴う通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3160",
+      "company": "大光",
+      "title": "2026年5月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220251219522715",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251219522715.zip",
+      "github_path": "XBRL/20251222/3160_大光_2026年5月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4418",
+      "company": "Ｇ－ＪＤＳＣ",
+      "title": "通期連結業績予想の修正（上方修正）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220251219523217",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251219523217.zip",
+      "github_path": "XBRL/20251222/4418_G－JDSC_通期連結業績予想の修正（上方修正）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7831",
+      "company": "ウイルコＨＤ",
+      "title": "（訂正・数値データ訂正） 「2025年10月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220251222523658",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251222523658.zip",
+      "github_path": "XBRL/20251222/7831_ウイルコHD_（訂正・数値データ訂正） 「2025年10月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7965",
+      "company": "象印マホービン",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220251219523240",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251219523240.zip",
+      "github_path": "XBRL/20251222/7965_象印マホービン_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8227",
+      "company": "しまむら",
+      "title": "2026年２月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220251218521798",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251218521798.zip",
+      "github_path": "XBRL/20251222/8227_しまむら_2026年2月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3333",
+      "company": "あさひ",
+      "title": "2026年２月期第３四半期決算短信〔日本基準〕(非連結)",
+      "time": "13:00",
+      "file_id": "081220251222523732",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251222523732.zip",
+      "github_path": "XBRL/20251222/3333_あさひ_2026年2月期第3四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3261",
+      "company": "Ｇ－グラン",
+      "title": "2025年12月期連結業績予想の修正に関するお知らせ",
+      "time": "11:30",
+      "file_id": "091220251218521999",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251218521999.zip",
+      "github_path": "XBRL/20251222/3261_G－グラン_2025年12月期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4187",
+      "company": "大有機化",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "time": "11:30",
+      "file_id": "091220251216520853",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251216520853.zip",
+      "github_path": "XBRL/20251222/4187_大有機化_業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
