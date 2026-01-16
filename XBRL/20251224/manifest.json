@@ -1,0 +1,86 @@
+{
+  "date": "20251224",
+  "root": "XBRL/20251224/",
+  "items": [
+    {
+      "ticker": "6191",
+      "company": "エアトリ",
+      "title": "(訂正・数値データ訂正)「2025年9月期 決算短信〔IFRS〕（連結）」の一部訂正について",
+      "time": "17:02",
+      "file_id": "081220251224525845",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251224525845.zip",
+      "github_path": "XBRL/20251224/6191_エアトリ_(訂正・数値データ訂正)「2025年9月期 決算短信〔IFRS〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7624",
+      "company": "ＮａＩＴＯ",
+      "title": "令和8年2月期 第3四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220251215520325",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251215520325.zip",
+      "github_path": "XBRL/20251224/7624_NaITO_令和8年2月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9976",
+      "company": "セキチュー",
+      "title": "2026年２月期第３四半期決算短信〔日本基準〕(非連結)",
+      "time": "16:00",
+      "file_id": "081220251224525518",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251224525518.zip",
+      "github_path": "XBRL/20251224/9976_セキチュー_2026年2月期第3四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4074",
+      "company": "Ｇ－ラキール",
+      "title": "2025年12月期 通期連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220251223525043",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251223525043.zip",
+      "github_path": "XBRL/20251224/4074_G－ラキール_2025年12月期 通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4465",
+      "company": "ニイタカ",
+      "title": "2026年５月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220251224525537",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251224525537.zip",
+      "github_path": "XBRL/20251224/4465_ニイタカ_2026年5月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6080",
+      "company": "Ｍ＆Ａキャピタル",
+      "title": "2025年９月期 決算短信〔ＩＦＲＳ〕(連結)",
+      "time": "15:30",
+      "file_id": "081220251224525468",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251224525468.zip",
+      "github_path": "XBRL/20251224/6080_M＆Aキャピタル_2025年9月期 決算短信〔IFRS〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7041",
+      "company": "Ｇ－ＣＲＧＨＤ",
+      "title": "(訂正・数値データ訂正)「2025年９月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220251224525269",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251224525269.zip",
+      "github_path": "XBRL/20251224/7041_G－CRGHD_(訂正・数値データ訂正)「2025年9月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2501",
+      "company": "サッポロＨＤ",
+      "title": "通期業績予想の修正及び報告セグメントの変更に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220251223524620",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251223524620.zip",
+      "github_path": "XBRL/20251224/2501_サッポロHD_通期業績予想の修正及び報告セグメントの変更に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
