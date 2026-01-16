@@ -1,0 +1,106 @@
+{
+  "date": "20260106",
+  "root": "XBRL/20260106/",
+  "items": [
+    {
+      "ticker": "4530",
+      "company": "久光薬",
+      "title": "2026年２月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "23:00",
+      "file_id": "081220260105528236",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260105528236.zip",
+      "github_path": "XBRL/20260106/4530_久光薬_2026年2月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3377",
+      "company": "バイク王",
+      "title": "特別損失の計上および業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220251226527544",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251226527544.zip",
+      "github_path": "XBRL/20260106/3377_バイク王_特別損失の計上および業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5900",
+      "company": "ダイケン",
+      "title": "通期連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220251219522754",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251219522754.zip",
+      "github_path": "XBRL/20260106/5900_ダイケン_通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6496",
+      "company": "中北製作所",
+      "title": "2026年５月期第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220251216520398",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251216520398.zip",
+      "github_path": "XBRL/20260106/6496_中北製作所_2026年5月期第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7679",
+      "company": "薬王堂ＨＤ",
+      "title": "2026年２月期 第３四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220251225526123",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251225526123.zip",
+      "github_path": "XBRL/20260106/7679_薬王堂HD_2026年2月期 第3四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8233",
+      "company": "高島屋",
+      "title": "2026年2月期 第3四半期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220251227527801",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251227527801.zip",
+      "github_path": "XBRL/20260106/8233_高島屋_2026年2月期 第3四半期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9253",
+      "company": "Ｇ－スローガン",
+      "title": "2026年2月期 第3四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220251224525357",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251224525357.zip",
+      "github_path": "XBRL/20260106/9253_G－スローガン_2026年2月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9842",
+      "company": "アークランズ",
+      "title": "2026年２月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260106529128",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260106529128.zip",
+      "github_path": "XBRL/20260106/9842_アークランズ_2026年2月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7611",
+      "company": "ハイデ日高",
+      "title": "2026年２月期 第３四半期決算短信〔日本基準〕（非連結）",
+      "time": "15:00",
+      "file_id": "081220260106529406",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260106529406.zip",
+      "github_path": "XBRL/20260106/7611_ハイデ日高_2026年2月期 第3四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3905",
+      "company": "Ｇ－データセクション",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "12:00",
+      "file_id": "091220260106529062",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260106529062.zip",
+      "github_path": "XBRL/20260106/3905_G－データセクション_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
