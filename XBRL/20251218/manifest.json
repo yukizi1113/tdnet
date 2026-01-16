@@ -1,0 +1,96 @@
+{
+  "date": "20251218",
+  "root": "XBRL/20251218/",
+  "items": [
+    {
+      "ticker": "5028",
+      "company": "Ｇ－セカンドサイト",
+      "title": "連結決算への移行に伴う連結業績予想の公表に関するお知らせ",
+      "time": "17:30",
+      "file_id": "091220251215519807",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251215519807.zip",
+      "github_path": "XBRL/20251218/5028_G－セカンドサイト_連結決算への移行に伴う連結業績予想の公表に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4572",
+      "company": "Ｇ－カルナバイオ",
+      "title": "業績予想の修正および特別損失（減損損失）計上見込みに関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220251215519720",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251215519720.zip",
+      "github_path": "XBRL/20251218/4572_G－カルナバイオ_業績予想の修正および特別損失（減損損失）計上見込みに関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3671",
+      "company": "Ｇ－ソフトＭＡＸ",
+      "title": "配当予想の修正（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220251212519342",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251212519342.zip",
+      "github_path": "XBRL/20251218/3671_G－ソフトMAX_配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3671",
+      "company": "Ｇ－ソフトＭＡＸ",
+      "title": "（訂正・数値データ訂正）「2025年12月期 第３四半期決算短信〔日本基準〕(非連結)」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220251217521191",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251217521191.zip",
+      "github_path": "XBRL/20251218/3671_G－ソフトMAX_（訂正・数値データ訂正）「2025年12月期 第3四半期決算短信〔日本基準〕(非連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3671",
+      "company": "Ｇ－ソフトＭＡＸ",
+      "title": "（訂正・数値データ訂正）「2025年12月期 第２四半期（中間期）決算短信〔日本基準〕(非連結)」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220251217521187",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251217521187.zip",
+      "github_path": "XBRL/20251218/3671_G－ソフトMAX_（訂正・数値データ訂正）「2025年12月期 第2四半期（中間期）決算短信〔日本基準〕(非連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6224",
+      "company": "Ｇ－ＪＲＣ",
+      "title": "2026年２月期通期連結業績予想及び配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220251216520419",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251216520419.zip",
+      "github_path": "XBRL/20251218/6224_G－JRC_2026年2月期通期連結業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6734",
+      "company": "ニューテック",
+      "title": "特別損失の計上に伴う通期業績予想及び配当予想の修正（無配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220251211518282",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251211518282.zip",
+      "github_path": "XBRL/20251218/6734_ニューテック_特別損失の計上に伴う通期業績予想及び配当予想の修正（無配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9340",
+      "company": "アソインター",
+      "title": "剰余金の配当（中間配当・増配）及び期末配当予想の修正に関するお知らせ",
+      "time": "14:30",
+      "file_id": "091220251215520205",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251215520205.zip",
+      "github_path": "XBRL/20251218/9340_アソインター_剰余金の配当（中間配当・増配）及び期末配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9304",
+      "company": "渋沢倉",
+      "title": "通期連結業績予想の修正および配当予想の修正（増配）に関するお知らせ",
+      "time": "12:00",
+      "file_id": "091220251218521816",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251218521816.zip",
+      "github_path": "XBRL/20251218/9304_渋沢倉_通期連結業績予想の修正および配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
