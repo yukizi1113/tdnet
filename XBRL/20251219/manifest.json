@@ -1,0 +1,226 @@
+{
+  "date": "20251219",
+  "root": "XBRL/20251219/",
+  "items": [
+    {
+      "ticker": "6573",
+      "company": "Ｇ－アジャイル",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220251218522493",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251218522493.zip",
+      "github_path": "XBRL/20251219/6573_G－アジャイル_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7545",
+      "company": "西松屋チェ",
+      "title": "2026年２月期第３四半期決算短信〔日本基準〕(連結)",
+      "time": "16:30",
+      "file_id": "081220251212519150",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251212519150.zip",
+      "github_path": "XBRL/20251219/7545_西松屋チェ_2026年2月期第3四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7363",
+      "company": "Ｇ－ベビーカレンダー",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220251219523019",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251219523019.zip",
+      "github_path": "XBRL/20251219/7363_G－ベビーカレンダー_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2315",
+      "company": "ＣＡＩＣＡ Ｄ",
+      "title": "2025年10月期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220251219522658",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251219522658.zip",
+      "github_path": "XBRL/20251219/2315_CAICA D_2025年10月期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3160",
+      "company": "大光",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220251218522418",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251218522418.zip",
+      "github_path": "XBRL/20251219/3160_大光_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3544",
+      "company": "サツドラＨＤ",
+      "title": "2026年５月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220251218522246",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251218522246.zip",
+      "github_path": "XBRL/20251219/3544_サツドラHD_2026年5月期 第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4284",
+      "company": "ソルクシーズ",
+      "title": "通期連結業績予想および配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220251219523066",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251219523066.zip",
+      "github_path": "XBRL/20251219/4284_ソルクシーズ_通期連結業績予想および配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6082",
+      "company": "ライドオンＥＸＨＤ",
+      "title": "営業外収益の計上見込み及び業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220251219522617",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251219522617.zip",
+      "github_path": "XBRL/20251219/6082_ライドオンEXHD_営業外収益の計上見込み及び業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6537",
+      "company": "Ｇ－ＷＡＳＨハウス",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220251219522917",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251219522917.zip",
+      "github_path": "XBRL/20251219/6537_G－WASHハウス_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6625",
+      "company": "ＪＡＬＣＯ ＨＤ",
+      "title": "通期連結業績予想の修正（上方修正）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220251219522810",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251219522810.zip",
+      "github_path": "XBRL/20251219/6625_JALCO HD_通期連結業績予想の修正（上方修正）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6901",
+      "company": "沢藤電",
+      "title": "2026年３月期の期末配当予想の修正（無配）及び株主優待制度の廃止に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220251219523117",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251219523117.zip",
+      "github_path": "XBRL/20251219/6901_沢藤電_2026年3月期の期末配当予想の修正（無配）及び株主優待制度の廃止に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2874",
+      "company": "ヨコレイ",
+      "title": "（訂正・数値データ訂正）「2024年９月期 第３四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "13:30",
+      "file_id": "081220251218522386",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251218522386.zip",
+      "github_path": "XBRL/20251219/2874_ヨコレイ_（訂正・数値データ訂正）「2024年9月期 第3四半期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2874",
+      "company": "ヨコレイ",
+      "title": "（訂正・数値データ訂正）「2024年９月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "13:30",
+      "file_id": "081220251218522391",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251218522391.zip",
+      "github_path": "XBRL/20251219/2874_ヨコレイ_（訂正・数値データ訂正）「2024年9月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2874",
+      "company": "ヨコレイ",
+      "title": "（訂正・数値データ訂正）「2025年９月期 第１四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "13:30",
+      "file_id": "081220251218522499",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251218522499.zip",
+      "github_path": "XBRL/20251219/2874_ヨコレイ_（訂正・数値データ訂正）「2025年9月期 第1四半期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2874",
+      "company": "ヨコレイ",
+      "title": "（訂正・数値データ訂正）「2025年９月期 第２四半期期（中間期）決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "13:30",
+      "file_id": "081220251219522500",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251219522500.zip",
+      "github_path": "XBRL/20251219/2874_ヨコレイ_（訂正・数値データ訂正）「2025年9月期 第2四半期期（中間期）決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2874",
+      "company": "ヨコレイ",
+      "title": "（訂正・数値データ訂正）「2025年９月期 第３四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "13:30",
+      "file_id": "081220251219522521",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251219522521.zip",
+      "github_path": "XBRL/20251219/2874_ヨコレイ_（訂正・数値データ訂正）「2025年9月期 第3四半期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2874",
+      "company": "ヨコレイ",
+      "title": "（訂正・数値データ訂正）「2025年９月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "13:30",
+      "file_id": "081220251219522522",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251219522522.zip",
+      "github_path": "XBRL/20251219/2874_ヨコレイ_（訂正・数値データ訂正）「2025年9月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5078",
+      "company": "セレコーポレーション",
+      "title": "2026年２月期通期業績予想の修正及び配当予想の据え置きに関するお知らせ",
+      "time": "13:30",
+      "file_id": "091220251203514026",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251203514026.zip",
+      "github_path": "XBRL/20251219/5078_セレコーポレーション_2026年2月期通期業績予想の修正及び配当予想の据え置きに関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4595",
+      "company": "ミズホメディー",
+      "title": "通期業績予想及び配当予想の修正に関するお知らせ",
+      "time": "12:00",
+      "file_id": "091220251218522440",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251218522440.zip",
+      "github_path": "XBRL/20251219/4595_ミズホメディー_通期業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6905",
+      "company": "コーセル",
+      "title": "第２四半期（中間期）業績予想と実績との差異および通期業績予想の修正に関するお知らせ",
+      "time": "11:30",
+      "file_id": "091220251218521998",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251218521998.zip",
+      "github_path": "XBRL/20251219/6905_コーセル_第2四半期（中間期）業績予想と実績との差異および通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6905",
+      "company": "コーセル",
+      "title": "2026年５月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "11:30",
+      "file_id": "081220251218522288",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251218522288.zip",
+      "github_path": "XBRL/20251219/6905_コーセル_2026年5月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7359",
+      "company": "Ｇ－東京通信Ｇ",
+      "title": "業績予想の上方修正に関するお知らせ",
+      "time": "08:30",
+      "file_id": "091220251218521880",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251218521880.zip",
+      "github_path": "XBRL/20251219/7359_G－東京通信G_業績予想の上方修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
