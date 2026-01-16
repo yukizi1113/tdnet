@@ -1,0 +1,156 @@
+{
+  "date": "20251225",
+  "root": "XBRL/20251225/",
+  "items": [
+    {
+      "ticker": "3541",
+      "company": "Ｇ－農業総合研究所",
+      "title": "2026年８月期第１四半期決算速報値に関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220251222524053",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251222524053.zip",
+      "github_path": "XBRL/20251225/3541_G－農業総合研究所_2026年8月期第1四半期決算速報値に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3541",
+      "company": "Ｇ－農業総合研究所",
+      "title": "2026年８月期の中間配当及び期末配当予想の修正（無配）及び株主優待制度の廃止に関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220251107591292",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251107591292.zip",
+      "github_path": "XBRL/20251225/3541_G－農業総合研究所_2026年8月期の中間配当及び期末配当予想の修正（無配）及び株主優待制度の廃止に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7860",
+      "company": "エイベックス",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220251225526606",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251225526606.zip",
+      "github_path": "XBRL/20251225/7860_エイベックス_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7485",
+      "company": "岡谷鋼機",
+      "title": "令和8年2月期 第3四半期決算短信〔日本基準〕（連結）",
+      "time": "16:30",
+      "file_id": "081220251223524967",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251223524967.zip",
+      "github_path": "XBRL/20251225/7485_岡谷鋼機_令和8年2月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6279",
+      "company": "瑞光",
+      "title": "2026年２月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220251225526392",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251225526392.zip",
+      "github_path": "XBRL/20251225/6279_瑞光_2026年2月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3321",
+      "company": "ミタチ",
+      "title": "2026年５月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220251225526378",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251225526378.zip",
+      "github_path": "XBRL/20251225/3321_ミタチ_2026年5月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3549",
+      "company": "クスリのアオキＨＤ",
+      "title": "2026年５月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220251225526117",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251225526117.zip",
+      "github_path": "XBRL/20251225/3549_クスリのアオキHD_2026年5月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7068",
+      "company": "Ｇ－ＦフォースＧ",
+      "title": "2026年５月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220251225526420",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251225526420.zip",
+      "github_path": "XBRL/20251225/7068_G－FフォースG_2026年5月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7447",
+      "company": "ナガイレーベ",
+      "title": "2026年８月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220251224525348",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251224525348.zip",
+      "github_path": "XBRL/20251225/7447_ナガイレーベ_2026年8月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7965",
+      "company": "象印マホービン",
+      "title": "2025年11月期 決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220251222523976",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251222523976.zip",
+      "github_path": "XBRL/20251225/7965_象印マホービン_2025年11月期 決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1788",
+      "company": "三東工業",
+      "title": "令和８年度６月第２四半期（累計）連結業績予想の修正に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220251223524098",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251223524098.zip",
+      "github_path": "XBRL/20251225/1788_三東工業_令和8年度6月第2四半期（累計）連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7921",
+      "company": "ＴＡＫＡＲＡ＆ＣＯ",
+      "title": "2026年５月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:00",
+      "file_id": "081220251218521991",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251218521991.zip",
+      "github_path": "XBRL/20251225/7921_TAKARA＆CO_2026年5月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5942",
+      "company": "日フイルコン",
+      "title": "特別損失の計上（減損損失の計上）および、2025年11月期通期連結業績予想の修正に関するお知らせ",
+      "time": "14:00",
+      "file_id": "091220251224525637",
+      "source_url": "https://www.release.tdnet.info/inbs/091220251224525637.zip",
+      "github_path": "XBRL/20251225/5942_日フイルコン_特別損失の計上（減損損失の計上）および、2025年11月期通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8276",
+      "company": "平和堂",
+      "title": "2026年2月期 第3四半期決算短信〔日本基準〕(連結)",
+      "time": "13:30",
+      "file_id": "081220251224525685",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251224525685.zip",
+      "github_path": "XBRL/20251225/8276_平和堂_2026年2月期 第3四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2796",
+      "company": "ファーマライズＨＤ",
+      "title": "令和８年５月期第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "12:30",
+      "file_id": "081220251224525279",
+      "source_url": "https://www.release.tdnet.info/inbs/081220251224525279.zip",
+      "github_path": "XBRL/20251225/2796_ファーマライズHD_令和8年5月期第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
