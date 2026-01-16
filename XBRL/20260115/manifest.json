@@ -1,0 +1,66 @@
+{
+  "date": "20260115",
+  "root": "XBRL/20260115/",
+  "items": [
+    {
+      "ticker": "1449",
+      "company": "ＦＵＪＩジャパン",
+      "title": "2025年12月期通期業績予想の修正に関するお知らせ",
+      "time": "16:30",
+      "file_id": "091220260115534496",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260115534496.zip",
+      "github_path": "XBRL/20260115/1449_FUJIジャパン_2025年12月期通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4250",
+      "company": "Ｑ－フロンティア",
+      "title": "2025年11月期 決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260111531958",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260111531958.zip",
+      "github_path": "XBRL/20260115/4250_Q－フロンティア_2025年11月期 決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6627",
+      "company": "テラプローブ",
+      "title": "配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260114534007",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260114534007.zip",
+      "github_path": "XBRL/20260115/6627_テラプローブ_配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7879",
+      "company": "ノダ",
+      "title": "2025年11月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260115534422",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260115534422.zip",
+      "github_path": "XBRL/20260115/7879_ノダ_2025年11月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3201",
+      "company": "ニッケ",
+      "title": "2025年11月期 決算短信〔日本基準〕（連結）",
+      "time": "15:00",
+      "file_id": "081220260104528127",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260104528127.zip",
+      "github_path": "XBRL/20260115/3201_ニッケ_2025年11月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4099",
+      "company": "四国化成ＨＤ",
+      "title": "業績予想の修正および配当予想の修正に関するお知らせ",
+      "time": "12:00",
+      "file_id": "091220260114534051",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260114534051.zip",
+      "github_path": "XBRL/20260115/4099_四国化成HD_業績予想の修正および配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
