@@ -1,0 +1,76 @@
+{
+  "date": "20260116",
+  "root": "XBRL/20260116/",
+  "items": [
+    {
+      "ticker": "6634",
+      "company": "ネクスＧ",
+      "title": "2025年11月期決算短信〔日本基準〕(連結)",
+      "time": "19:45",
+      "file_id": "081220260115534701",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260115534701.zip",
+      "github_path": "XBRL/20260116/6634_ネクスG_2025年11月期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2408",
+      "company": "ＫＧ情報",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260109531946",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260109531946.zip",
+      "github_path": "XBRL/20260116/2408_KG情報_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4929",
+      "company": "アジュバンＨＤ",
+      "title": "2026年３月期 第３四半期決算短信［日本基準］（連結）",
+      "time": "15:30",
+      "file_id": "081220260116534923",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260116534923.zip",
+      "github_path": "XBRL/20260116/4929_アジュバンHD_2026年3月期 第3四半期決算短信［日本基準］（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7083",
+      "company": "Ｇ－ＡＨＣグループ",
+      "title": "2025年11月期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260116534909",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260116534909.zip",
+      "github_path": "XBRL/20260116/7083_G－AHCグループ_2025年11月期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7501",
+      "company": "ティムコ",
+      "title": "2025年11月期 決算短信〔日本基準〕(非連結)",
+      "time": "15:30",
+      "file_id": "081220260116534879",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260116534879.zip",
+      "github_path": "XBRL/20260116/7501_ティムコ_2025年11月期 決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9647",
+      "company": "協和コンサル",
+      "title": "2025年11月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260115534311",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260115534311.zip",
+      "github_path": "XBRL/20260116/9647_協和コンサル_2025年11月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6217",
+      "company": "津田駒工",
+      "title": "令和７年11月期決算短信[日本基準](連結)",
+      "time": "15:00",
+      "file_id": "081220260113532477",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260113532477.zip",
+      "github_path": "XBRL/20260116/6217_津田駒工_令和7年11月期決算短信[日本基準](連結)__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
