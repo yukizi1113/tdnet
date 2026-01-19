@@ -1,0 +1,46 @@
+{
+  "date": "20260119",
+  "root": "XBRL/20260119/",
+  "items": [
+    {
+      "ticker": "9250",
+      "company": "Ｇ－ＧＲＣＳ",
+      "title": "2025年11月期 決算短信〔日本基準〕(連結)",
+      "time": "17:30",
+      "file_id": "081220260119535698",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260119535698.zip",
+      "github_path": "XBRL/20260119/9250_G－GRCS_2025年11月期 決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8209",
+      "company": "フレンドリー",
+      "title": "通期業績予想の修正に関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220260115534604",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260115534604.zip",
+      "github_path": "XBRL/20260119/8209_フレンドリー_通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4415",
+      "company": "Ｇ－ブロードエンター",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260119535340",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260119535340.zip",
+      "github_path": "XBRL/20260119/4415_G－ブロードエンター_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5341",
+      "company": "ＡＳＡＨＩ ＥＩＴＯ",
+      "title": "2025年11月期 決算短信〔日本基準〕(連結)",
+      "time": "16:00",
+      "file_id": "081220260119535444",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260119535444.zip",
+      "github_path": "XBRL/20260119/5341_ASAHI EITO_2025年11月期 決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
