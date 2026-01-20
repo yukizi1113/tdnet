@@ -1,0 +1,46 @@
+{
+  "date": "20260120",
+  "root": "XBRL/20260120/",
+  "items": [
+    {
+      "ticker": "5721",
+      "company": "エス・サイエンス",
+      "title": "業績予想の開示に関するお知らせ",
+      "time": "16:30",
+      "file_id": "091220260119535434",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260119535434.zip",
+      "github_path": "XBRL/20260120/5721_エス・サイエンス_業績予想の開示に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3091",
+      "company": "ブロンコＢ",
+      "title": "2025年12月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260119535431",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260119535431.zip",
+      "github_path": "XBRL/20260120/3091_ブロンコB_2025年12月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8613",
+      "company": "丸三証",
+      "title": "2026年3月期 第3四半期 決算速報値に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260120536061",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260120536061.zip",
+      "github_path": "XBRL/20260120/8613_丸三証_2026年3月期 第3四半期 決算速報値に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6063",
+      "company": "ＥＡＪ",
+      "title": "通期連結業績予想の修正に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220260119535757",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260119535757.zip",
+      "github_path": "XBRL/20260120/6063_EAJ_通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
