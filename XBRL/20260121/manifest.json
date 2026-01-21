@@ -1,0 +1,86 @@
+{
+  "date": "20260121",
+  "root": "XBRL/20260121/",
+  "items": [
+    {
+      "ticker": "296A",
+      "company": "Ｇ－令和ＡＨ",
+      "title": "2026年３月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "17:00",
+      "file_id": "081220260121536405",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260121536405.zip",
+      "github_path": "XBRL/20260121/296A_G－令和AH_2026年3月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3907",
+      "company": "シリコンスタジオ",
+      "title": "（訂正・数値データ訂正)「2025年11月期決算短信〔日本基準〕（非連結）」の一部訂正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "081220260121536489",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260121536489.zip",
+      "github_path": "XBRL/20260121/3907_シリコンスタジオ_（訂正・数値データ訂正)「2025年11月期決算短信〔日本基準〕（非連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6146",
+      "company": "ディスコ",
+      "title": "2026年3月期第3四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260120535984",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260120535984.zip",
+      "github_path": "XBRL/20260121/6146_ディスコ_2026年3月期第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6146",
+      "company": "ディスコ",
+      "title": "業績予想および配当予想のお知らせ",
+      "time": "16:00",
+      "file_id": "091220260120535997",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260120535997.zip",
+      "github_path": "XBRL/20260121/6146_ディスコ_業績予想および配当予想のお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5990",
+      "company": "スーパーツール",
+      "title": "2026年3月期第3四半期決算短信〔日本基準〕（連結）",
+      "time": "15:40",
+      "file_id": "081220260105528564",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260105528564.zip",
+      "github_path": "XBRL/20260121/5990_スーパーツール_2026年3月期第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9563",
+      "company": "Ｇ－Ａｔｌａｓ",
+      "title": "業績予想の修正、次期業績予想、及び中期経営計画の財務計画取り下げに関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260121536570",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260121536570.zip",
+      "github_path": "XBRL/20260121/9563_G－Atlas_業績予想の修正、次期業績予想、及び中期経営計画の財務計画取り下げに関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8614",
+      "company": "東洋証",
+      "title": "2026年3月期第3四半期連結決算速報値に関するお知らせ",
+      "time": "12:00",
+      "file_id": "091220260121536368",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260121536368.zip",
+      "github_path": "XBRL/20260121/8614_東洋証_2026年3月期第3四半期連結決算速報値に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8706",
+      "company": "極東証券",
+      "title": "2026年3月期 第3四半期連結業績速報値に関するお知らせ",
+      "time": "11:30",
+      "file_id": "091220260120536215",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260120536215.zip",
+      "github_path": "XBRL/20260121/8706_極東証券_2026年3月期 第3四半期連結業績速報値に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
