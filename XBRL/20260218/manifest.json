@@ -1,0 +1,66 @@
+{
+  "date": "20260218",
+  "root": "XBRL/20260218/",
+  "items": [
+    {
+      "ticker": "3093",
+      "company": "トレファク",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260218564410",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260218564410.zip",
+      "github_path": "XBRL/20260218/3093_トレファク_業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4704",
+      "company": "トレンド",
+      "title": "2025年12月期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260217564032",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260217564032.zip",
+      "github_path": "XBRL/20260218/4704_トレンド_2025年12月期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9173",
+      "company": "東海船",
+      "title": "（数値データ追加）「2025年12月期 決算短信 〔日本基準〕 （連結）」における数値データ（ＸＢＲＬ）について",
+      "time": "15:30",
+      "file_id": "081220260218564584",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260218564584.zip",
+      "github_path": "XBRL/20260218/9173_東海船_（数値データ追加）「2025年12月期 決算短信 〔日本基準〕 （連結）」における数値データ（XBRL）について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2220",
+      "company": "亀田菓",
+      "title": "配当予想の修正（増配）に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220260218564254",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260218564254.zip",
+      "github_path": "XBRL/20260218/2220_亀田菓_配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2695",
+      "company": "くら寿司",
+      "title": "株式分割及び定款の一部変更並びに配当予想の修正に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220260218564505",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260218564505.zip",
+      "github_path": "XBRL/20260218/2695_くら寿司_株式分割及び定款の一部変更並びに配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9830",
+      "company": "トラスコ中山",
+      "title": "配当予想の修正に関するお知らせ",
+      "time": "13:00",
+      "file_id": "091220260217564012",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260217564012.zip",
+      "github_path": "XBRL/20260218/9830_トラスコ中山_配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
