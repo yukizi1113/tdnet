@@ -1,0 +1,136 @@
+{
+  "date": "20260220",
+  "root": "XBRL/20260220/",
+  "items": [
+    {
+      "ticker": "9238",
+      "company": "Ｇ－バリューＣ",
+      "title": "取引先との取引停止、通期業績予想の修正、配当予想の修正及び株主優待制度の廃止に関するお知らせ",
+      "time": "18:45",
+      "file_id": "091220260113532690",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260113532690.zip",
+      "github_path": "XBRL/20260220/9238_G－バリューC_取引先との取引停止、通期業績予想の修正、配当予想の修正及び株主優待制度の廃止に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6440",
+      "company": "ＪＵＫＩ",
+      "title": "(訂正・数値データ訂正)「2025年12月期 決算短信 〔日本基準〕（連結）」の一部訂正について",
+      "time": "17:00",
+      "file_id": "081220260220566739",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260220566739.zip",
+      "github_path": "XBRL/20260220/6440_JUKI_(訂正・数値データ訂正)「2025年12月期 決算短信 〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4633",
+      "company": "サカタインクス",
+      "title": "(訂正・数値データ訂正)「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260220565898",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260220565898.zip",
+      "github_path": "XBRL/20260220/4633_サカタインクス_(訂正・数値データ訂正)「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6264",
+      "company": "マルマエ",
+      "title": "業績予想の修正及び配当予想の修正(増配)に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260220566165",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260220566165.zip",
+      "github_path": "XBRL/20260220/6264_マルマエ_業績予想の修正及び配当予想の修正(増配)に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7946",
+      "company": "光陽社",
+      "title": "株式分割、株式分割に伴う定款の一部変更、自己株式の取得に係る事項の一部修正 および配当予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260219565632",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260219565632.zip",
+      "github_path": "XBRL/20260220/7946_光陽社_株式分割、株式分割に伴う定款の一部変更、自己株式の取得に係る事項の一部修正 および配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2810",
+      "company": "ハウス食Ｇ",
+      "title": "特別損失（減損損失）の計上ならびに業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260220566450",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260220566450.zip",
+      "github_path": "XBRL/20260220/2810_ハウス食G_特別損失（減損損失）の計上ならびに業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4765",
+      "company": "ＳＢＩＧアセットＭ",
+      "title": "2026年3月期 通期連結業績予想の修正のお知らせ 売上高、営業利益及び経常利益で過去最高を更新",
+      "time": "15:30",
+      "file_id": "091220260218564301",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260218564301.zip",
+      "github_path": "XBRL/20260220/4765_SBIGアセットM_2026年3月期 通期連結業績予想の修正のお知らせ 売上高、営業利益及び経常利益で過去最高を更新__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4765",
+      "company": "ＳＢＩＧアセットＭ",
+      "title": "2026年3月期 配当予想修正のお知らせ － 17 期連続の増配 －",
+      "time": "15:30",
+      "file_id": "091220260220565892",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260220565892.zip",
+      "github_path": "XBRL/20260220/4765_SBIGアセットM_2026年3月期 配当予想修正のお知らせ － 17 期連続の増配 －__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6846",
+      "company": "中央製",
+      "title": "(訂正・数値データ訂正)「2026年3月期第3四半期決算短信[日本基準](非連結)」の一部訂正に関するお知らせ",
+      "time": "14:30",
+      "file_id": "081220260220566321",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260220566321.zip",
+      "github_path": "XBRL/20260220/6846_中央製_(訂正・数値データ訂正)「2026年3月期第3四半期決算短信[日本基準](非連結)」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7637",
+      "company": "白銅",
+      "title": "（開示資料の追加）「2026 年３月期 第３四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "14:30",
+      "file_id": "081220260220565972",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260220565972.zip",
+      "github_path": "XBRL/20260220/7637_白銅_（開示資料の追加）「2026 年3月期 第3四半期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3315",
+      "company": "日本コークス",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "14:00",
+      "file_id": "091220260127539684",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260127539684.zip",
+      "github_path": "XBRL/20260220/3315_日本コークス_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7544",
+      "company": "スリーエフ",
+      "title": "配当予想の修正（増配）に関するお知らせ",
+      "time": "14:00",
+      "file_id": "091220260219565305",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260219565305.zip",
+      "github_path": "XBRL/20260220/7544_スリーエフ_配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4709",
+      "company": "ＩＤホールディングス",
+      "title": "期末配当予想の修正（増配）に関するお知らせ",
+      "time": "11:30",
+      "file_id": "091220260220565991",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260220565991.zip",
+      "github_path": "XBRL/20260220/4709_IDホールディングス_期末配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
