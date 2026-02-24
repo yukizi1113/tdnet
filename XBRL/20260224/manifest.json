@@ -1,0 +1,106 @@
+{
+  "date": "20260224",
+  "root": "XBRL/20260224/",
+  "items": [
+    {
+      "ticker": "8233",
+      "company": "高島屋",
+      "title": "（開示事項の経過）特別損失の計上及び業績予想の修正に関するお知らせ",
+      "time": "17:30",
+      "file_id": "091220260223566990",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260223566990.zip",
+      "github_path": "XBRL/20260224/8233_高島屋_（開示事項の経過）特別損失の計上及び業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5401",
+      "company": "日本製鉄",
+      "title": "2026年3月期第3四半期決算短信〔ＩＦＲＳ〕（連結）（監査法人による期中レビューの完了）",
+      "time": "16:10",
+      "file_id": "081220260220566295",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260220566295.zip",
+      "github_path": "XBRL/20260224/5401_日本製鉄_2026年3月期第3四半期決算短信〔IFRS〕（連結）（監査法人による期中レビューの完了）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4438",
+      "company": "Ｇ－Ｗｅｌｂｙ",
+      "title": "業績予想の開示に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260224567725",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260224567725.zip",
+      "github_path": "XBRL/20260224/4438_G－Welby_業績予想の開示に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4062",
+      "company": "イビデン",
+      "title": "2026年3月期第3四半期決算短信〔日本基準〕（連結）（公認会計士等による期中レビューの完了）",
+      "time": "15:40",
+      "file_id": "081220260220565976",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260220565976.zip",
+      "github_path": "XBRL/20260224/4062_イビデン_2026年3月期第3四半期決算短信〔日本基準〕（連結）（公認会計士等による期中レビューの完了）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2288",
+      "company": "丸大食",
+      "title": "2026年3月期第3四半期決算短信〔日本基準〕（連結）（開示事項の追加及び公認会計士等による期中レビューの完了）",
+      "time": "15:30",
+      "file_id": "081220260220566631",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260220566631.zip",
+      "github_path": "XBRL/20260224/2288_丸大食_2026年3月期第3四半期決算短信〔日本基準〕（連結）（開示事項の追加及び公認会計士等による期中レビューの完了）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3796",
+      "company": "いい生活",
+      "title": "株式分割並びに配当予想の修正（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260220566372",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260220566372.zip",
+      "github_path": "XBRL/20260224/3796_いい生活_株式分割並びに配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7167",
+      "company": "めぶきＦＧ",
+      "title": "通期業績予想の修正および期末配当予想の修正（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260217563949",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260217563949.zip",
+      "github_path": "XBRL/20260224/7167_めぶきFG_通期業績予想の修正および期末配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8554",
+      "company": "南日本銀",
+      "title": "業績予想及び配当予想の修正（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260220566014",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260220566014.zip",
+      "github_path": "XBRL/20260224/8554_南日本銀_業績予想及び配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7093",
+      "company": "Ｇ－アディッシュ",
+      "title": "（訂正・数値データ訂正）「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "15:00",
+      "file_id": "081220260224567377",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260224567377.zip",
+      "github_path": "XBRL/20260224/7093_G－アディッシュ_（訂正・数値データ訂正）「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4687",
+      "company": "ＴＤＣソフト",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "time": "13:00",
+      "file_id": "091220260224567066",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260224567066.zip",
+      "github_path": "XBRL/20260224/4687_TDCソフト_業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
