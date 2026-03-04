@@ -1,0 +1,77 @@
+{
+  "date": "20260304",
+  "folder": "20260304",
+  "root": "XBRL/20260304/",
+  "items": [
+    {
+      "ticker": "2160",
+      "company": "Ｇ－ＧＮＩ",
+      "title": "（訂正・数値データの修正）「2025年12月期 決算短信〔IFRS〕（連結）」の一部訂正について",
+      "time": "18:00",
+      "file_id": "081220260304575482",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260304575482.zip",
+      "github_path": "XBRL/20260304/2160_G－GNI_（訂正・数値データの修正）「2025年12月期 決算短信〔IFRS〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2307",
+      "company": "クロスキャット",
+      "title": "配当予想の修正（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260304575365",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260304575365.zip",
+      "github_path": "XBRL/20260304/2307_クロスキャット_配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2590",
+      "company": "ＤｙＤｏ",
+      "title": "2026年1月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260304575305",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260304575305.zip",
+      "github_path": "XBRL/20260304/2590_DyDo_2026年1月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6635",
+      "company": "大日光",
+      "title": "（訂正・数値データ訂正） 「2025年12月期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260227571645",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260227571645.zip",
+      "github_path": "XBRL/20260304/6635_大日光_（訂正・数値データ訂正） 「2025年12月期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8057",
+      "company": "内田洋行",
+      "title": "2026年7月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260304575655",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260304575655.zip",
+      "github_path": "XBRL/20260304/8057_内田洋行_2026年7月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8057",
+      "company": "内田洋行",
+      "title": "配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260304575690",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260304575690.zip",
+      "github_path": "XBRL/20260304/8057_内田洋行_配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1867",
+      "company": "植木組",
+      "title": "業績予想の修正並びに配当予想の修正に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220260304575196",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260304575196.zip",
+      "github_path": "XBRL/20260304/1867_植木組_業績予想の修正並びに配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
