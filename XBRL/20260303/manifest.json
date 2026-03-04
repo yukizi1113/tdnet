@@ -1,0 +1,67 @@
+{
+  "date": "20260303",
+  "folder": "20260303",
+  "root": "XBRL/20260303/",
+  "items": [
+    {
+      "ticker": "9425",
+      "company": "ＲｅＹｕｕＪａｐａｎ",
+      "title": "2026年10月期通期業績予想に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260303574561",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260303574561.zip",
+      "github_path": "XBRL/20260303/9425_ReYuuJapan_2026年10月期通期業績予想に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4834",
+      "company": "キャリアバンク",
+      "title": "特別利益及び特別損失の計上並びに通期業績予想の修正に関するお知らせ",
+      "time": "15:45",
+      "file_id": "091220260225569219",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260225569219.zip",
+      "github_path": "XBRL/20260303/4834_キャリアバンク_特別利益及び特別損失の計上並びに通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4425",
+      "company": "Ｇ－Ｋｕｄａｎ",
+      "title": "通期業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260209551602",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260209551602.zip",
+      "github_path": "XBRL/20260303/4425_G－Kudan_通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4750",
+      "company": "ダイサン",
+      "title": "2026年４月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260303574359",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260303574359.zip",
+      "github_path": "XBRL/20260303/4750_ダイサン_2026年4月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9345",
+      "company": "Ｇ－ビズメイツ",
+      "title": "剰余金の配当及び配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260302573413",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260302573413.zip",
+      "github_path": "XBRL/20260303/9345_G－ビズメイツ_剰余金の配当及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7265",
+      "company": "エイケン工業",
+      "title": "2026年10月期 第１四半期決算短信〔日本基準〕(非連結)",
+      "time": "14:30",
+      "file_id": "081220260303574105",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260303574105.zip",
+      "github_path": "XBRL/20260303/7265_エイケン工業_2026年10月期 第1四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
