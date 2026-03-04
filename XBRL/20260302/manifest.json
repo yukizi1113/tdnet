@@ -1,0 +1,157 @@
+{
+  "date": "20260302",
+  "folder": "20260302",
+  "root": "XBRL/20260302/",
+  "items": [
+    {
+      "ticker": "7865",
+      "company": "ピープル",
+      "title": "2026年１月期 決算短信[日本基準]（非連結）",
+      "time": "16:30",
+      "file_id": "081220260302572939",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260302572939.zip",
+      "github_path": "XBRL/20260302/7865_ピープル_2026年1月期 決算短信[日本基準]（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6176",
+      "company": "ブランジスタ",
+      "title": "配当予想の修正（特別配当及び中間配当の実施）に関するお知らせ",
+      "time": "16:15",
+      "file_id": "091220260302573112",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260302573112.zip",
+      "github_path": "XBRL/20260302/6176_ブランジスタ_配当予想の修正（特別配当及び中間配当の実施）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6081",
+      "company": "Ｇ－アライドアーキ",
+      "title": "（訂正・数値データ訂正）「2025 年12 月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260226570800",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260226570800.zip",
+      "github_path": "XBRL/20260302/6081_G－アライドアーキ_（訂正・数値データ訂正）「2025 年12 月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9948",
+      "company": "アークス",
+      "title": "通期個別業績予想の修正および 当社の連結子会社に対する特別損失等の計上に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260227572286",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260227572286.zip",
+      "github_path": "XBRL/20260302/9948_アークス_通期個別業績予想の修正および 当社の連結子会社に対する特別損失等の計上に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8912",
+      "company": "エリアクエスト",
+      "title": "業績予想及び配当予想の修正（増配）に関するお知らせ",
+      "time": "15:45",
+      "file_id": "091220260227571943",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260227571943.zip",
+      "github_path": "XBRL/20260302/8912_エリアクエスト_業績予想及び配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4506",
+      "company": "住友ファーマ",
+      "title": "2026年３月期業績予想の修正に関するお知らせ",
+      "time": "15:40",
+      "file_id": "091220260301572403",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260301572403.zip",
+      "github_path": "XBRL/20260302/4506_住友ファーマ_2026年3月期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2593",
+      "company": "伊藤園",
+      "title": "2026年４月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260224567955",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260224567955.zip",
+      "github_path": "XBRL/20260302/2593_伊藤園_2026年4月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4848",
+      "company": "フルキャストＨＤ",
+      "title": "（訂正・数値データ訂正）「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260227572268",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260227572268.zip",
+      "github_path": "XBRL/20260302/4848_フルキャストHD_（訂正・数値データ訂正）「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9201",
+      "company": "ＪＡＬ",
+      "title": "2026年３月期通期連結業績予想および配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260302573201",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260302573201.zip",
+      "github_path": "XBRL/20260302/9201_JAL_2026年3月期通期連結業績予想および配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9517",
+      "company": "イーレックス",
+      "title": "配当予想修正のお知らせ",
+      "time": "15:30",
+      "file_id": "091220260302573571",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260302573571.zip",
+      "github_path": "XBRL/20260302/9517_イーレックス_配当予想修正のお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2901",
+      "company": "ウェルディッシュ",
+      "title": "（訂正・数値データ訂正）「業績予想の修正（上方修正）に関するお知らせ」の一部訂正について",
+      "time": "14:18",
+      "file_id": "091220260302573239",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260302573239.zip",
+      "github_path": "XBRL/20260302/2901_ウェルディッシュ_（訂正・数値データ訂正）「業績予想の修正（上方修正）に関するお知らせ」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4011",
+      "company": "Ｇ－ヘッドウォーター",
+      "title": "（訂正・数値データ訂正）「2025年12月期決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "14:00",
+      "file_id": "081220260302573120",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260302573120.zip",
+      "github_path": "XBRL/20260302/4011_G－ヘッドウォーター_（訂正・数値データ訂正）「2025年12月期決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7606",
+      "company": "Ｕアローズ",
+      "title": "特別損失の発生および通期連結業績予想・配当予想の修正（増配）に関するお知らせ",
+      "time": "12:30",
+      "file_id": "091220260224567416",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260224567416.zip",
+      "github_path": "XBRL/20260302/7606_Uアローズ_特別損失の発生および通期連結業績予想・配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2901",
+      "company": "ウェルディッシュ",
+      "title": "業績予想の修正（上方修正）に関するお知らせ",
+      "time": "11:31",
+      "file_id": "091220260225569155",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260225569155.zip",
+      "github_path": "XBRL/20260302/2901_ウェルディッシュ_業績予想の修正（上方修正）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3676",
+      "company": "デジハＨＤ",
+      "title": "配当予想の修正(増配)及び配当方針の変更(累進配当の導入)並びに株主優待制度の導入に関するお知らせ",
+      "time": "11:30",
+      "file_id": "091220260227571425",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260227571425.zip",
+      "github_path": "XBRL/20260302/3676_デジハHD_配当予想の修正(増配)及び配当方針の変更(累進配当の導入)並びに株主優待制度の導入に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
