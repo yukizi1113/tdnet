@@ -1,0 +1,157 @@
+{
+  "date": "20260309",
+  "folder": "20260309",
+  "root": "XBRL/20260309/",
+  "items": [
+    {
+      "ticker": "4151",
+      "company": "協和キリン",
+      "title": "(訂正・数値データ訂正)「2025年12月期 決算短信〔IFRS〕（連結）」の一部訂正について",
+      "time": "18:20",
+      "file_id": "081220260305576118",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260305576118.zip",
+      "github_path": "XBRL/20260309/4151_協和キリン_(訂正・数値データ訂正)「2025年12月期 決算短信〔IFRS〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1776",
+      "company": "三住道路",
+      "title": "（数値データ追加）「2026年３月期期末配当予想の修正（無配）に関するお知らせ」におけるXBRLデータ追加について",
+      "time": "17:10",
+      "file_id": "091220260309578508",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260309578508.zip",
+      "github_path": "XBRL/20260309/1776_三住道路_（数値データ追加）「2026年3月期期末配当予想の修正（無配）に関するお知らせ」におけるXBRLデータ追加について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5572",
+      "company": "Ｇ－リッジアイ",
+      "title": "2026年７月期第２四半期（中間期）連結業績予想の修正に関するお知らせ",
+      "time": "17:10",
+      "file_id": "091220260309578378",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260309578378.zip",
+      "github_path": "XBRL/20260309/5572_G－リッジアイ_2026年7月期第2四半期（中間期）連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8897",
+      "company": "ミラースＨＤ",
+      "title": "特別損失（減損損失）の計上及び通期連結業績予想の修正に関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220260306577850",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260306577850.zip",
+      "github_path": "XBRL/20260309/8897_ミラースHD_特別損失（減損損失）の計上及び通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7851",
+      "company": "カワセコンピュ",
+      "title": "令和８年３月期通期業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260309578104",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260309578104.zip",
+      "github_path": "XBRL/20260309/7851_カワセコンピュ_令和8年3月期通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2301",
+      "company": "学情",
+      "title": "2026年10月期 第1四半期決算短信（日本基準）（非連結）",
+      "time": "15:30",
+      "file_id": "081220260305576596",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260305576596.zip",
+      "github_path": "XBRL/20260309/2301_学情_2026年10月期 第1四半期決算短信（日本基準）（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3423",
+      "company": "エスイー",
+      "title": "繰延税金資産の取崩しおよび業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260306577343",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260306577343.zip",
+      "github_path": "XBRL/20260309/3423_エスイー_繰延税金資産の取崩しおよび業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6454",
+      "company": "マックス",
+      "title": "通期連結業績予想及び配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260306577694",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260306577694.zip",
+      "github_path": "XBRL/20260309/6454_マックス_通期連結業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7186",
+      "company": "横浜ＦＧ",
+      "title": "配当予想の修正（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260309578196",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260309578196.zip",
+      "github_path": "XBRL/20260309/7186_横浜FG_配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7804",
+      "company": "ビーアンドピー",
+      "title": "2026年10月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260305576670",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260305576670.zip",
+      "github_path": "XBRL/20260309/7804_ビーアンドピー_2026年10月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7856",
+      "company": "萩原工業",
+      "title": "2026年10月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260306577734",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260306577734.zip",
+      "github_path": "XBRL/20260309/7856_萩原工業_2026年10月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9405",
+      "company": "朝日放送グループＨＤ",
+      "title": "配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260303574845",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260303574845.zip",
+      "github_path": "XBRL/20260309/9405_朝日放送グループHD_配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9986",
+      "company": "蔵王産業",
+      "title": "配当予想の修正（創立70周年記念配当）に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220260309578006",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260309578006.zip",
+      "github_path": "XBRL/20260309/9986_蔵王産業_配当予想の修正（創立70周年記念配当）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4238",
+      "company": "ミライアル",
+      "title": "2026年１月期 決算短信〔日本基準〕（連結）",
+      "time": "14:30",
+      "file_id": "081220260309578131",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260309578131.zip",
+      "github_path": "XBRL/20260309/4238_ミライアル_2026年1月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2351",
+      "company": "ＡＳＪ",
+      "title": "2026年３月期配当予想の修正（上場記念配当）に関するお知らせ",
+      "time": "14:00",
+      "file_id": "091220260309578170",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260309578170.zip",
+      "github_path": "XBRL/20260309/2351_ASJ_2026年3月期配当予想の修正（上場記念配当）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
