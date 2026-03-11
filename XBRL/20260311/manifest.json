@@ -1,0 +1,287 @@
+{
+  "date": "20260311",
+  "folder": "20260311",
+  "root": "XBRL/20260311/",
+  "items": [
+    {
+      "ticker": "3559",
+      "company": "ピーバンドットコム",
+      "title": "配当予想の修正に関するお知らせ",
+      "time": "17:30",
+      "file_id": "091220260311579967",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260311579967.zip",
+      "github_path": "XBRL/20260311/3559_ピーバンドットコム_配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2751",
+      "company": "テンポスＨＤ",
+      "title": "2026年４月期第３四半期決算短信〔日本基準〕(連結)",
+      "time": "17:00",
+      "file_id": "081220260311579423",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260311579423.zip",
+      "github_path": "XBRL/20260311/2751_テンポスHD_2026年4月期第3四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3070",
+      "company": "Ｇ－ジェリービーンズ",
+      "title": "通期業績予想の修正に関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220260311579941",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260311579941.zip",
+      "github_path": "XBRL/20260311/3070_G－ジェリービーンズ_通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3392",
+      "company": "デリカフーズＨＤ",
+      "title": "第五次中期経営計画における定量目標の上方修正および今期配当予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260311579559",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260311579559.zip",
+      "github_path": "XBRL/20260311/3392_デリカフーズHD_第五次中期経営計画における定量目標の上方修正および今期配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5132",
+      "company": "Ｇ－ｐｌｕｓｚｅｒｏ",
+      "title": "2026年10月期第１四半期決算短信〔日本基準〕(非連結)",
+      "time": "16:00",
+      "file_id": "081220260311579719",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260311579719.zip",
+      "github_path": "XBRL/20260311/5132_G－pluszero_2026年10月期第1四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6565",
+      "company": "ＡＢホテル",
+      "title": "配当方針の変更並びに配当予想の修正（特別配当）に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260310579333",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260310579333.zip",
+      "github_path": "XBRL/20260311/6565_ABホテル_配当方針の変更並びに配当予想の修正（特別配当）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7678",
+      "company": "あさくま",
+      "title": "2026年1月期 決算短信〔日本基準〕（非連結）",
+      "time": "16:00",
+      "file_id": "081220260309578531",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260309578531.zip",
+      "github_path": "XBRL/20260311/7678_あさくま_2026年1月期 決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7435",
+      "company": "ナ・デックス",
+      "title": "2026年４月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:40",
+      "file_id": "081220260225568936",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260225568936.zip",
+      "github_path": "XBRL/20260311/7435_ナ・デックス_2026年4月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "272A",
+      "company": "グリーンクロスＨＤ",
+      "title": "令和8年4月期 第3四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260305576734",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260305576734.zip",
+      "github_path": "XBRL/20260311/272A_グリーンクロスHD_令和8年4月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "350A",
+      "company": "Ｇ－デジタルグリッド",
+      "title": "2026年７月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260309578330",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260309578330.zip",
+      "github_path": "XBRL/20260311/350A_G－デジタルグリッド_2026年7月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4599",
+      "company": "Ｇ－ステムリム",
+      "title": "2026年７月期 第２四半期決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260310579283",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260310579283.zip",
+      "github_path": "XBRL/20260311/4599_G－ステムリム_2026年7月期 第2四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4889",
+      "company": "Ｇ－レナサイエンス",
+      "title": "2026年３月期通期業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260310579255",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260310579255.zip",
+      "github_path": "XBRL/20260311/4889_G－レナサイエンス_2026年3月期通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5031",
+      "company": "Ｇ－モイ",
+      "title": "2026年1月期 決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260310579297",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260310579297.zip",
+      "github_path": "XBRL/20260311/5031_G－モイ_2026年1月期 決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5032",
+      "company": "ＡＮＹＣＯＬＯＲ",
+      "title": "2026年４月期 第３四半期決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260311579589",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260311579589.zip",
+      "github_path": "XBRL/20260311/5032_ANYCOLOR_2026年4月期 第3四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5844",
+      "company": "京都ＦＧ",
+      "title": "株式売却益の計上および業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260310579185",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260310579185.zip",
+      "github_path": "XBRL/20260311/5844_京都FG_株式売却益の計上および業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5844",
+      "company": "京都ＦＧ",
+      "title": "期末配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260310579188",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260310579188.zip",
+      "github_path": "XBRL/20260311/5844_京都FG_期末配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6966",
+      "company": "三井ハイテク",
+      "title": "2026年１月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260311579530",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260311579530.zip",
+      "github_path": "XBRL/20260311/6966_三井ハイテク_2026年1月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7064",
+      "company": "ハウテレビジョン",
+      "title": "2026年1月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260310579159",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260310579159.zip",
+      "github_path": "XBRL/20260311/7064_ハウテレビジョン_2026年1月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9236",
+      "company": "Ｇ－ジャパンＭ＆Ａ",
+      "title": "2026年10月期第１四半期決算短信〔日本基準〕(非連結)",
+      "time": "15:30",
+      "file_id": "081220260310578805",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260310578805.zip",
+      "github_path": "XBRL/20260311/9236_G－ジャパンM＆A_2026年10月期第1四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6408",
+      "company": "小倉クラッチ",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220260310579080",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260310579080.zip",
+      "github_path": "XBRL/20260311/6408_小倉クラッチ_業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4026",
+      "company": "神島化学工業",
+      "title": "2026年４月期 第３四半期決算短信〔日本基準〕(非連結)",
+      "time": "14:30",
+      "file_id": "081220260310578801",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260310578801.zip",
+      "github_path": "XBRL/20260311/4026_神島化学工業_2026年4月期 第3四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8046",
+      "company": "丸藤パイル",
+      "title": "株式分割、株式分割に伴う定款の一部変更ならびに配当方針の変更および 配当予想の修正（創業 100 周年記念配当を含む増配）に関するお知らせ",
+      "time": "14:30",
+      "file_id": "091220260302573961",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260302573961.zip",
+      "github_path": "XBRL/20260311/8046_丸藤パイル_株式分割、株式分割に伴う定款の一部変更ならびに配当方針の変更および 配当予想の修正（創業 100 周年記念配当を含む増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4884",
+      "company": "Ｇ－クリングル",
+      "title": "2026年９月期業績予想の修正に関するお知らせ",
+      "time": "14:15",
+      "file_id": "091220260304575906",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260304575906.zip",
+      "github_path": "XBRL/20260311/4884_G－クリングル_2026年9月期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5966",
+      "company": "京都機械工具",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "14:00",
+      "file_id": "091220260305576999",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260305576999.zip",
+      "github_path": "XBRL/20260311/5966_京都機械工具_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6870",
+      "company": "日本フェンオール",
+      "title": "（訂正・数値データ訂正）「2025 年 12 月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "13:00",
+      "file_id": "081220260311579586",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260311579586.zip",
+      "github_path": "XBRL/20260311/6870_日本フェンオール_（訂正・数値データ訂正）「2025 年 12 月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3921",
+      "company": "ネオジャパン",
+      "title": "2026年１月期決算短信〔日本基準〕(連結)",
+      "time": "12:00",
+      "file_id": "081220260310579240",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260310579240.zip",
+      "github_path": "XBRL/20260311/3921_ネオジャパン_2026年1月期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6577",
+      "company": "Ｇ－ベストワンドット",
+      "title": "2026年７月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "12:00",
+      "file_id": "081220260213562293",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260213562293.zip",
+      "github_path": "XBRL/20260311/6577_G－ベストワンドット_2026年7月期 第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1844",
+      "company": "大盛工",
+      "title": "2026年7月期第２四半期（中間期）業績予想の修正に関するお知らせ",
+      "time": "10:00",
+      "file_id": "091220260206550800",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260206550800.zip",
+      "github_path": "XBRL/20260311/1844_大盛工_2026年7月期第2四半期（中間期）業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
