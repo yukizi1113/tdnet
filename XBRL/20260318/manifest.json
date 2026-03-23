@@ -1,0 +1,137 @@
+{
+  "date": "20260318",
+  "folder": "20260318",
+  "root": "XBRL/20260318/",
+  "items": [
+    {
+      "ticker": "2183",
+      "company": "リニカル",
+      "title": "業績予想及び配当予想の修正並びに取締役等の報酬の減額に関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220260318584643",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260318584643.zip",
+      "github_path": "XBRL/20260318/2183_リニカル_業績予想及び配当予想の修正並びに取締役等の報酬の減額に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4287",
+      "company": "ジャストプラ",
+      "title": "(訂正・数値データ訂正)「2026年１月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "16:30",
+      "file_id": "081220260318584563",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260318584563.zip",
+      "github_path": "XBRL/20260318/4287_ジャストプラ_(訂正・数値データ訂正)「2026年1月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1717",
+      "company": "明豊ファシリティ",
+      "title": "配当予想の修正（増配）に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260318584494",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260318584494.zip",
+      "github_path": "XBRL/20260318/1717_明豊ファシリティ_配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6424",
+      "company": "高見サイ",
+      "title": "配当予想の修正（増配）に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260317583973",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260317583973.zip",
+      "github_path": "XBRL/20260318/6424_高見サイ_配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6424",
+      "company": "高見サイ",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260317583741",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260317583741.zip",
+      "github_path": "XBRL/20260318/6424_高見サイ_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3238",
+      "company": "セントラル総",
+      "title": "2026年３月期 通期連結業績予想および配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260317583305",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260317583305.zip",
+      "github_path": "XBRL/20260318/3238_セントラル総_2026年3月期 通期連結業績予想および配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4053",
+      "company": "サンアスタリスク",
+      "title": "（訂正・数値データ訂正）「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "081220260318584505",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260318584505.zip",
+      "github_path": "XBRL/20260318/4053_サンアスタリスク_（訂正・数値データ訂正）「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4690",
+      "company": "日パレット",
+      "title": "特別損失の計上及び業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260316582634",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260316582634.zip",
+      "github_path": "XBRL/20260318/4690_日パレット_特別損失の計上及び業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6335",
+      "company": "東京機",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260122537112",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260122537112.zip",
+      "github_path": "XBRL/20260318/6335_東京機_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6809",
+      "company": "ＴＯＡ",
+      "title": "業績予想の修正および期末配当予想の修正（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260316582985",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260316582985.zip",
+      "github_path": "XBRL/20260318/6809_TOA_業績予想の修正および期末配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8624",
+      "company": "いちよし",
+      "title": "2026年３月期の期末配当予定について",
+      "time": "12:00",
+      "file_id": "091220260317583907",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260317583907.zip",
+      "github_path": "XBRL/20260318/8624_いちよし_2026年3月期の期末配当予定について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "296A",
+      "company": "Ｇ－令和ＡＨ",
+      "title": "通期業績予想及び期末配当予想の修正に関するお知らせ",
+      "time": "11:30",
+      "file_id": "091220260318584117",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260318584117.zip",
+      "github_path": "XBRL/20260318/296A_G－令和AH_通期業績予想及び期末配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6459",
+      "company": "大和冷機",
+      "title": "（再訂正・数値データの再訂正）「2025年12月期 決算短信〔日本基準〕（非連結）」の一部訂正について",
+      "time": "10:30",
+      "file_id": "081220260313581093",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260313581093.zip",
+      "github_path": "XBRL/20260318/6459_大和冷機_（再訂正・数値データの再訂正）「2025年12月期 決算短信〔日本基準〕（非連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
