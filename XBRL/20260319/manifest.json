@@ -1,0 +1,357 @@
+{
+  "date": "20260319",
+  "folder": "20260319",
+  "root": "XBRL/20260319/",
+  "items": [
+    {
+      "ticker": "3989",
+      "company": "Ｇ－シェアリングＴ",
+      "title": "（数値データ訂正）「事業譲渡および業績予想の修正に関するお知らせ」における数値データ（XBRL）の一部訂正について",
+      "time": "19:50",
+      "file_id": "091220260319585838",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260319585838.zip",
+      "github_path": "XBRL/20260319/3989_G－シェアリングT_（数値データ訂正）「事業譲渡および業績予想の修正に関するお知らせ」における数値データ（XBRL）の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9327",
+      "company": "イー・ロジット",
+      "title": "通期業績予想の修正に関するお知らせ",
+      "time": "18:30",
+      "file_id": "091220260311580096",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260311580096.zip",
+      "github_path": "XBRL/20260319/9327_イー・ロジット_通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "365A",
+      "company": "伊澤タオル",
+      "title": "（数値データ訂正）「通期業績予想および配当予想の修正（増配）に関するお知らせ」における数値データ（XBRL）の一部訂正について",
+      "time": "18:00",
+      "file_id": "091220260319585735",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260319585735.zip",
+      "github_path": "XBRL/20260319/365A_伊澤タオル_（数値データ訂正）「通期業績予想および配当予想の修正（増配）に関するお知らせ」における数値データ（XBRL）の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9449",
+      "company": "ＧＭＯ",
+      "title": "2025年12月期決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "17:01",
+      "file_id": "081220260319584962",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260319584962.zip",
+      "github_path": "XBRL/20260319/9449_GMO_2025年12月期決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2796",
+      "company": "ファーマライズＨＤ",
+      "title": "令和８年５月期第３四半期決算短信〔日本基準〕（連結）",
+      "time": "17:00",
+      "file_id": "081220260319585341",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260319585341.zip",
+      "github_path": "XBRL/20260319/2796_ファーマライズHD_令和8年5月期第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4554",
+      "company": "富士製薬",
+      "title": "2026年９月期（第62期）中間配当予想の修正に関するお知らせ",
+      "time": "16:30",
+      "file_id": "091220260317583865",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260317583865.zip",
+      "github_path": "XBRL/20260319/4554_富士製薬_2026年9月期（第62期）中間配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8707",
+      "company": "岩井コスモ",
+      "title": "2026年3月期の期末配当予定に関するお知らせ",
+      "time": "16:30",
+      "file_id": "091220260319585081",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260319585081.zip",
+      "github_path": "XBRL/20260319/8707_岩井コスモ_2026年3月期の期末配当予定に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2162",
+      "company": "ｎｍｓ ＨＤ",
+      "title": "2026年３月期連結会計年度における特別損失の計上、通期業績予想及び配当予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260319585050",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260319585050.zip",
+      "github_path": "XBRL/20260319/2162_nms HD_2026年3月期連結会計年度における特別損失の計上、通期業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2676",
+      "company": "高千穂交",
+      "title": "通期業績予想及び期末配当予想の修正ならびに特別損失の計上に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260318584885",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260318584885.zip",
+      "github_path": "XBRL/20260319/2676_高千穂交_通期業績予想及び期末配当予想の修正ならびに特別損失の計上に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3989",
+      "company": "Ｇ－シェアリングＴ",
+      "title": "事業譲渡および業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260319585601",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260319585601.zip",
+      "github_path": "XBRL/20260319/3989_G－シェアリングT_事業譲渡および業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6246",
+      "company": "テクノスマート",
+      "title": "配当予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260318584109",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260318584109.zip",
+      "github_path": "XBRL/20260319/6246_テクノスマート_配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6425",
+      "company": "ユニバーサル",
+      "title": "（訂正・数値データ訂正）「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260319585587",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260319585587.zip",
+      "github_path": "XBRL/20260319/6425_ユニバーサル_（訂正・数値データ訂正）「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9343",
+      "company": "Ｇ－アイビス",
+      "title": "（訂正・数値データ訂正）「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "081220260318584841",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260318584841.zip",
+      "github_path": "XBRL/20260319/9343_G－アイビス_（訂正・数値データ訂正）「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3252",
+      "company": "地主",
+      "title": "（訂正・数値データ訂正）「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正のお知らせ",
+      "time": "15:30",
+      "file_id": "081220260318584815",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260318584815.zip",
+      "github_path": "XBRL/20260319/3252_地主_（訂正・数値データ訂正）「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正のお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3321",
+      "company": "ミタチ",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260319584937",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260319584937.zip",
+      "github_path": "XBRL/20260319/3321_ミタチ_業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3544",
+      "company": "サツドラＨＤ",
+      "title": "2026年５月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260319584997",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260319584997.zip",
+      "github_path": "XBRL/20260319/3544_サツドラHD_2026年5月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "365A",
+      "company": "伊澤タオル",
+      "title": "通期業績予想および配当予想の修正（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260318584072",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260318584072.zip",
+      "github_path": "XBRL/20260319/365A_伊澤タオル_通期業績予想および配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3765",
+      "company": "ガンホー",
+      "title": "（訂正・数値データ訂正）2025年12月期 決算短信〔日本基準〕 (連結)の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260317583379",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260317583379.zip",
+      "github_path": "XBRL/20260319/3765_ガンホー_（訂正・数値データ訂正）2025年12月期 決算短信〔日本基準〕 (連結)の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3977",
+      "company": "Ａ－フュージョン",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260316582507",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260316582507.zip",
+      "github_path": "XBRL/20260319/3977_A－フュージョン_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4596",
+      "company": "Ｇ－窪田製薬ＨＤ",
+      "title": "（訂正・数値データの修正）「2025 年12 月期 決算短信〔ＩＦＲＳ〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260319585558",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260319585558.zip",
+      "github_path": "XBRL/20260319/4596_G－窪田製薬HD_（訂正・数値データの修正）「2025 年12 月期 決算短信〔IFRS〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6094",
+      "company": "Ｇ－フリークアウト",
+      "title": "投資有価証券の売却及び業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260319585334",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260319585334.zip",
+      "github_path": "XBRL/20260319/6094_G－フリークアウト_投資有価証券の売却及び業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6533",
+      "company": "オーケストラＨＤ",
+      "title": "（訂正・数値データ訂正）「2025年12月期決算短信〔ＩＦＲＳ〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260319585125",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260319585125.zip",
+      "github_path": "XBRL/20260319/6533_オーケストラHD_（訂正・数値データ訂正）「2025年12月期決算短信〔IFRS〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6619",
+      "company": "ＷＳＣＯＰＥ",
+      "title": "2026年１月期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260319585267",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260319585267.zip",
+      "github_path": "XBRL/20260319/6619_WSCOPE_2026年1月期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6844",
+      "company": "新電元",
+      "title": "業績予想および配当予想の修正（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260318584610",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260318584610.zip",
+      "github_path": "XBRL/20260319/6844_新電元_業績予想および配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7822",
+      "company": "永大産業",
+      "title": "特別損失（連結子会社における減損損失）の計上、業績予想の修正及び財務制限条項抵触の見込みに関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260317583161",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260317583161.zip",
+      "github_path": "XBRL/20260319/7822_永大産業_特別損失（連結子会社における減損損失）の計上、業績予想の修正及び財務制限条項抵触の見込みに関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8359",
+      "company": "八十二長野銀行",
+      "title": "通期業績予想の修正および期末配当予想の修正（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260317583113",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260317583113.zip",
+      "github_path": "XBRL/20260319/8359_八十二長野銀行_通期業績予想の修正および期末配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9160",
+      "company": "ノバレーゼ",
+      "title": "（訂正・数値データ訂正）「2025年12月期 決算短信〔IFRS〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260319585002",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260319585002.zip",
+      "github_path": "XBRL/20260319/9160_ノバレーゼ_（訂正・数値データ訂正）「2025年12月期 決算短信〔IFRS〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9404",
+      "company": "日テレＨＤ",
+      "title": "通期連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260313581936",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260313581936.zip",
+      "github_path": "XBRL/20260319/9404_日テレHD_通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6473",
+      "company": "ジェイテクト",
+      "title": "その他の費用(連結決算)、営業外費用及び特別損失(個別決算)の計上見込み並びに業績予想の修正に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220260319584996",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260319584996.zip",
+      "github_path": "XBRL/20260319/6473_ジェイテクト_その他の費用(連結決算)、営業外費用及び特別損失(個別決算)の計上見込み並びに業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6546",
+      "company": "フルテック",
+      "title": "2025年12月期 決算短信〔日本基準〕(連結)",
+      "time": "15:00",
+      "file_id": "081220260318584927",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260318584927.zip",
+      "github_path": "XBRL/20260319/6546_フルテック_2025年12月期 決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4341",
+      "company": "西菱電機",
+      "title": "通期連結業績予想および期末配当予想の修正（増配）並びに通期個別業績予想の公表に関するお知らせ",
+      "time": "14:30",
+      "file_id": "091220260317583685",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260317583685.zip",
+      "github_path": "XBRL/20260319/4341_西菱電機_通期連結業績予想および期末配当予想の修正（増配）並びに通期個別業績予想の公表に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9888",
+      "company": "ＵＥＸ",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "time": "14:30",
+      "file_id": "091220260318584022",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260318584022.zip",
+      "github_path": "XBRL/20260319/9888_UEX_業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4222",
+      "company": "児玉化",
+      "title": "2026年3月期（第99期）配当予想の修正に関するお知らせ",
+      "time": "12:00",
+      "file_id": "091220260318584666",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260318584666.zip",
+      "github_path": "XBRL/20260319/4222_児玉化_2026年3月期（第99期）配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6925",
+      "company": "ウシオ電",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "12:00",
+      "file_id": "091220260318584844",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260318584844.zip",
+      "github_path": "XBRL/20260319/6925_ウシオ電_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1852",
+      "company": "浅沼組",
+      "title": "配当予想の修正（増配）に関するお知らせ",
+      "time": "11:30",
+      "file_id": "091220260319585021",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260319585021.zip",
+      "github_path": "XBRL/20260319/1852_浅沼組_配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
