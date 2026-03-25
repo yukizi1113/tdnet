@@ -1,0 +1,227 @@
+{
+  "date": "20260323",
+  "folder": "20260323",
+  "root": "XBRL/20260323/",
+  "items": [
+    {
+      "ticker": "5986",
+      "company": "モリテック",
+      "title": "特別利益（投資有価証券売却益）の計上及び通期連結業績予想の修正に関するお知らせ",
+      "time": "18:00",
+      "file_id": "091220260318584272",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260318584272.zip",
+      "github_path": "XBRL/20260323/5986_モリテック_特別利益（投資有価証券売却益）の計上及び通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9127",
+      "company": "玉井商船",
+      "title": "特別利益（投資有価証券売却益）の計上見込み及び通期業績予想の修正に関するお知らせ",
+      "time": "17:20",
+      "file_id": "091220260323586593",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260323586593.zip",
+      "github_path": "XBRL/20260323/9127_玉井商船_特別利益（投資有価証券売却益）の計上見込み及び通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8844",
+      "company": "コスモスイニシア",
+      "title": "2026年３月期業績予想・配当予想の修正（増配）に関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220260323586047",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260323586047.zip",
+      "github_path": "XBRL/20260323/8844_コスモスイニシア_2026年3月期業績予想・配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5334",
+      "company": "日特殊陶",
+      "title": "業績予想の修正及び配当予想の修正に関するお知らせ",
+      "time": "16:30",
+      "file_id": "091220260323586124",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260323586124.zip",
+      "github_path": "XBRL/20260323/5334_日特殊陶_業績予想の修正及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6430",
+      "company": "ダイコク電",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "16:30",
+      "file_id": "091220260323586624",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260323586624.zip",
+      "github_path": "XBRL/20260323/6430_ダイコク電_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2425",
+      "company": "ケアサービス",
+      "title": "通期業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260319585512",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260319585512.zip",
+      "github_path": "XBRL/20260323/2425_ケアサービス_通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2993",
+      "company": "長栄",
+      "title": "配当予想の修正に関するお知らせ",
+      "time": "15:31",
+      "file_id": "091220260318584701",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260318584701.zip",
+      "github_path": "XBRL/20260323/2993_長栄_配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3160",
+      "company": "大光",
+      "title": "2026年5月期 第3四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260319585527",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260319585527.zip",
+      "github_path": "XBRL/20260323/3160_大光_2026年5月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4662",
+      "company": "フォーカスシステムズ",
+      "title": "配当予想の修正（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260323586665",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260323586665.zip",
+      "github_path": "XBRL/20260323/4662_フォーカスシステムズ_配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6266",
+      "company": "タツモ",
+      "title": "（訂正・数値データ訂正）「2025年12月期決算短信〔日本基準〕（連結）」",
+      "time": "15:30",
+      "file_id": "081220260318584508",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260318584508.zip",
+      "github_path": "XBRL/20260323/6266_タツモ_（訂正・数値データ訂正）「2025年12月期決算短信〔日本基準〕（連結）」__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7894",
+      "company": "丸東産",
+      "title": "2026年２月期業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260317583212",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260317583212.zip",
+      "github_path": "XBRL/20260323/7894_丸東産_2026年2月期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8700",
+      "company": "丸八証券",
+      "title": "2026年３月期 配当予想に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260319585463",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260319585463.zip",
+      "github_path": "XBRL/20260323/8700_丸八証券_2026年3月期 配当予想に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8708",
+      "company": "アイザワ証Ｇ",
+      "title": "2026年３月期の期末配当（普通配当及び特別配当）予定に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260323586390",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260323586390.zip",
+      "github_path": "XBRL/20260323/8708_アイザワ証G_2026年3月期の期末配当（普通配当及び特別配当）予定に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7461",
+      "company": "キムラ",
+      "title": "通期連結業績予想の修正に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220260323586534",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260323586534.zip",
+      "github_path": "XBRL/20260323/7461_キムラ_通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8622",
+      "company": "水戸証",
+      "title": "(訂正・数値データ訂正)「2025年３月期決算短信〔日本基準］（非連結）」の一部訂正について",
+      "time": "15:00",
+      "file_id": "081220260323586432",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260323586432.zip",
+      "github_path": "XBRL/20260323/8622_水戸証_(訂正・数値データ訂正)「2025年3月期決算短信〔日本基準］（非連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9742",
+      "company": "アイネス",
+      "title": "減損損失の計上ならびに業績予想および期末配当予想の修正に関するお知らせ",
+      "time": "14:50",
+      "file_id": "091220260318584774",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260318584774.zip",
+      "github_path": "XBRL/20260323/9742_アイネス_減損損失の計上ならびに業績予想および期末配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2737",
+      "company": "トーメンデバ",
+      "title": "業績予想および配当予想の修正（増配）に関するお知らせ",
+      "time": "13:00",
+      "file_id": "091220260321585917",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260321585917.zip",
+      "github_path": "XBRL/20260323/2737_トーメンデバ_業績予想および配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6905",
+      "company": "コーセル",
+      "title": "2026年５月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "11:30",
+      "file_id": "081220260319585596",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260319585596.zip",
+      "github_path": "XBRL/20260323/6905_コーセル_2026年5月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1921",
+      "company": "巴",
+      "title": "配当予想の修正に関するお知らせ",
+      "time": "11:00",
+      "file_id": "091220260316582938",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260316582938.zip",
+      "github_path": "XBRL/20260323/1921_巴_配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7213",
+      "company": "レシップＨＤ",
+      "title": "配当予想の修正（増配）に関するお知らせ",
+      "time": "10:00",
+      "file_id": "091220260318584871",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260318584871.zip",
+      "github_path": "XBRL/20260323/7213_レシップHD_配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7915",
+      "company": "ＮＩＳＳＨＡ",
+      "title": "(訂正・数値データ訂正)「2025年12月期 決算短信〔ＩＦＲＳ〕（連結）」の一部訂正について",
+      "time": "10:00",
+      "file_id": "081220260318584756",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260318584756.zip",
+      "github_path": "XBRL/20260323/7915_NISSHA_(訂正・数値データ訂正)「2025年12月期 決算短信〔IFRS〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6901",
+      "company": "沢藤電",
+      "title": "特別損失（公開買付関連費用）の計上及び業績予想の修正に関するお知らせ",
+      "time": "09:00",
+      "file_id": "091220260320585927",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260320585927.zip",
+      "github_path": "XBRL/20260323/6901_沢藤電_特別損失（公開買付関連費用）の計上及び業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
