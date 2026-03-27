@@ -1,0 +1,3517 @@
+{
+  "date": "20260326",
+  "folder": "20260326",
+  "root": "tekigikaizi/20260326/",
+  "items": [
+    {
+      "ticker": "7886",
+      "company": "ヤマトモビＭｆｇ",
+      "title": "持分法適用関連会社の異動（株式譲渡）及び特別損失の計上に関するお知らせ",
+      "time": "19:10",
+      "file_id": "140120260326590235",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590235.pdf",
+      "github_path": "tekigikaizi/20260326/7886_ヤマトモビMfg_持分法適用関連会社の異動（株式譲渡）及び特別損失の計上に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6503",
+      "company": "三菱電",
+      "title": "3月26日付の一部の報道について",
+      "time": "18:55",
+      "file_id": "140120260326590516",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590516.pdf",
+      "github_path": "tekigikaizi/20260326/6503_三菱電_3月26日付の一部の報道について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6078",
+      "company": "バリューＨＲ",
+      "title": "募集新株予約権（有償ストック・オプション）の発行に関するお知らせ",
+      "time": "18:45",
+      "file_id": "140120260326590508",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590508.pdf",
+      "github_path": "tekigikaizi/20260326/6078_バリューHR_募集新株予約権（有償ストック・オプション）の発行に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7613",
+      "company": "シークス",
+      "title": "（訂正）「支配株主等に関する事項について」の一部訂正について",
+      "time": "18:45",
+      "file_id": "140120260326590465",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590465.pdf",
+      "github_path": "tekigikaizi/20260326/7613_シークス_（訂正）「支配株主等に関する事項について」の一部訂正について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1447",
+      "company": "Ｇ－ＳＡＡＦＨＤ",
+      "title": "（開示事項の経過）株式会社Schooの株式取得に関するお知らせ",
+      "time": "18:30",
+      "file_id": "140120260326590491",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590491.pdf",
+      "github_path": "tekigikaizi/20260326/1447_G－SAAFHD_（開示事項の経過）株式会社Schooの株式取得に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4192",
+      "company": "Ｇ－スパイダープラス",
+      "title": "支配株主等に関する事項について",
+      "time": "18:30",
+      "file_id": "140120260326589624",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589624.pdf",
+      "github_path": "tekigikaizi/20260326/4192_G－スパイダープラス_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4202",
+      "company": "ダイセル",
+      "title": "特別損失の計上および通期業績予想の修正に関するお知らせ",
+      "time": "18:30",
+      "file_id": "140120260325588299",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588299.pdf",
+      "github_path": "tekigikaizi/20260326/4202_ダイセル_特別損失の計上および通期業績予想の修正に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7148",
+      "company": "ＦＰＧ",
+      "title": "2026年9月期業績予想及び配当予想の修正に関するお知らせ",
+      "time": "18:30",
+      "file_id": "140120260325588169",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588169.pdf",
+      "github_path": "tekigikaizi/20260326/7148_FPG_2026年9月期業績予想及び配当予想の修正に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7148",
+      "company": "ＦＰＧ",
+      "title": "（開示事項の経過）今後の税制改正を踏まえた当社の対応について",
+      "time": "18:30",
+      "file_id": "140120260326590291",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590291.pdf",
+      "github_path": "tekigikaizi/20260326/7148_FPG_（開示事項の経過）今後の税制改正を踏まえた当社の対応について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7245",
+      "company": "大同メタル",
+      "title": "（訂正）役員の体制及び執行役員の異動に関するお知らせ",
+      "time": "18:10",
+      "file_id": "140120260326590405",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590405.pdf",
+      "github_path": "tekigikaizi/20260326/7245_大同メタル_（訂正）役員の体制及び執行役員の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3647",
+      "company": "アスリナ",
+      "title": "連結業績予想の公表に関するお知らせ",
+      "time": "17:45",
+      "file_id": "140120260326589630",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589630.pdf",
+      "github_path": "tekigikaizi/20260326/3647_アスリナ_連結業績予想の公表に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7389",
+      "company": "あいちＦＧ",
+      "title": "業績予想の修正及び配当予想の修正（増配）に関するお知らせ",
+      "time": "17:45",
+      "file_id": "140120260319585119",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260319585119.pdf",
+      "github_path": "tekigikaizi/20260326/7389_あいちFG_業績予想の修正及び配当予想の修正（増配）に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1447",
+      "company": "Ｇ－ＳＡＡＦＨＤ",
+      "title": "株主による臨時株主総会招集のための基準日設定に関するお知らせ",
+      "time": "17:30",
+      "file_id": "140120260326590354",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590354.pdf",
+      "github_path": "tekigikaizi/20260326/1447_G－SAAFHD_株主による臨時株主総会招集のための基準日設定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4840",
+      "company": "トライアイズ",
+      "title": "第17回新株予約権（行使価額修正条項付）の大量行使状況に関するお知らせ",
+      "time": "17:30",
+      "file_id": "140120260326590398",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590398.pdf",
+      "github_path": "tekigikaizi/20260326/4840_トライアイズ_第17回新株予約権（行使価額修正条項付）の大量行使状況に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4902",
+      "company": "コニカミノルタ",
+      "title": "執行役に対する役員報酬制度の改定に関するお知らせ",
+      "time": "17:30",
+      "file_id": "140120260326589694",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589694.pdf",
+      "github_path": "tekigikaizi/20260326/4902_コニカミノルタ_執行役に対する役員報酬制度の改定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7073",
+      "company": "Ｇ－ジェイック",
+      "title": "剰余金の配当に関するお知らせ",
+      "time": "17:10",
+      "file_id": "140120260326590355",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590355.pdf",
+      "github_path": "tekigikaizi/20260326/7073_G－ジェイック_剰余金の配当に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7073",
+      "company": "Ｇ－ジェイック",
+      "title": "取締役候補者及び監査役候補者の選任に関するお知らせ",
+      "time": "17:10",
+      "file_id": "140120260326590362",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590362.pdf",
+      "github_path": "tekigikaizi/20260326/7073_G－ジェイック_取締役候補者及び監査役候補者の選任に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4641",
+      "company": "アルプス技",
+      "title": "譲渡制限付株式報酬としての自己株式処分に関するお知らせ",
+      "time": "17:05",
+      "file_id": "140120260326590358",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590358.pdf",
+      "github_path": "tekigikaizi/20260326/4641_アルプス技_譲渡制限付株式報酬としての自己株式処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8789",
+      "company": "フィンテック",
+      "title": "子会社の異動（株式譲渡）並びに特別利益及び特別損失の計上に関するお知らせ",
+      "time": "17:05",
+      "file_id": "140120260325588846",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588846.pdf",
+      "github_path": "tekigikaizi/20260326/8789_フィンテック_子会社の異動（株式譲渡）並びに特別利益及び特別損失の計上に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8789",
+      "company": "フィンテック",
+      "title": "子会社（メッツァ２号投資事業有限責任組合）の解散に関するお知らせ",
+      "time": "17:05",
+      "file_id": "140120260326589730",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589730.pdf",
+      "github_path": "tekigikaizi/20260326/8789_フィンテック_子会社（メッツァ2号投資事業有限責任組合）の解散に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7177",
+      "company": "ＧＭＯＦＨＤ",
+      "title": "当社及び連結子会社における財務上の特約が付されたコミットメントライン契約に基づく資金の借入に関するお知らせ",
+      "time": "17:01",
+      "file_id": "140120260326590169",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590169.pdf",
+      "github_path": "tekigikaizi/20260326/7177_GMOFHD_当社及び連結子会社における財務上の特約が付されたコミットメントライン契約に基づく資金の借入に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2692",
+      "company": "伊藤忠食",
+      "title": "（変更）「親会社である伊藤忠商事株式会社の子会社である合同会社FMDIによる当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の変更",
+      "time": "17:00",
+      "file_id": "140120260326589773",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589773.pdf",
+      "github_path": "tekigikaizi/20260326/2692_伊藤忠食_（変更）「親会社である伊藤忠商事株式会社の子会社である合同会社FMDIによる当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の変更.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3405",
+      "company": "クラレ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "time": "17:00",
+      "file_id": "140120260326590165",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590165.pdf",
+      "github_path": "tekigikaizi/20260326/3405_クラレ_譲渡制限付株式報酬としての自己株式の処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4015",
+      "company": "Ｇ－ペイクラウドＨＤ",
+      "title": "2026年2月 月次業績報告",
+      "time": "17:00",
+      "file_id": "140120260326589656",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589656.pdf",
+      "github_path": "tekigikaizi/20260326/4015_G－ペイクラウドHD_2026年2月 月次業績報告.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4255",
+      "company": "Ｇ－ＴＨＥＣＯＯ",
+      "title": "取締役に対する譲渡制限付株式報酬としての新株式発行に関するお知らせ",
+      "time": "17:00",
+      "file_id": "140120260326589795",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589795.pdf",
+      "github_path": "tekigikaizi/20260326/4255_G－THECOO_取締役に対する譲渡制限付株式報酬としての新株式発行に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4519",
+      "company": "中外薬",
+      "title": "投資単位の引下げに関する考え方及び方針等について",
+      "time": "17:00",
+      "file_id": "140120260326589480",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589480.pdf",
+      "github_path": "tekigikaizi/20260326/4519_中外薬_投資単位の引下げに関する考え方及び方針等について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4523",
+      "company": "エーザイ",
+      "title": "取締役候補者の選任に関するお知らせ",
+      "time": "17:00",
+      "file_id": "140120260326590262",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590262.pdf",
+      "github_path": "tekigikaizi/20260326/4523_エーザイ_取締役候補者の選任に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4615",
+      "company": "神東塗料",
+      "title": "2026～2029 年度中期経営計画策定について",
+      "time": "17:00",
+      "file_id": "140120260324587396",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587396.pdf",
+      "github_path": "tekigikaizi/20260326/4615_神東塗料_2026～2029 年度中期経営計画策定について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4633",
+      "company": "サカタインクス",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "time": "17:00",
+      "file_id": "140120260326589963",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589963.pdf",
+      "github_path": "tekigikaizi/20260326/4633_サカタインクス_譲渡制限付株式報酬としての自己株式の処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "471A",
+      "company": "ＮＳグループ",
+      "title": "当社執行役員人事に関するお知らせ",
+      "time": "17:00",
+      "file_id": "140120260324587460",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587460.pdf",
+      "github_path": "tekigikaizi/20260326/471A_NSグループ_当社執行役員人事に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5028",
+      "company": "Ｇ－セカンドサイト",
+      "title": "事業計画及び成長可能性に関する事項",
+      "time": "17:00",
+      "file_id": "140120260326590044",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590044.pdf",
+      "github_path": "tekigikaizi/20260326/5028_G－セカンドサイト_事業計画及び成長可能性に関する事項.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6239",
+      "company": "ナガオカ",
+      "title": "子会社による大口受注に関するお知らせ",
+      "time": "17:00",
+      "file_id": "140120260326589863",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589863.pdf",
+      "github_path": "tekigikaizi/20260326/6239_ナガオカ_子会社による大口受注に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6273",
+      "company": "ＳＭＣ",
+      "title": "連結子会社からの配当金受領に関するお知らせ",
+      "time": "17:00",
+      "file_id": "140120260326589790",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589790.pdf",
+      "github_path": "tekigikaizi/20260326/6273_SMC_連結子会社からの配当金受領に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6703",
+      "company": "ＯＫＩ",
+      "title": "会社分割（簡易吸収分割）を伴う株式会社日立製作所との事業統合契約等の締結 ならびに連結子会社の異動（取得）に関するお知らせ",
+      "time": "17:00",
+      "file_id": "140120260326589450",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589450.pdf",
+      "github_path": "tekigikaizi/20260326/6703_OKI_会社分割（簡易吸収分割）を伴う株式会社日立製作所との事業統合契約等の締結 ならびに連結子会社の異動（取得）に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6744",
+      "company": "能美防災",
+      "title": "資格不正取得に関する再発防止策の策定および進捗状況のご報告",
+      "time": "17:00",
+      "file_id": "140120260323586722",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260323586722.pdf",
+      "github_path": "tekigikaizi/20260326/6744_能美防災_資格不正取得に関する再発防止策の策定および進捗状況のご報告.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7314",
+      "company": "小田原機",
+      "title": "譲渡制限付株式報酬としての新株式の発行に関するお知らせ",
+      "time": "17:00",
+      "file_id": "140120260326590343",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590343.pdf",
+      "github_path": "tekigikaizi/20260326/7314_小田原機_譲渡制限付株式報酬としての新株式の発行に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7482",
+      "company": "シモジマ",
+      "title": "（訂正）「監査等委員会設置会社移行後の役員人事に関するお知らせ」の一部訂正について",
+      "time": "17:00",
+      "file_id": "140120260326590329",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590329.pdf",
+      "github_path": "tekigikaizi/20260326/7482_シモジマ_（訂正）「監査等委員会設置会社移行後の役員人事に関するお知らせ」の一部訂正について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7613",
+      "company": "シークス",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "time": "17:00",
+      "file_id": "140120260325588241",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588241.pdf",
+      "github_path": "tekigikaizi/20260326/7613_シークス_譲渡制限付株式報酬としての自己株式の処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7613",
+      "company": "シークス",
+      "title": "支配株主等に関する事項について",
+      "time": "17:00",
+      "file_id": "140120260325588229",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588229.pdf",
+      "github_path": "tekigikaizi/20260326/7613_シークス_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7790",
+      "company": "バルコス",
+      "title": "支配株主等に関する事項",
+      "time": "17:00",
+      "file_id": "140120260326590364",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590364.pdf",
+      "github_path": "tekigikaizi/20260326/7790_バルコス_支配株主等に関する事項.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7790",
+      "company": "バルコス",
+      "title": "シンジケートローン契約締結に関するお知らせ",
+      "time": "17:00",
+      "file_id": "140120260326590377",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590377.pdf",
+      "github_path": "tekigikaizi/20260326/7790_バルコス_シンジケートローン契約締結に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8609",
+      "company": "岡三",
+      "title": "株主還元方針の強化に伴う特別配当および普通配当の増額を含む期末配当予定（2026年3月期）に関するお知らせ",
+      "time": "17:00",
+      "file_id": "140120260326590240",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590240.pdf",
+      "github_path": "tekigikaizi/20260326/8609_岡三_株主還元方針の強化に伴う特別配当および普通配当の増額を含む期末配当予定（2026年3月期）に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9308",
+      "company": "乾汽船",
+      "title": "「中期経営計画 あしたも元気」策定に関するお知らせ",
+      "time": "17:00",
+      "file_id": "140120260323586974",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260323586974.pdf",
+      "github_path": "tekigikaizi/20260326/9308_乾汽船_「中期経営計画 あしたも元気」策定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9308",
+      "company": "乾汽船",
+      "title": "特別損失（減損損失）の計上並びに2026年３月期連結業績予想及び配当予想の修正に関するお知らせ",
+      "time": "17:00",
+      "file_id": "140120260324587689",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587689.pdf",
+      "github_path": "tekigikaizi/20260326/9308_乾汽船_特別損失（減損損失）の計上並びに2026年3月期連結業績予想及び配当予想の修正に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6282",
+      "company": "オイレス工",
+      "title": "（訂正）「代表取締役の異動及び役員等の異動に関するお知らせ」の一部訂正について",
+      "time": "16:50",
+      "file_id": "140120260326590312",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590312.pdf",
+      "github_path": "tekigikaizi/20260326/6282_オイレス工_（訂正）「代表取締役の異動及び役員等の異動に関するお知らせ」の一部訂正について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6235",
+      "company": "オプトラン",
+      "title": "譲渡制限付株式報酬としての自己株式の処分及び業績条件型譲渡制限付株式の無償取得に関するお知らせ",
+      "time": "16:45",
+      "file_id": "140120260326590307",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590307.pdf",
+      "github_path": "tekigikaizi/20260326/6235_オプトラン_譲渡制限付株式報酬としての自己株式の処分及び業績条件型譲渡制限付株式の無償取得に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3137",
+      "company": "Ｇ－ファンデリー",
+      "title": "東京証券取引所スタンダード市場への市場区分変更承認に関するお知らせ",
+      "time": "16:30",
+      "file_id": "140120260325589294",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589294.pdf",
+      "github_path": "tekigikaizi/20260326/3137_G－ファンデリー_東京証券取引所スタンダード市場への市場区分変更承認に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3175",
+      "company": "ＡＰＨＤ",
+      "title": "第三者割当により発行された第５回及び第６回新株予約権の停止期間の変更に関するお知らせ",
+      "time": "16:30",
+      "file_id": "140120260326590283",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590283.pdf",
+      "github_path": "tekigikaizi/20260326/3175_APHD_第三者割当により発行された第5回及び第6回新株予約権の停止期間の変更に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3175",
+      "company": "ＡＰＨＤ",
+      "title": "（開示事項の経過・中止）海外子会社の異動を伴う株式の譲渡（売却）の中止に関するお知らせ",
+      "time": "16:30",
+      "file_id": "140120260326590294",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590294.pdf",
+      "github_path": "tekigikaizi/20260326/3175_APHD_（開示事項の経過・中止）海外子会社の異動を伴う株式の譲渡（売却）の中止に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "319A",
+      "company": "Ｇ－技術承継機構",
+      "title": "ストック・オプション（新株予約権）並びに募集新株予約権（有償ストック・オプション）の発行内容確定に関するお知らせ",
+      "time": "16:30",
+      "file_id": "140120260326590221",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590221.pdf",
+      "github_path": "tekigikaizi/20260326/319A_G－技術承継機構_ストック・オプション（新株予約権）並びに募集新株予約権（有償ストック・オプション）の発行内容確定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3350",
+      "company": "メタプラネット",
+      "title": "執行役の選任に関するお知らせ",
+      "time": "16:30",
+      "file_id": "140120260326589844",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589844.pdf",
+      "github_path": "tekigikaizi/20260326/3350_メタプラネット_執行役の選任に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3350",
+      "company": "メタプラネット",
+      "title": "B種優先株式に係る剰余金の配当に関するお知らせ",
+      "time": "16:30",
+      "file_id": "140120260326589855",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589855.pdf",
+      "github_path": "tekigikaizi/20260326/3350_メタプラネット_B種優先株式に係る剰余金の配当に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3350",
+      "company": "メタプラネット",
+      "title": "公益財団法人財務会計基準機構への加入状況及び加入に関する考え方等に関するお知らせ",
+      "time": "16:30",
+      "file_id": "140120260326589846",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589846.pdf",
+      "github_path": "tekigikaizi/20260326/3350_メタプラネット_公益財団法人財務会計基準機構への加入状況及び加入に関する考え方等に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3350",
+      "company": "メタプラネット",
+      "title": "定時株主総会の決議結果に関するお知らせ",
+      "time": "16:30",
+      "file_id": "140120260326589850",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589850.pdf",
+      "github_path": "tekigikaizi/20260326/3350_メタプラネット_定時株主総会の決議結果に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3659",
+      "company": "ネクソン",
+      "title": "支配株主等に関する事項について",
+      "time": "16:30",
+      "file_id": "140120260325589147",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589147.pdf",
+      "github_path": "tekigikaizi/20260326/3659_ネクソン_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3777",
+      "company": "Ｇ－環境フレンドリー",
+      "title": "（開示事項の経過）ＥＦ－ＢＥＳＳ１号への匿名組合出資のお知らせ",
+      "time": "16:30",
+      "file_id": "140120260326590290",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590290.pdf",
+      "github_path": "tekigikaizi/20260326/3777_G－環境フレンドリー_（開示事項の経過）EF－BESS1号への匿名組合出資のお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3840",
+      "company": "ＰＡＴＨ",
+      "title": "連結子会社の解散及び清算並びに事業の廃止とそれに伴う特別損失の発生に関するお知らせ",
+      "time": "16:30",
+      "file_id": "140120260326590186",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590186.pdf",
+      "github_path": "tekigikaizi/20260326/3840_PATH_連結子会社の解散及び清算並びに事業の廃止とそれに伴う特別損失の発生に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3911",
+      "company": "Ｇ－Ａｉｍｉｎｇ",
+      "title": "当社取締役会の実効性に関する評価結果の概要について",
+      "time": "16:30",
+      "file_id": "140120260326590280",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590280.pdf",
+      "github_path": "tekigikaizi/20260326/3911_G－Aiming_当社取締役会の実効性に関する評価結果の概要について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8001",
+      "company": "伊藤忠",
+      "title": "「伊藤忠食品株式会社の株式（証券コード：2692）に対する公開買付けの開始に関するお知らせ」の変更に関するお知らせ",
+      "time": "16:30",
+      "file_id": "140120260326590172",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590172.pdf",
+      "github_path": "tekigikaizi/20260326/8001_伊藤忠_「伊藤忠食品株式会社の株式（証券コード：2692）に対する公開買付けの開始に関するお知らせ」の変更に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8616",
+      "company": "東海東京",
+      "title": "（訂正）東海東京証券 代表取締役の異動に関するお知らせ",
+      "time": "16:30",
+      "file_id": "140120260326590212",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590212.pdf",
+      "github_path": "tekigikaizi/20260326/8616_東海東京_（訂正）東海東京証券 代表取締役の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8746",
+      "company": "ｕｎｂａｎｋｅｄ",
+      "title": "第三者割当により発行される新株式及び第３回新株予約権の募集、並びに主要株主の異動に関するお知らせ",
+      "time": "16:30",
+      "file_id": "140120260326590245",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590245.pdf",
+      "github_path": "tekigikaizi/20260326/8746_unbanked_第三者割当により発行される新株式及び第3回新株予約権の募集、並びに主要株主の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9672",
+      "company": "都競馬",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "time": "16:30",
+      "file_id": "140120260325589187",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589187.pdf",
+      "github_path": "tekigikaizi/20260326/9672_都競馬_譲渡制限付株式報酬としての自己株式の処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9972",
+      "company": "アルテック",
+      "title": "資本コストや株価を意識した経営の実現に向けた対応について（2026年３月アップデート版）",
+      "time": "16:30",
+      "file_id": "140120260326590148",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590148.pdf",
+      "github_path": "tekigikaizi/20260326/9972_アルテック_資本コストや株価を意識した経営の実現に向けた対応について（2026年3月アップデート版）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9972",
+      "company": "アルテック",
+      "title": "財務上の特約が付された金銭消費貸借契約の締結に関するお知らせ",
+      "time": "16:30",
+      "file_id": "140120260326590155",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590155.pdf",
+      "github_path": "tekigikaizi/20260326/9972_アルテック_財務上の特約が付された金銭消費貸借契約の締結に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7619",
+      "company": "田中商事",
+      "title": "従業員持株会に対する譲渡制限付株式としての自己株式処分の払込完了及び一部失権に関するお知らせ",
+      "time": "16:20",
+      "file_id": "140120260326589964",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589964.pdf",
+      "github_path": "tekigikaizi/20260326/7619_田中商事_従業員持株会に対する譲渡制限付株式としての自己株式処分の払込完了及び一部失権に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7779",
+      "company": "Ｇ－サイバダイン－議",
+      "title": "（開示事項の変更）戦略的イノベーション創造プログラム (SIP) 事業に係る委託契約のお知らせ",
+      "time": "16:20",
+      "file_id": "140120260326590279",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590279.pdf",
+      "github_path": "tekigikaizi/20260326/7779_G－サイバダイン－議_（開示事項の変更）戦略的イノベーション創造プログラム (SIP) 事業に係る委託契約のお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "202A",
+      "company": "Ｇ－豆蔵",
+      "title": "Roodhalsgans １株式会社による当社株式に係る売渡請求を行うことの決定、当該株式売渡請求に係る承認及び当社株式の上場廃止に関するお知らせ",
+      "time": "16:15",
+      "file_id": "140120260325589144",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589144.pdf",
+      "github_path": "tekigikaizi/20260326/202A_G－豆蔵_Roodhalsgans 1株式会社による当社株式に係る売渡請求を行うことの決定、当該株式売渡請求に係る承認及び当社株式の上場廃止に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4792",
+      "company": "山田コンサル",
+      "title": "取締役の担当職務変更及び執行役員人事に関するお知らせ",
+      "time": "16:15",
+      "file_id": "140120260326590215",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590215.pdf",
+      "github_path": "tekigikaizi/20260326/4792_山田コンサル_取締役の担当職務変更及び執行役員人事に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4917",
+      "company": "マンダム",
+      "title": "株式併合並びに単元株式数の定めの廃止及び定款の一部変更に関するお知らせ",
+      "time": "16:15",
+      "file_id": "140120260324587779",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587779.pdf",
+      "github_path": "tekigikaizi/20260326/4917_マンダム_株式併合並びに単元株式数の定めの廃止及び定款の一部変更に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4917",
+      "company": "マンダム",
+      "title": "自己株式の消却に関するお知らせ",
+      "time": "16:15",
+      "file_id": "140120260325588247",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588247.pdf",
+      "github_path": "tekigikaizi/20260326/4917_マンダム_自己株式の消却に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4025",
+      "company": "多木化学",
+      "title": "事前交付型譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "time": "16:10",
+      "file_id": "140120260325589241",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589241.pdf",
+      "github_path": "tekigikaizi/20260326/4025_多木化学_事前交付型譲渡制限付株式報酬としての自己株式の処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2134",
+      "company": "キタハマキャピタル",
+      "title": "通期連結業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326590132",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590132.pdf",
+      "github_path": "tekigikaizi/20260326/2134_キタハマキャピタル_通期連結業績予想の修正に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2134",
+      "company": "キタハマキャピタル",
+      "title": "連結子会社の解散、清算及び特別利益の計上に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326590124",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590124.pdf",
+      "github_path": "tekigikaizi/20260326/2134_キタハマキャピタル_連結子会社の解散、清算及び特別利益の計上に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2134",
+      "company": "キタハマキャピタル",
+      "title": "連結子会社による蓄電所開発事業及び太陽光発電開発事業に関する売買契約締結のお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326590113",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590113.pdf",
+      "github_path": "tekigikaizi/20260326/2134_キタハマキャピタル_連結子会社による蓄電所開発事業及び太陽光発電開発事業に関する売買契約締結のお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2195",
+      "company": "Ｇ－アミタＨＤ",
+      "title": "公益財団法人財務会計基準機構への加入状況等に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326590083",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590083.pdf",
+      "github_path": "tekigikaizi/20260326/2195_G－アミタHD_公益財団法人財務会計基準機構への加入状況等に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2195",
+      "company": "Ｇ－アミタＨＤ",
+      "title": "支配株主等に関する事項について",
+      "time": "16:00",
+      "file_id": "140120260326590074",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590074.pdf",
+      "github_path": "tekigikaizi/20260326/2195_G－アミタHD_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2317",
+      "company": "システナ",
+      "title": "役員の異動に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589458",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589458.pdf",
+      "github_path": "tekigikaizi/20260326/2317_システナ_役員の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2317",
+      "company": "システナ",
+      "title": "有償ストック・オプション（新株予約権）の発行に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589459",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589459.pdf",
+      "github_path": "tekigikaizi/20260326/2317_システナ_有償ストック・オプション（新株予約権）の発行に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2667",
+      "company": "イメージワン",
+      "title": "当社と創イノベーション株式会社との簡易株式交換の日程変更に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260323586239",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260323586239.pdf",
+      "github_path": "tekigikaizi/20260326/2667_イメージワン_当社と創イノベーション株式会社との簡易株式交換の日程変更に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2776",
+      "company": "新都ＨＤ",
+      "title": "定款一部変更に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589404",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589404.pdf",
+      "github_path": "tekigikaizi/20260326/2776_新都HD_定款一部変更に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2776",
+      "company": "新都ＨＤ",
+      "title": "資金準備金の額の減少並びに剰余金の処分に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589409",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589409.pdf",
+      "github_path": "tekigikaizi/20260326/2776_新都HD_資金準備金の額の減少並びに剰余金の処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2798",
+      "company": "Ｙ’ｓ",
+      "title": "財務上の特約が付された金銭消費貸借契約の締結及び資金の借入に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589982",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589982.pdf",
+      "github_path": "tekigikaizi/20260326/2798_Y’s_財務上の特約が付された金銭消費貸借契約の締結及び資金の借入に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3053",
+      "company": "ペッパー",
+      "title": "役員人事に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589898",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589898.pdf",
+      "github_path": "tekigikaizi/20260326/3053_ペッパー_役員人事に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3080",
+      "company": "ジェーソン",
+      "title": "特別損失（減損損失等）の計上および業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260324587688",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587688.pdf",
+      "github_path": "tekigikaizi/20260326/3080_ジェーソン_特別損失（減損損失等）の計上および業績予想の修正に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3083",
+      "company": "スターシーズ",
+      "title": "販売用不動産（系統用蓄電所の土地及び設備）並びに電力接続権の取得に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326590184",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590184.pdf",
+      "github_path": "tekigikaizi/20260326/3083_スターシーズ_販売用不動産（系統用蓄電所の土地及び設備）並びに電力接続権の取得に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3266",
+      "company": "ファンドクリＧ",
+      "title": "本社移転に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589746",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589746.pdf",
+      "github_path": "tekigikaizi/20260326/3266_ファンドクリG_本社移転に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3277",
+      "company": "サンセイランディック",
+      "title": "「コーポレートガバナンス・コード各原則への取り組みについて」 の一部改定に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260323586690",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260323586690.pdf",
+      "github_path": "tekigikaizi/20260326/3277_サンセイランディック_「コーポレートガバナンス・コード各原則への取り組みについて」 の一部改定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3591",
+      "company": "ワコールＨＤ",
+      "title": "自己株式の取得終了に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589961",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589961.pdf",
+      "github_path": "tekigikaizi/20260326/3591_ワコールHD_自己株式の取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3914",
+      "company": "Ｇ－ＪＩＧ－ＳＡＷ",
+      "title": "公益財団法人財務会計基準機構への加入状況及び加入に関する考え方等に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260324587411",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587411.pdf",
+      "github_path": "tekigikaizi/20260326/3914_G－JIG－SAW_公益財団法人財務会計基準機構への加入状況及び加入に関する考え方等に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4212",
+      "company": "積水樹脂",
+      "title": "役員人事に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589919",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589919.pdf",
+      "github_path": "tekigikaizi/20260326/4212_積水樹脂_役員人事に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "456A",
+      "company": "Ｇ－ヒューマンメイド",
+      "title": "事業計画及び成長可能性に関する事項",
+      "time": "16:00",
+      "file_id": "140120260326589819",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589819.pdf",
+      "github_path": "tekigikaizi/20260326/456A_G－ヒューマンメイド_事業計画及び成長可能性に関する事項.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "456A",
+      "company": "Ｇ－ヒューマンメイド",
+      "title": "よくある質問と回答（2026年3月）",
+      "time": "16:00",
+      "file_id": "140120260326589835",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589835.pdf",
+      "github_path": "tekigikaizi/20260326/456A_G－ヒューマンメイド_よくある質問と回答（2026年3月）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "456A",
+      "company": "Ｇ－ヒューマンメイド",
+      "title": "譲渡制限付株式報酬制度の導入に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589991",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589991.pdf",
+      "github_path": "tekigikaizi/20260326/456A_G－ヒューマンメイド_譲渡制限付株式報酬制度の導入に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4746",
+      "company": "東計電算",
+      "title": "代表取締役の役職名の変更に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326590162",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590162.pdf",
+      "github_path": "tekigikaizi/20260326/4746_東計電算_代表取締役の役職名の変更に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4746",
+      "company": "東計電算",
+      "title": "ストックオプション（新株予約権）の発行に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326590168",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590168.pdf",
+      "github_path": "tekigikaizi/20260326/4746_東計電算_ストックオプション（新株予約権）の発行に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4883",
+      "company": "Ｇ－モダリス",
+      "title": "ストック・オプション（新株予約権）の発行に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260323586209",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260323586209.pdf",
+      "github_path": "tekigikaizi/20260326/4883_G－モダリス_ストック・オプション（新株予約権）の発行に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5110",
+      "company": "住友ゴム",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260325588884",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588884.pdf",
+      "github_path": "tekigikaizi/20260326/5110_住友ゴム_譲渡制限付株式報酬としての自己株式の処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5337",
+      "company": "ダントーＨＤ",
+      "title": "連結子会社株式の一部譲渡及び業務提携契約締結に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260324587305",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587305.pdf",
+      "github_path": "tekigikaizi/20260326/5337_ダントーHD_連結子会社株式の一部譲渡及び業務提携契約締結に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5337",
+      "company": "ダントーＨＤ",
+      "title": "上場維持基準への適合に向けた計画（改善期間入り）について",
+      "time": "16:00",
+      "file_id": "140120260319585667",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260319585667.pdf",
+      "github_path": "tekigikaizi/20260326/5337_ダントーHD_上場維持基準への適合に向けた計画（改善期間入り）について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5928",
+      "company": "アルメタックス",
+      "title": "組織変更及び執行役員の異動並びに人事異動に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589929",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589929.pdf",
+      "github_path": "tekigikaizi/20260326/5928_アルメタックス_組織変更及び執行役員の異動並びに人事異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5949",
+      "company": "ユニプレス",
+      "title": "業績予想の修正及び特別損失の計上の見込みに関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326590133",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590133.pdf",
+      "github_path": "tekigikaizi/20260326/5949_ユニプレス_業績予想の修正及び特別損失の計上の見込みに関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6078",
+      "company": "バリューＨＲ",
+      "title": "組織変更及び役員の担当変更並びに人事異動に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326590179",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590179.pdf",
+      "github_path": "tekigikaizi/20260326/6078_バリューHR_組織変更及び役員の担当変更並びに人事異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6440",
+      "company": "ＪＵＫＩ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589772",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589772.pdf",
+      "github_path": "tekigikaizi/20260326/6440_JUKI_自己株式の取得状況に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6560",
+      "company": "ＬＴＳ",
+      "title": "執行役員人事に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589366",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589366.pdf",
+      "github_path": "tekigikaizi/20260326/6560_LTS_執行役員人事に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6560",
+      "company": "ＬＴＳ",
+      "title": "コミットメントライン契約締結に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589988",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589988.pdf",
+      "github_path": "tekigikaizi/20260326/6560_LTS_コミットメントライン契約締結に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6560",
+      "company": "ＬＴＳ",
+      "title": "上場維持基準への適合に向けた計画に基づく進捗状況（改善期間入り）及び計画期間の変更について",
+      "time": "16:00",
+      "file_id": "140120260324587896",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587896.pdf",
+      "github_path": "tekigikaizi/20260326/6560_LTS_上場維持基準への適合に向けた計画に基づく進捗状況（改善期間入り）及び計画期間の変更について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6836",
+      "company": "プラット",
+      "title": "営業外収益の計上に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326590080",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590080.pdf",
+      "github_path": "tekigikaizi/20260326/6836_プラット_営業外収益の計上に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6929",
+      "company": "日セラミック",
+      "title": "公益財団法人財務会計基準機構への加入状況及び加入に関する考え方等に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326590170",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590170.pdf",
+      "github_path": "tekigikaizi/20260326/6929_日セラミック_公益財団法人財務会計基準機構への加入状況及び加入に関する考え方等に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7043",
+      "company": "Ｇ－アルー",
+      "title": "取締役及び執行役員等重要な人事のお知らせ",
+      "time": "16:00",
+      "file_id": "140120260325589264",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589264.pdf",
+      "github_path": "tekigikaizi/20260326/7043_G－アルー_取締役及び執行役員等重要な人事のお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7044",
+      "company": "ピアラ",
+      "title": "中国子会社の事業停止に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260323586513",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260323586513.pdf",
+      "github_path": "tekigikaizi/20260326/7044_ピアラ_中国子会社の事業停止に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7063",
+      "company": "Ｇ－Ｂｉｒｄｍａｎ",
+      "title": "株式会社マーベリックの株式取得（子会社化）に向けた基本合意書締結に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326590227",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590227.pdf",
+      "github_path": "tekigikaizi/20260326/7063_G－Birdman_株式会社マーベリックの株式取得（子会社化）に向けた基本合意書締結に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7175",
+      "company": "今村証券",
+      "title": "2026年３月期期末配当予定に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326590209",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590209.pdf",
+      "github_path": "tekigikaizi/20260326/7175_今村証券_2026年3月期期末配当予定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7217",
+      "company": "テイン",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326590100",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590100.pdf",
+      "github_path": "tekigikaizi/20260326/7217_テイン_業績予想の修正に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7228",
+      "company": "デイトナ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260325589215",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589215.pdf",
+      "github_path": "tekigikaizi/20260326/7228_デイトナ_譲渡制限付株式報酬としての自己株式の処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7244",
+      "company": "市光工",
+      "title": "支配株主等に関する事項について",
+      "time": "16:00",
+      "file_id": "140120260320585900",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260320585900.pdf",
+      "github_path": "tekigikaizi/20260326/7244_市光工_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7244",
+      "company": "市光工",
+      "title": "役員異動に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260320585922",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260320585922.pdf",
+      "github_path": "tekigikaizi/20260326/7244_市光工_役員異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7359",
+      "company": "Ｇ－東京通信Ｇ",
+      "title": "連結子会社からの配当金受領に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260323587007",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260323587007.pdf",
+      "github_path": "tekigikaizi/20260326/7359_G－東京通信G_連結子会社からの配当金受領に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7624",
+      "company": "ＮａＩＴＯ",
+      "title": "令和8年2月期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "140120260322585990",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260322585990.pdf",
+      "github_path": "tekigikaizi/20260326/7624_NaITO_令和8年2月期決算短信〔日本基準〕（連結）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7624",
+      "company": "ＮａＩＴＯ",
+      "title": "剰余金の配当に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260325588479",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588479.pdf",
+      "github_path": "tekigikaizi/20260326/7624_NaITO_剰余金の配当に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7624",
+      "company": "ＮａＩＴＯ",
+      "title": "通期業績予想と実績値との差異に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260325589169",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589169.pdf",
+      "github_path": "tekigikaizi/20260326/7624_NaITO_通期業績予想と実績値との差異に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7782",
+      "company": "シンシア",
+      "title": "役員人事に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260224567362",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260224567362.pdf",
+      "github_path": "tekigikaizi/20260326/7782_シンシア_役員人事に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7782",
+      "company": "シンシア",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260224568036",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260224568036.pdf",
+      "github_path": "tekigikaizi/20260326/7782_シンシア_譲渡制限付株式報酬としての自己株式の処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7782",
+      "company": "シンシア",
+      "title": "当社取締役会の実効性評価の概要に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260219565646",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260219565646.pdf",
+      "github_path": "tekigikaizi/20260326/7782_シンシア_当社取締役会の実効性評価の概要に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7782",
+      "company": "シンシア",
+      "title": "支配株主等に関する事項について",
+      "time": "16:00",
+      "file_id": "140120260219565702",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260219565702.pdf",
+      "github_path": "tekigikaizi/20260326/7782_シンシア_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7923",
+      "company": "トーイン",
+      "title": "当社株式の上場廃止に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589319",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589319.pdf",
+      "github_path": "tekigikaizi/20260326/7923_トーイン_当社株式の上場廃止に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8015",
+      "company": "豊田通商",
+      "title": "子会社との会社分割（簡易吸収分割）に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326590015",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590015.pdf",
+      "github_path": "tekigikaizi/20260326/8015_豊田通商_子会社との会社分割（簡易吸収分割）に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8616",
+      "company": "東海東京",
+      "title": "2026年3月期 期末配当予想に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589913",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589913.pdf",
+      "github_path": "tekigikaizi/20260326/8616_東海東京_2026年3月期 期末配当予想に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9012",
+      "company": "秩父鉄道",
+      "title": "固定資産の譲渡及び特別利益・特別損失の計上並びに通期連結業績予想修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260325589253",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589253.pdf",
+      "github_path": "tekigikaizi/20260326/9012_秩父鉄道_固定資産の譲渡及び特別利益・特別損失の計上並びに通期連結業績予想修正に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9272",
+      "company": "Ｇ－ブティックス",
+      "title": "重要な人事異動に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260326589967",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589967.pdf",
+      "github_path": "tekigikaizi/20260326/9272_G－ブティックス_重要な人事異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9543",
+      "company": "静岡ガス",
+      "title": "LNG事業会社への出資参画に関するお知らせ",
+      "time": "16:00",
+      "file_id": "140120260325588995",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588995.pdf",
+      "github_path": "tekigikaizi/20260326/9543_静岡ガス_LNG事業会社への出資参画に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4889",
+      "company": "Ｇ－レナサイエンス",
+      "title": "株式及び新株予約権発行プログラム設定契約に基づく第４回第三者割当による新株式及び新株予約権の払込完了並びに発行登録の取下げに関するお知らせ",
+      "time": "15:45",
+      "file_id": "140120260326589632",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589632.pdf",
+      "github_path": "tekigikaizi/20260326/4889_G－レナサイエンス_株式及び新株予約権発行プログラム設定契約に基づく第4回第三者割当による新株式及び新株予約権の払込完了並びに発行登録の取下げに関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7177",
+      "company": "ＧＭＯＦＨＤ",
+      "title": "支配株主等に関する事項について",
+      "time": "15:31",
+      "file_id": "140120260326590137",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590137.pdf",
+      "github_path": "tekigikaizi/20260326/7177_GMOFHD_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1433",
+      "company": "ベステラ",
+      "title": "資本準備金の額の減少に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325588919",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588919.pdf",
+      "github_path": "tekigikaizi/20260326/1433_ベステラ_資本準備金の額の減少に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "148A",
+      "company": "Ｇ－ハッチ・ワーク",
+      "title": "事業計画及び成長可能性に関する説明資料",
+      "time": "15:30",
+      "file_id": "140120260326589451",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589451.pdf",
+      "github_path": "tekigikaizi/20260326/148A_G－ハッチ・ワーク_事業計画及び成長可能性に関する説明資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1514",
+      "company": "住石ＨＤ",
+      "title": "豪州の出資先炭鉱からの配当金の受領に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589558",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589558.pdf",
+      "github_path": "tekigikaizi/20260326/1514_住石HD_豪州の出資先炭鉱からの配当金の受領に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "155A",
+      "company": "Ｇ－情報戦略",
+      "title": "株式会社ピ－プルドットの株式取得（子会社化）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589230",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589230.pdf",
+      "github_path": "tekigikaizi/20260326/155A_G－情報戦略_株式会社ピ－プルドットの株式取得（子会社化）に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1711",
+      "company": "ＳＤＳＨＤ",
+      "title": "（開示事項の経過）株主優待制度の内容に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326590053",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590053.pdf",
+      "github_path": "tekigikaizi/20260326/1711_SDSHD_（開示事項の経過）株主優待制度の内容に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1718",
+      "company": "美樹工業",
+      "title": "投資単位の引下げに関する考え方および方針等について",
+      "time": "15:30",
+      "file_id": "140120260323587018",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260323587018.pdf",
+      "github_path": "tekigikaizi/20260326/1718_美樹工業_投資単位の引下げに関する考え方および方針等について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1718",
+      "company": "美樹工業",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260323587019",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260323587019.pdf",
+      "github_path": "tekigikaizi/20260326/1718_美樹工業_譲渡制限付株式報酬としての自己株式の処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1724",
+      "company": "シンクレイヤ",
+      "title": "執行役員人事に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589973",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589973.pdf",
+      "github_path": "tekigikaizi/20260326/1724_シンクレイヤ_執行役員人事に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1841",
+      "company": "サンユー建設",
+      "title": "当社株式の上場廃止のお知らせ",
+      "time": "15:30",
+      "file_id": "140120260324587707",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587707.pdf",
+      "github_path": "tekigikaizi/20260326/1841_サンユー建設_当社株式の上場廃止のお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2002",
+      "company": "日清粉Ｇ",
+      "title": "自己株式の消却に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325588267",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588267.pdf",
+      "github_path": "tekigikaizi/20260326/2002_日清粉G_自己株式の消却に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2121",
+      "company": "ＭＩＸＩ",
+      "title": "財務上の特約が付されたシンジケートローン契約の締結に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589594",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589594.pdf",
+      "github_path": "tekigikaizi/20260326/2121_MIXI_財務上の特約が付されたシンジケートローン契約の締結に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2124",
+      "company": "ＪＡＣ",
+      "title": "当社取締役に対する譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589787",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589787.pdf",
+      "github_path": "tekigikaizi/20260326/2124_JAC_当社取締役に対する譲渡制限付株式報酬としての自己株式の処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2124",
+      "company": "ＪＡＣ",
+      "title": "(訂正) 「2025年12月期決算短信〔日本基準〕(連結)」の一部訂正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589858",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589858.pdf",
+      "github_path": "tekigikaizi/20260326/2124_JAC_(訂正) 「2025年12月期決算短信〔日本基準〕(連結)」の一部訂正に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2193",
+      "company": "ＣＯＯＫＰＡＤ",
+      "title": "新役員体制に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589267",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589267.pdf",
+      "github_path": "tekigikaizi/20260326/2193_COOKPAD_新役員体制に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2193",
+      "company": "ＣＯＯＫＰＡＤ",
+      "title": "支配株主等に関する事項について",
+      "time": "15:30",
+      "file_id": "140120260325589272",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589272.pdf",
+      "github_path": "tekigikaizi/20260326/2193_COOKPAD_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2193",
+      "company": "ＣＯＯＫＰＡＤ",
+      "title": "自己株式取得に係る事項の一部変更、自己株式の取得状況及び取得終了並びに自己株式の消却に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325588480",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588480.pdf",
+      "github_path": "tekigikaizi/20260326/2193_COOKPAD_自己株式取得に係る事項の一部変更、自己株式の取得状況及び取得終了並びに自己株式の消却に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2193",
+      "company": "ＣＯＯＫＰＡＤ",
+      "title": "「当社株式等の大規模買付行為等に関する対応策（買収への対応方針）」に基づく独立委員会委員の一部交代に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589276",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589276.pdf",
+      "github_path": "tekigikaizi/20260326/2193_COOKPAD_「当社株式等の大規模買付行為等に関する対応策（買収への対応方針）」に基づく独立委員会委員の一部交代に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2193",
+      "company": "ＣＯＯＫＰＡＤ",
+      "title": "ストック・オプション（新株予約権）の発行に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589278",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589278.pdf",
+      "github_path": "tekigikaizi/20260326/2193_COOKPAD_ストック・オプション（新株予約権）の発行に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2266",
+      "company": "六甲バター",
+      "title": "役員の異動に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260312580840",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260312580840.pdf",
+      "github_path": "tekigikaizi/20260326/2266_六甲バター_役員の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2418",
+      "company": "ツカダグローバルＨＤ",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326590125",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590125.pdf",
+      "github_path": "tekigikaizi/20260326/2418_ツカダグローバルHD_自己株式の取得状況及び取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2469",
+      "company": "ヒビノ",
+      "title": "株式会社フォトロンの一部事業を吸収分割により承継する株式会社フォトロン企画の株式の取得（子会社化）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589131",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589131.pdf",
+      "github_path": "tekigikaizi/20260326/2469_ヒビノ_株式会社フォトロンの一部事業を吸収分割により承継する株式会社フォトロン企画の株式の取得（子会社化）に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "248A",
+      "company": "Ｇ－キッズスター",
+      "title": "支配株主等に関する事項について",
+      "time": "15:30",
+      "file_id": "140120260326589374",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589374.pdf",
+      "github_path": "tekigikaizi/20260326/248A_G－キッズスター_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "262A",
+      "company": "インターメスティック",
+      "title": "支配株主等に関する事項について",
+      "time": "15:30",
+      "file_id": "140120260324587237",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587237.pdf",
+      "github_path": "tekigikaizi/20260326/262A_インターメスティック_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2778",
+      "company": "パレモ・ＨＤ",
+      "title": "(株)パレモの月次売上高前年比情報に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589874",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589874.pdf",
+      "github_path": "tekigikaizi/20260326/2778_パレモ・HD_(株)パレモの月次売上高前年比情報に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2792",
+      "company": "ハニーズＨＬＤ",
+      "title": "2026年５月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "140120260325589030",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589030.pdf",
+      "github_path": "tekigikaizi/20260326/2792_ハニーズHLD_2026年5月期 第3四半期決算短信〔日本基準〕（連結）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "285A",
+      "company": "キオクシアＨＤ",
+      "title": "その他の関係会社の異動に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589887",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589887.pdf",
+      "github_path": "tekigikaizi/20260326/285A_キオクシアHD_その他の関係会社の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2970",
+      "company": "ＧＬＣ ＧＲＯＵＰ",
+      "title": "支配株主等に関する事項について",
+      "time": "15:30",
+      "file_id": "140120260324587652",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587652.pdf",
+      "github_path": "tekigikaizi/20260326/2970_GLC GROUP_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3091",
+      "company": "ブロンコＢ",
+      "title": "第44期定時株主総会決議に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589316",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589316.pdf",
+      "github_path": "tekigikaizi/20260326/3091_ブロンコB_第44期定時株主総会決議に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3182",
+      "company": "オイシックスラ大地",
+      "title": "自己株式の消却および自己株式の保有方針の変更に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589822",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589822.pdf",
+      "github_path": "tekigikaizi/20260326/3182_オイシックスラ大地_自己株式の消却および自己株式の保有方針の変更に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3186",
+      "company": "ネクステージ",
+      "title": "財務上の特約が付された金銭消費貸借契約の締結に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589740",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589740.pdf",
+      "github_path": "tekigikaizi/20260326/3186_ネクステージ_財務上の特約が付された金銭消費貸借契約の締結に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3353",
+      "company": "メディ一光Ｇ",
+      "title": "上場維持基準への適合に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260324587093",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587093.pdf",
+      "github_path": "tekigikaizi/20260326/3353_メディ一光G_上場維持基準への適合に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3353",
+      "company": "メディ一光Ｇ",
+      "title": "剰余金の配当（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325588136",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588136.pdf",
+      "github_path": "tekigikaizi/20260326/3353_メディ一光G_剰余金の配当（増配）に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3353",
+      "company": "メディ一光Ｇ",
+      "title": "取締役候補の決定に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260324587098",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587098.pdf",
+      "github_path": "tekigikaizi/20260326/3353_メディ一光G_取締役候補の決定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3353",
+      "company": "メディ一光Ｇ",
+      "title": "支配株主等に関する事項について",
+      "time": "15:30",
+      "file_id": "140120260325588257",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588257.pdf",
+      "github_path": "tekigikaizi/20260326/3353_メディ一光G_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "339A",
+      "company": "Ｇ－プログレス",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325588682",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588682.pdf",
+      "github_path": "tekigikaizi/20260326/339A_G－プログレス_自己株式の取得状況及び取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3467",
+      "company": "アグレ都市デザイン",
+      "title": "財務上の特約が付されたシンジケートローンの締結に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589867",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589867.pdf",
+      "github_path": "tekigikaizi/20260326/3467_アグレ都市デザイン_財務上の特約が付されたシンジケートローンの締結に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3611",
+      "company": "マツオカ",
+      "title": "組織変更及び執行役員体制に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325588319",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588319.pdf",
+      "github_path": "tekigikaizi/20260326/3611_マツオカ_組織変更及び執行役員体制に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3649",
+      "company": "ファインデックス",
+      "title": "譲渡制限付株式報酬としての自己株式処分に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589780",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589780.pdf",
+      "github_path": "tekigikaizi/20260326/3649_ファインデックス_譲渡制限付株式報酬としての自己株式処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3766",
+      "company": "システムズＤ",
+      "title": "代表取締役の異動及び取締役人事、並びに取締役の業務委嘱に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589495",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589495.pdf",
+      "github_path": "tekigikaizi/20260326/3766_システムズD_代表取締役の異動及び取締役人事、並びに取締役の業務委嘱に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3807",
+      "company": "Ｇ－フィスコ",
+      "title": "事業計画及び成長可能性に関する事項",
+      "time": "15:30",
+      "file_id": "140120260324587951",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587951.pdf",
+      "github_path": "tekigikaizi/20260326/3807_G－フィスコ_事業計画及び成長可能性に関する事項.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3911",
+      "company": "Ｇ－Ａｉｍｉｎｇ",
+      "title": "ゲーム製作委員会の解散に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589820",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589820.pdf",
+      "github_path": "tekigikaizi/20260326/3911_G－Aiming_ゲーム製作委員会の解散に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3950",
+      "company": "ザ・パック",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589933",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589933.pdf",
+      "github_path": "tekigikaizi/20260326/3950_ザ・パック_譲渡制限付株式報酬としての自己株式の処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4004",
+      "company": "レゾナックＨＤ",
+      "title": "2028年満期ユーロ円建転換社債型新株予約権付社債の転換価額の調整に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589588",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589588.pdf",
+      "github_path": "tekigikaizi/20260326/4004_レゾナックHD_2028年満期ユーロ円建転換社債型新株予約権付社債の転換価額の調整に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4061",
+      "company": "デンカ",
+      "title": "投資有価証券売却益（特別利益）の計上に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589375",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589375.pdf",
+      "github_path": "tekigikaizi/20260326/4061_デンカ_投資有価証券売却益（特別利益）の計上に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4061",
+      "company": "デンカ",
+      "title": "株式会社カイノスの株券等（証券コード：4556）に対する公開買付けの結果に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589389",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589389.pdf",
+      "github_path": "tekigikaizi/20260326/4061_デンカ_株式会社カイノスの株券等（証券コード：4556）に対する公開買付けの結果に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4275",
+      "company": "カーリット",
+      "title": "自己株式の消却および消却予定日の変更に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589443",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589443.pdf",
+      "github_path": "tekigikaizi/20260326/4275_カーリット_自己株式の消却および消却予定日の変更に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4287",
+      "company": "ジャストプラ",
+      "title": "2026年１月期 本決算説明資料",
+      "time": "15:30",
+      "file_id": "140120260326589507",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589507.pdf",
+      "github_path": "tekigikaizi/20260326/4287_ジャストプラ_2026年1月期 本決算説明資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4293",
+      "company": "セプテーニＨＤ",
+      "title": "支配株主等に関する事項について",
+      "time": "15:30",
+      "file_id": "140120260326589788",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589788.pdf",
+      "github_path": "tekigikaizi/20260326/4293_セプテーニHD_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4375",
+      "company": "Ｇ－セーフィー",
+      "title": "譲渡制限付株式報酬としての新株式発行に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589317",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589317.pdf",
+      "github_path": "tekigikaizi/20260326/4375_G－セーフィー_譲渡制限付株式報酬としての新株式発行に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4377",
+      "company": "Ｇ－ワンキャリア",
+      "title": "株式会社ゼロワンブレインの株式取得（子会社化）及び株式会社キッズ・コーポレーションの孫会社化に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589277",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589277.pdf",
+      "github_path": "tekigikaizi/20260326/4377_G－ワンキャリア_株式会社ゼロワンブレインの株式取得（子会社化）及び株式会社キッズ・コーポレーションの孫会社化に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4377",
+      "company": "Ｇ－ワンキャリア",
+      "title": "株式会社キッズ・コーポレーション グループインに関する補足資料",
+      "time": "15:30",
+      "file_id": "140120260326589538",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589538.pdf",
+      "github_path": "tekigikaizi/20260326/4377_G－ワンキャリア_株式会社キッズ・コーポレーション グループインに関する補足資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4397",
+      "company": "Ｇ－チームスピリット",
+      "title": "資金の借入に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260324587711",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587711.pdf",
+      "github_path": "tekigikaizi/20260326/4397_G－チームスピリット_資金の借入に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4477",
+      "company": "Ｇ－ＢＡＳＥ",
+      "title": "事業計画及び成長可能性に関する事項の開示",
+      "time": "15:30",
+      "file_id": "140120260326589407",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589407.pdf",
+      "github_path": "tekigikaizi/20260326/4477_G－BASE_事業計画及び成長可能性に関する事項の開示.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4502",
+      "company": "武田薬",
+      "title": "第150回定時株主総会に提案する取締役候補者および代表取締役の異動について",
+      "time": "15:30",
+      "file_id": "140120260325589055",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589055.pdf",
+      "github_path": "tekigikaizi/20260326/4502_武田薬_第150回定時株主総会に提案する取締役候補者および代表取締役の異動について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4527",
+      "company": "ロート薬",
+      "title": "自己株式の買付けに関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589712",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589712.pdf",
+      "github_path": "tekigikaizi/20260326/4527_ロート薬_自己株式の買付けに関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4556",
+      "company": "カイノス",
+      "title": "Flowers株式会社による当社株式に対する公開買付けの結果、並びに、親会社、主要株主である筆頭株主及び主要株主の異動に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589292",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589292.pdf",
+      "github_path": "tekigikaizi/20260326/4556_カイノス_Flowers株式会社による当社株式に対する公開買付けの結果、並びに、親会社、主要株主である筆頭株主及び主要株主の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4556",
+      "company": "カイノス",
+      "title": "臨時株主総会招集のための基準日設定に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589296",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589296.pdf",
+      "github_path": "tekigikaizi/20260326/4556_カイノス_臨時株主総会招集のための基準日設定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4591",
+      "company": "Ｇ－リボミック",
+      "title": "日産化学株式会社との共同研究契約締結のお知らせ",
+      "time": "15:30",
+      "file_id": "140120260324587537",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587537.pdf",
+      "github_path": "tekigikaizi/20260326/4591_G－リボミック_日産化学株式会社との共同研究契約締結のお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4690",
+      "company": "日パレット",
+      "title": "支配株主である日本パレットレンタルによる当社株式に係る株式売渡請求を行うことの決定、当該株式売渡請求に係る承認及び当社株式の上場廃止に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260324587700",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587700.pdf",
+      "github_path": "tekigikaizi/20260326/4690_日パレット_支配株主である日本パレットレンタルによる当社株式に係る株式売渡請求を行うことの決定、当該株式売渡請求に係る承認及び当社株式の上場廃止に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4763",
+      "company": "Ｃ＆Ｒ社",
+      "title": "業績予想及び配当予想の修正（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589533",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589533.pdf",
+      "github_path": "tekigikaizi/20260326/4763_C＆R社_業績予想及び配当予想の修正（増配）に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4840",
+      "company": "トライアイズ",
+      "title": "代表取締役の異動に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326590060",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590060.pdf",
+      "github_path": "tekigikaizi/20260326/4840_トライアイズ_代表取締役の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4911",
+      "company": "資生堂",
+      "title": "連結子会社からの配当金受領に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589870",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589870.pdf",
+      "github_path": "tekigikaizi/20260326/4911_資生堂_連結子会社からの配当金受領に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4974",
+      "company": "タカラバイオ",
+      "title": "臨時株主総会招集のための基準日設定に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589469",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589469.pdf",
+      "github_path": "tekigikaizi/20260326/4974_タカラバイオ_臨時株主総会招集のための基準日設定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4975",
+      "company": "ＪＣＵ",
+      "title": "役員の異動及び補欠監査役の選任に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589420",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589420.pdf",
+      "github_path": "tekigikaizi/20260326/4975_JCU_役員の異動及び補欠監査役の選任に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5010",
+      "company": "日精蝋",
+      "title": "執行役員の異動に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260324587388",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587388.pdf",
+      "github_path": "tekigikaizi/20260326/5010_日精蝋_執行役員の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5241",
+      "company": "日本オーエー研究所",
+      "title": "役員人事、組織変更及び取締役の異動に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325588098",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588098.pdf",
+      "github_path": "tekigikaizi/20260326/5241_日本オーエー研究所_役員人事、組織変更及び取締役の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5241",
+      "company": "日本オーエー研究所",
+      "title": "『中期経営計画 Expand 2028』の策定に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589853",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589853.pdf",
+      "github_path": "tekigikaizi/20260326/5241_日本オーエー研究所_『中期経営計画 Expand 2028』の策定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5241",
+      "company": "日本オーエー研究所",
+      "title": "支配株主等に関する事項について",
+      "time": "15:30",
+      "file_id": "140120260325588113",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588113.pdf",
+      "github_path": "tekigikaizi/20260326/5241_日本オーエー研究所_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5241",
+      "company": "日本オーエー研究所",
+      "title": "公益財団法人財務会計基準機構への加入状況及び加入に関する考え方等に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325588115",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588115.pdf",
+      "github_path": "tekigikaizi/20260326/5241_日本オーエー研究所_公益財団法人財務会計基準機構への加入状況及び加入に関する考え方等に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5535",
+      "company": "ミガロＨＤ",
+      "title": "連結子会社からの配当金受領に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589146",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589146.pdf",
+      "github_path": "tekigikaizi/20260326/5535_ミガロHD_連結子会社からの配当金受領に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5597",
+      "company": "Ｇ－ブルーイノベ",
+      "title": "事業計画及び成長可能性に関する事項",
+      "time": "15:30",
+      "file_id": "140120260326589908",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589908.pdf",
+      "github_path": "tekigikaizi/20260326/5597_G－ブルーイノベ_事業計画及び成長可能性に関する事項.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5891",
+      "company": "魁力屋",
+      "title": "役員人事に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326590147",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590147.pdf",
+      "github_path": "tekigikaizi/20260326/5891_魁力屋_役員人事に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5950",
+      "company": "日本パワーファス",
+      "title": "公益財団法人財務会計基準機構への加入状況及び加入に関する考え方等に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260319585725",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260319585725.pdf",
+      "github_path": "tekigikaizi/20260326/5950_日本パワーファス_公益財団法人財務会計基準機構への加入状況及び加入に関する考え方等に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5950",
+      "company": "日本パワーファス",
+      "title": "支配株主等に関する事項について",
+      "time": "15:30",
+      "file_id": "140120260319585722",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260319585722.pdf",
+      "github_path": "tekigikaizi/20260326/5950_日本パワーファス_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5950",
+      "company": "日本パワーファス",
+      "title": "非上場の親会社等の決算に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260319585727",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260319585727.pdf",
+      "github_path": "tekigikaizi/20260326/5950_日本パワーファス_非上場の親会社等の決算に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6099",
+      "company": "エラン",
+      "title": "支配株主等に関する事項について",
+      "time": "15:30",
+      "file_id": "140120260325588156",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588156.pdf",
+      "github_path": "tekigikaizi/20260326/6099_エラン_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6445",
+      "company": "ジャノメ",
+      "title": "代表取締役の異動に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326590138",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590138.pdf",
+      "github_path": "tekigikaizi/20260326/6445_ジャノメ_代表取締役の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6465",
+      "company": "ホシザキ",
+      "title": "連結孫会社株式の追加取得に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589271",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589271.pdf",
+      "github_path": "tekigikaizi/20260326/6465_ホシザキ_連結孫会社株式の追加取得に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6465",
+      "company": "ホシザキ",
+      "title": "取締役体制に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589266",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589266.pdf",
+      "github_path": "tekigikaizi/20260326/6465_ホシザキ_取締役体制に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6465",
+      "company": "ホシザキ",
+      "title": "投資単位の引き下げに関する考え方及び方針等について",
+      "time": "15:30",
+      "file_id": "140120260325589270",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589270.pdf",
+      "github_path": "tekigikaizi/20260326/6465_ホシザキ_投資単位の引き下げに関する考え方及び方針等について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6471",
+      "company": "日本精工",
+      "title": "2026年度取締役候補の決定に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326590121",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590121.pdf",
+      "github_path": "tekigikaizi/20260326/6471_日本精工_2026年度取締役候補の決定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6471",
+      "company": "日本精工",
+      "title": "役員報酬制度の改定に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326590144",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590144.pdf",
+      "github_path": "tekigikaizi/20260326/6471_日本精工_役員報酬制度の改定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6498",
+      "company": "キッツ",
+      "title": "当社の取締役等に対する譲渡制限付株式付与制度に基づく譲渡制限付株式としての自己株式処分に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589856",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589856.pdf",
+      "github_path": "tekigikaizi/20260326/6498_キッツ_当社の取締役等に対する譲渡制限付株式付与制度に基づく譲渡制限付株式としての自己株式処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6562",
+      "company": "Ｇ－ジーニー",
+      "title": "種類株式に係る剰余金の配当に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589771",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589771.pdf",
+      "github_path": "tekigikaizi/20260326/6562_G－ジーニー_種類株式に係る剰余金の配当に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6627",
+      "company": "テラプローブ",
+      "title": "支配株主等に関する事項について",
+      "time": "15:30",
+      "file_id": "140120260325589218",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589218.pdf",
+      "github_path": "tekigikaizi/20260326/6627_テラプローブ_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6675",
+      "company": "サクサ",
+      "title": "（固定資産の取得および営業拠点のリプレイス）サクサグループ成長戦略実現に向けた一部資本戦略（拠点再編）について",
+      "time": "15:30",
+      "file_id": "140120260325589032",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589032.pdf",
+      "github_path": "tekigikaizi/20260326/6675_サクサ_（固定資産の取得および営業拠点のリプレイス）サクサグループ成長戦略実現に向けた一部資本戦略（拠点再編）について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6675",
+      "company": "サクサ",
+      "title": "当社および子会社における組織改正および人事異動に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589052",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589052.pdf",
+      "github_path": "tekigikaizi/20260326/6675_サクサ_当社および子会社における組織改正および人事異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6675",
+      "company": "サクサ",
+      "title": "株主還元の強化（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589062",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589062.pdf",
+      "github_path": "tekigikaizi/20260326/6675_サクサ_株主還元の強化（増配）に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6675",
+      "company": "サクサ",
+      "title": "期末配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589087",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589087.pdf",
+      "github_path": "tekigikaizi/20260326/6675_サクサ_期末配当予想の修正に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6675",
+      "company": "サクサ",
+      "title": "監査等委員会設置会社への移行に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589093",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589093.pdf",
+      "github_path": "tekigikaizi/20260326/6675_サクサ_監査等委員会設置会社への移行に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6702",
+      "company": "富士通",
+      "title": "取締役および監査役人事について",
+      "time": "15:30",
+      "file_id": "140120260326589595",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589595.pdf",
+      "github_path": "tekigikaizi/20260326/6702_富士通_取締役および監査役人事について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6702",
+      "company": "富士通",
+      "title": "自己株式の消却に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589626",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589626.pdf",
+      "github_path": "tekigikaizi/20260326/6702_富士通_自己株式の消却に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6853",
+      "company": "共和電",
+      "title": "譲渡制限付株式としての自己株式処分に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260302573491",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260302573491.pdf",
+      "github_path": "tekigikaizi/20260326/6853_共和電_譲渡制限付株式としての自己株式処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6871",
+      "company": "日マイクロニクス",
+      "title": "人事異動に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260319585818",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260319585818.pdf",
+      "github_path": "tekigikaizi/20260326/6871_日マイクロニクス_人事異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6871",
+      "company": "日マイクロニクス",
+      "title": "生産能力増強のための設備投資に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326590194",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590194.pdf",
+      "github_path": "tekigikaizi/20260326/6871_日マイクロニクス_生産能力増強のための設備投資に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7042",
+      "company": "アクセスグループ",
+      "title": "上場維持基準への適合に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589714",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589714.pdf",
+      "github_path": "tekigikaizi/20260326/7042_アクセスグループ_上場維持基準への適合に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7068",
+      "company": "Ｇ－ＦフォースＧ",
+      "title": "2026年５月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "140120260326589767",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589767.pdf",
+      "github_path": "tekigikaizi/20260326/7068_G－FフォースG_2026年5月期 第3四半期決算短信〔日本基準〕（連結）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7068",
+      "company": "Ｇ－ＦフォースＧ",
+      "title": "2026年5月期Q3 決算説明資料（事業計画及び成長可能性に関する事項）",
+      "time": "15:30",
+      "file_id": "140120260326589797",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589797.pdf",
+      "github_path": "tekigikaizi/20260326/7068_G－FフォースG_2026年5月期Q3 決算説明資料（事業計画及び成長可能性に関する事項）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7068",
+      "company": "Ｇ－ＦフォースＧ",
+      "title": "株式会社ECPowerの株式取得及び簡易株式交換による完全子会社化に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589804",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589804.pdf",
+      "github_path": "tekigikaizi/20260326/7068_G－FフォースG_株式会社ECPowerの株式取得及び簡易株式交換による完全子会社化に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7094",
+      "company": "Ｇ－ＮｅｘＴｏｎｅ",
+      "title": "連結子会社における事業譲渡及び特別損失の発生に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589234",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589234.pdf",
+      "github_path": "tekigikaizi/20260326/7094_G－NexTone_連結子会社における事業譲渡及び特別損失の発生に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7094",
+      "company": "Ｇ－ＮｅｘＴｏｎｅ",
+      "title": "任意の指名・報酬委員会設置のお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589226",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589226.pdf",
+      "github_path": "tekigikaizi/20260326/7094_G－NexTone_任意の指名・報酬委員会設置のお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7122",
+      "company": "近畿車輌",
+      "title": "2026年３月期通期連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589603",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589603.pdf",
+      "github_path": "tekigikaizi/20260326/7122_近畿車輌_2026年3月期通期連結業績予想の修正に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7122",
+      "company": "近畿車輌",
+      "title": "投資有価証券売却益（特別利益）の計上に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589636",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589636.pdf",
+      "github_path": "tekigikaizi/20260326/7122_近畿車輌_投資有価証券売却益（特別利益）の計上に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7172",
+      "company": "ＪＩＡ",
+      "title": "執行役員体制のお知らせ",
+      "time": "15:30",
+      "file_id": "140120260317583950",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260317583950.pdf",
+      "github_path": "tekigikaizi/20260326/7172_JIA_執行役員体制のお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7181",
+      "company": "かんぽ生命保険",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ（会社法第459条第１項の規定による定款の定めに基づく自己株式の取得）",
+      "time": "15:30",
+      "file_id": "140120260324588062",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324588062.pdf",
+      "github_path": "tekigikaizi/20260326/7181_かんぽ生命保険_自己株式の取得状況及び取得終了に関するお知らせ（会社法第459条第1項の規定による定款の定めに基づく自己株式の取得）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7327",
+      "company": "第四北越ＦＧ",
+      "title": "株式会社群馬銀行と株式会社第四北越フィナンシャルグループの株式交換による経営統合に関する最終合意について",
+      "time": "15:30",
+      "file_id": "140120260326589431",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589431.pdf",
+      "github_path": "tekigikaizi/20260326/7327_第四北越FG_株式会社群馬銀行と株式会社第四北越フィナンシャルグループの株式交換による経営統合に関する最終合意について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7353",
+      "company": "Ｇ－ＫＩＹＯ",
+      "title": "事業計画及び成長可能性に関する事項",
+      "time": "15:30",
+      "file_id": "140120260325589037",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589037.pdf",
+      "github_path": "tekigikaizi/20260326/7353_G－KIYO_事業計画及び成長可能性に関する事項.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7685",
+      "company": "Ｇ－ＢＵＹＳＥＬＬ",
+      "title": "譲渡制限付株式報酬としての新株式発行に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325589161",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589161.pdf",
+      "github_path": "tekigikaizi/20260326/7685_G－BUYSELL_譲渡制限付株式報酬としての新株式発行に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7685",
+      "company": "Ｇ－ＢＵＹＳＥＬＬ",
+      "title": "事業計画及び成長可能性に関する事項",
+      "time": "15:30",
+      "file_id": "140120260325589203",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589203.pdf",
+      "github_path": "tekigikaizi/20260326/7685_G－BUYSELL_事業計画及び成長可能性に関する事項.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7741",
+      "company": "ＨＯＹＡ",
+      "title": "（変更）内視鏡事業に関する会社分割（簡易吸収分割）の効力発生日変更に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589472",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589472.pdf",
+      "github_path": "tekigikaizi/20260326/7741_HOYA_（変更）内視鏡事業に関する会社分割（簡易吸収分割）の効力発生日変更に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7744",
+      "company": "ノーリツ鋼機",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589818",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589818.pdf",
+      "github_path": "tekigikaizi/20260326/7744_ノーリツ鋼機_譲渡制限付株式報酬としての自己株式の処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7898",
+      "company": "ウッドワン",
+      "title": "海外連結子会社の事業再編に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260323586066",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260323586066.pdf",
+      "github_path": "tekigikaizi/20260326/7898_ウッドワン_海外連結子会社の事業再編に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7911",
+      "company": "ＴＯＰＰＡＮ ＨＤ",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326590023",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590023.pdf",
+      "github_path": "tekigikaizi/20260326/7911_TOPPAN HD_自己株式の取得状況及び取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8060",
+      "company": "キヤノンＭＪ",
+      "title": "株式報酬型ストックオプションの発行内容に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589513",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589513.pdf",
+      "github_path": "tekigikaizi/20260326/8060_キヤノンMJ_株式報酬型ストックオプションの発行内容に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8334",
+      "company": "群馬銀",
+      "title": "株式会社群馬銀行と株式会社第四北越フィナンシャルグループの株式交換による経営統合に関する最終合意について",
+      "time": "15:30",
+      "file_id": "140120260325588341",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588341.pdf",
+      "github_path": "tekigikaizi/20260326/8334_群馬銀_株式会社群馬銀行と株式会社第四北越フィナンシャルグループの株式交換による経営統合に関する最終合意について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8358",
+      "company": "スルガ銀",
+      "title": "（開示事項の経過）保有有価証券の売却等に伴う損失の計上に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589639",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589639.pdf",
+      "github_path": "tekigikaizi/20260326/8358_スルガ銀_（開示事項の経過）保有有価証券の売却等に伴う損失の計上に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8596",
+      "company": "九州リースサービス",
+      "title": "代表取締役の異動に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589427",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589427.pdf",
+      "github_path": "tekigikaizi/20260326/8596_九州リースサービス_代表取締役の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8742",
+      "company": "小林洋行",
+      "title": "自己株式の取得に係る事項の決定に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589455",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589455.pdf",
+      "github_path": "tekigikaizi/20260326/8742_小林洋行_自己株式の取得に係る事項の決定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8802",
+      "company": "三菱地所",
+      "title": "自己株式の取得状況および取得終了に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589398",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589398.pdf",
+      "github_path": "tekigikaizi/20260326/8802_三菱地所_自己株式の取得状況および取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9008",
+      "company": "京王",
+      "title": "自己株式の消却に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260324587865",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587865.pdf",
+      "github_path": "tekigikaizi/20260326/9008_京王_自己株式の消却に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9035",
+      "company": "第一交通",
+      "title": "非上場の親会社等の決算に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260317583941",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260317583941.pdf",
+      "github_path": "tekigikaizi/20260326/9035_第一交通_非上場の親会社等の決算に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9046",
+      "company": "神戸電鉄",
+      "title": "監査等委員である取締役の辞任および補欠の監査等委員である取締役の就任に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589428",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589428.pdf",
+      "github_path": "tekigikaizi/20260326/9046_神戸電鉄_監査等委員である取締役の辞任および補欠の監査等委員である取締役の就任に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9057",
+      "company": "遠州トラック",
+      "title": "新中期経営計画策定のお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589540",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589540.pdf",
+      "github_path": "tekigikaizi/20260326/9057_遠州トラック_新中期経営計画策定のお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9206",
+      "company": "ＳＦＪ",
+      "title": "2026年2月度 旅客輸送実績・運航実績",
+      "time": "15:30",
+      "file_id": "140120260326589373",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589373.pdf",
+      "github_path": "tekigikaizi/20260326/9206_SFJ_2026年2月度 旅客輸送実績・運航実績.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9206",
+      "company": "ＳＦＪ",
+      "title": "取締役の管掌業務の変更並びに執行役員選任に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589757",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589757.pdf",
+      "github_path": "tekigikaizi/20260326/9206_SFJ_取締役の管掌業務の変更並びに執行役員選任に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9508",
+      "company": "九州電力",
+      "title": "単独株式移転による純粋持株会社体制への移行に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589616",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589616.pdf",
+      "github_path": "tekigikaizi/20260326/9508_九州電力_単独株式移転による純粋持株会社体制への移行に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9508",
+      "company": "九州電力",
+      "title": "代表取締役等 役員人事の内定について",
+      "time": "15:30",
+      "file_id": "140120260326590101",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590101.pdf",
+      "github_path": "tekigikaizi/20260326/9508_九州電力_代表取締役等 役員人事の内定について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9563",
+      "company": "Ｇ－Ａｔｌａｓ",
+      "title": "支配株主等に関する事項について",
+      "time": "15:30",
+      "file_id": "140120260325589047",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589047.pdf",
+      "github_path": "tekigikaizi/20260326/9563_G－Atlas_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9563",
+      "company": "Ｇ－Ａｔｌａｓ",
+      "title": "執行役員就任に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589653",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589653.pdf",
+      "github_path": "tekigikaizi/20260326/9563_G－Atlas_執行役員就任に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9563",
+      "company": "Ｇ－Ａｔｌａｓ",
+      "title": "監査等委員会設置会社への移行に伴う「内部統制システムに関する基本方針」の改定に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589635",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589635.pdf",
+      "github_path": "tekigikaizi/20260326/9563_G－Atlas_監査等委員会設置会社への移行に伴う「内部統制システムに関する基本方針」の改定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9627",
+      "company": "アインＨＤ",
+      "title": "組織変更及び人事異動に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326590030",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590030.pdf",
+      "github_path": "tekigikaizi/20260326/9627_アインHD_組織変更及び人事異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9629",
+      "company": "ピーシーエー",
+      "title": "代表取締役の異動及び役員人事に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260325588965",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588965.pdf",
+      "github_path": "tekigikaizi/20260326/9629_ピーシーエー_代表取締役の異動及び役員人事に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9832",
+      "company": "オートバックス",
+      "title": "取締役候補者の選任に関するお知らせ",
+      "time": "15:30",
+      "file_id": "140120260326589823",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589823.pdf",
+      "github_path": "tekigikaizi/20260326/9832_オートバックス_取締役候補者の選任に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6282",
+      "company": "オイレス工",
+      "title": "代表取締役の異動及び役員等の異動に関するお知らせ",
+      "time": "15:10",
+      "file_id": "140120260326590099",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590099.pdf",
+      "github_path": "tekigikaizi/20260326/6282_オイレス工_代表取締役の異動及び役員等の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9633",
+      "company": "テアトル",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "time": "15:10",
+      "file_id": "140120260326590119",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590119.pdf",
+      "github_path": "tekigikaizi/20260326/9633_テアトル_自己株式の取得状況及び取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2198",
+      "company": "アイ・ケイ・ケイＨＤ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260218564778",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260218564778.pdf",
+      "github_path": "tekigikaizi/20260326/2198_アイ・ケイ・ケイHD_譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2198",
+      "company": "アイ・ケイ・ケイＨＤ",
+      "title": "株主優待品の贈呈時期変更に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260318584107",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260318584107.pdf",
+      "github_path": "tekigikaizi/20260326/2198_アイ・ケイ・ケイHD_株主優待品の贈呈時期変更に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3066",
+      "company": "ＪＢイレブン",
+      "title": "当社取締役会における実効性評価の結果概要に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260318584144",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260318584144.pdf",
+      "github_path": "tekigikaizi/20260326/3066_JBイレブン_当社取締役会における実効性評価の結果概要に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3237",
+      "company": "Ｇ－イントランス",
+      "title": "新株予約権（第９回）の強制行使に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260326590032",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590032.pdf",
+      "github_path": "tekigikaizi/20260326/3237_G－イントランス_新株予約権（第9回）の強制行使に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3333",
+      "company": "あさひ",
+      "title": "業務提携に係る基本合意書締結に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260326589695",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589695.pdf",
+      "github_path": "tekigikaizi/20260326/3333_あさひ_業務提携に係る基本合意書締結に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "391A",
+      "company": "山忠",
+      "title": "財務上の特約が付された金銭消費貸借契約締結に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260325589200",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589200.pdf",
+      "github_path": "tekigikaizi/20260326/391A_山忠_財務上の特約が付された金銭消費貸借契約締結に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "391A",
+      "company": "山忠",
+      "title": "財務上の特約が付された金銭消費貸借契約締結に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260325589305",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589305.pdf",
+      "github_path": "tekigikaizi/20260326/391A_山忠_財務上の特約が付された金銭消費貸借契約締結に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4178",
+      "company": "Ｇ－Ｓイノベーション",
+      "title": "支配株主等に関する事項について",
+      "time": "15:00",
+      "file_id": "140120260323586994",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260323586994.pdf",
+      "github_path": "tekigikaizi/20260326/4178_G－Sイノベーション_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4248",
+      "company": "竹本容器",
+      "title": "公益財団法人財務会計基準機構への加入状況及び加入に関する考え方等に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260326589930",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589930.pdf",
+      "github_path": "tekigikaizi/20260326/4248_竹本容器_公益財団法人財務会計基準機構への加入状況及び加入に関する考え方等に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4725",
+      "company": "ＣＡＣＨＤ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260325588673",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588673.pdf",
+      "github_path": "tekigikaizi/20260326/4725_CACHD_譲渡制限付株式報酬としての自己株式の処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4725",
+      "company": "ＣＡＣＨＤ",
+      "title": "当社株券等の大規模買付行為への対応方針（買収防衛策）の更新承認 および特別委員会の委員選任に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260325588681",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588681.pdf",
+      "github_path": "tekigikaizi/20260326/4725_CACHD_当社株券等の大規模買付行為への対応方針（買収防衛策）の更新承認 および特別委員会の委員選任に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5969",
+      "company": "ロブテックス",
+      "title": "役員人事に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260323586404",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260323586404.pdf",
+      "github_path": "tekigikaizi/20260326/5969_ロブテックス_役員人事に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6262",
+      "company": "ＰＥＧＡＳＵＳ",
+      "title": "コミットメントライン契約締結に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260325588497",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588497.pdf",
+      "github_path": "tekigikaizi/20260326/6262_PEGASUS_コミットメントライン契約締結に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6467",
+      "company": "ニチダイ",
+      "title": "取締役の異動、組織変更及び人事異動に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260326589915",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589915.pdf",
+      "github_path": "tekigikaizi/20260326/6467_ニチダイ_取締役の異動、組織変更及び人事異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6557",
+      "company": "Ｇ－ＡＩＡＩ",
+      "title": "連結子会社間の吸収合併に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260326589440",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589440.pdf",
+      "github_path": "tekigikaizi/20260326/6557_G－AIAI_連結子会社間の吸収合併に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8522",
+      "company": "名古屋銀",
+      "title": "自己資本比率の算定方法の変更について",
+      "time": "15:00",
+      "file_id": "140120260324588002",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324588002.pdf",
+      "github_path": "tekigikaizi/20260326/8522_名古屋銀_自己資本比率の算定方法の変更について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8550",
+      "company": "栃木銀",
+      "title": "監査等委員会設置会社への移行に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260326589432",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589432.pdf",
+      "github_path": "tekigikaizi/20260326/8550_栃木銀_監査等委員会設置会社への移行に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8714",
+      "company": "池田泉州",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260324587964",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587964.pdf",
+      "github_path": "tekigikaizi/20260326/8714_池田泉州_譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8747",
+      "company": "豊トラスティ証券",
+      "title": "連結総資産の減少に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260326589613",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589613.pdf",
+      "github_path": "tekigikaizi/20260326/8747_豊トラスティ証券_連結総資産の減少に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8864",
+      "company": "空港施設",
+      "title": "代表取締役の異動に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260326589916",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589916.pdf",
+      "github_path": "tekigikaizi/20260326/8864_空港施設_代表取締役の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9543",
+      "company": "静岡ガス",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "time": "15:00",
+      "file_id": "140120260326589875",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589875.pdf",
+      "github_path": "tekigikaizi/20260326/9543_静岡ガス_譲渡制限付株式報酬としての自己株式の処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3928",
+      "company": "マイネット",
+      "title": "連結子会社からの配当金受領に関するお知らせ",
+      "time": "14:51",
+      "file_id": "140120260326590160",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590160.pdf",
+      "github_path": "tekigikaizi/20260326/3928_マイネット_連結子会社からの配当金受領に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7719",
+      "company": "東京衡機",
+      "title": "上場維持基準への適合及び当社株式の監理銘柄(確認中)指定解除に関するお知らせ",
+      "time": "14:40",
+      "file_id": "140120260326590024",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590024.pdf",
+      "github_path": "tekigikaizi/20260326/7719_東京衡機_上場維持基準への適合及び当社株式の監理銘柄(確認中)指定解除に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7991",
+      "company": "マミヤオーピー",
+      "title": "（訂正）「親会社等の決算に関するお知らせ」の一部訂正について",
+      "time": "14:40",
+      "file_id": "140120260326590009",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326590009.pdf",
+      "github_path": "tekigikaizi/20260326/7991_マミヤオーピー_（訂正）「親会社等の決算に関するお知らせ」の一部訂正について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4598",
+      "company": "Ｇ－ＤＥＬＴＡ－Ｐ",
+      "title": "（訂正）「DFP-10917とVENとの併用による臨床第1／2相試験のDMC評価結果に関するお知らせ」の一部訂正とお問い合わせに関するお知らせ",
+      "time": "14:30",
+      "file_id": "140120260326589984",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589984.pdf",
+      "github_path": "tekigikaizi/20260326/4598_G－DELTA－P_（訂正）「DFP-10917とVENとの併用による臨床第1／2相試験のDMC評価結果に関するお知らせ」の一部訂正とお問い合わせに関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6989",
+      "company": "北電工業",
+      "title": "取締役の管掌変更および執行役員の異動に関するお知らせ",
+      "time": "14:30",
+      "file_id": "140120260325588323",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588323.pdf",
+      "github_path": "tekigikaizi/20260326/6989_北電工業_取締役の管掌変更および執行役員の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8524",
+      "company": "北洋銀行",
+      "title": "新中期経営計画に関する説明資料更新のお知らせ",
+      "time": "14:30",
+      "file_id": "140120260326589481",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589481.pdf",
+      "github_path": "tekigikaizi/20260326/8524_北洋銀行_新中期経営計画に関する説明資料更新のお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5015",
+      "company": "ＢＰカストロール",
+      "title": "支配株主等に関する事項について",
+      "time": "14:10",
+      "file_id": "140120260326589942",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589942.pdf",
+      "github_path": "tekigikaizi/20260326/5015_BPカストロール_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3299",
+      "company": "ムゲンエステート",
+      "title": "支配株主等に関する事項について",
+      "time": "14:00",
+      "file_id": "140120260319585637",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260319585637.pdf",
+      "github_path": "tekigikaizi/20260326/3299_ムゲンエステート_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3299",
+      "company": "ムゲンエステート",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "time": "14:00",
+      "file_id": "140120260319585640",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260319585640.pdf",
+      "github_path": "tekigikaizi/20260326/3299_ムゲンエステート_譲渡制限付株式報酬としての自己株式の処分に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5491",
+      "company": "日本金属",
+      "title": "機構改革及び役員・職員人事について",
+      "time": "14:00",
+      "file_id": "140120260326589936",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589936.pdf",
+      "github_path": "tekigikaizi/20260326/5491_日本金属_機構改革及び役員・職員人事について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5644",
+      "company": "メタルアート",
+      "title": "2026年４月１日付 役員人事に関するお知らせ",
+      "time": "14:00",
+      "file_id": "140120260326589313",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589313.pdf",
+      "github_path": "tekigikaizi/20260326/5644_メタルアート_2026年4月1日付 役員人事に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6547",
+      "company": "グリーンズ",
+      "title": "シンジケートローン変更契約の締結に関するお知らせ",
+      "time": "14:00",
+      "file_id": "140120260326589379",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589379.pdf",
+      "github_path": "tekigikaizi/20260326/6547_グリーンズ_シンジケートローン変更契約の締結に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7245",
+      "company": "大同メタル",
+      "title": "役員の体制及び執行役員の異動に関するお知らせ",
+      "time": "14:00",
+      "file_id": "140120260326589662",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589662.pdf",
+      "github_path": "tekigikaizi/20260326/7245_大同メタル_役員の体制及び執行役員の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8061",
+      "company": "西華産",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "14:00",
+      "file_id": "140120260326589709",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589709.pdf",
+      "github_path": "tekigikaizi/20260326/8061_西華産_業績予想の修正に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9072",
+      "company": "ニッコンＨＤ",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "time": "14:00",
+      "file_id": "140120260326589397",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589397.pdf",
+      "github_path": "tekigikaizi/20260326/9072_ニッコンHD_自己株式の取得状況及び取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9824",
+      "company": "泉州電業",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "time": "14:00",
+      "file_id": "140120260326589722",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589722.pdf",
+      "github_path": "tekigikaizi/20260326/9824_泉州電業_譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9973",
+      "company": "ＫＯＺＯＨＤ",
+      "title": "（訂正・数値データ訂正） 「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "14:00",
+      "file_id": "140120260326589857",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589857.pdf",
+      "github_path": "tekigikaizi/20260326/9973_KOZOHD_（訂正・数値データ訂正） 「2025年12月期 決算短信〔日本基準〕（連結）」の一部訂正について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3490",
+      "company": "アズ企画設計",
+      "title": "販売用不動産の取得に伴う資金借入に関するお知らせ",
+      "time": "13:30",
+      "file_id": "140120260326589716",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589716.pdf",
+      "github_path": "tekigikaizi/20260326/3490_アズ企画設計_販売用不動産の取得に伴う資金借入に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1799",
+      "company": "第一建設",
+      "title": "執行役員の選任および担当業務の変更に関するお知らせ",
+      "time": "13:00",
+      "file_id": "140120260326589441",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589441.pdf",
+      "github_path": "tekigikaizi/20260326/1799_第一建設_執行役員の選任および担当業務の変更に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "464A",
+      "company": "Ｇ－ＱＰＳＨＤ",
+      "title": "投資家の皆さまより寄せられたご質問および回答内容公開のお知らせ",
+      "time": "13:00",
+      "file_id": "140120260325588452",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588452.pdf",
+      "github_path": "tekigikaizi/20260326/464A_G－QPSHD_投資家の皆さまより寄せられたご質問および回答内容公開のお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4935",
+      "company": "リベルタ",
+      "title": "財務上の特約が付されたコミットメントライン契約の延長に関するお知らせ",
+      "time": "13:00",
+      "file_id": "140120260326589686",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589686.pdf",
+      "github_path": "tekigikaizi/20260326/4935_リベルタ_財務上の特約が付されたコミットメントライン契約の延長に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6703",
+      "company": "ＯＫＩ",
+      "title": "配当予想の修正に関するお知らせ",
+      "time": "13:00",
+      "file_id": "140120260325588183",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588183.pdf",
+      "github_path": "tekigikaizi/20260326/6703_OKI_配当予想の修正に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6890",
+      "company": "フェローテック",
+      "title": "（開示事項の訂正）2028年満期ユーロ円建転換社債型新株予約権付社債の130％コールオプション条項による繰上償還の権利発生と行使に関するお知らせ",
+      "time": "13:00",
+      "file_id": "140120260326589826",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589826.pdf",
+      "github_path": "tekigikaizi/20260326/6890_フェローテック_（開示事項の訂正）2028年満期ユーロ円建転換社債型新株予約権付社債の130％コールオプション条項による繰上償還の権利発生と行使に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8713",
+      "company": "フィデアＨＤ",
+      "title": "自己資本比率の算定方法の変更について",
+      "time": "13:00",
+      "file_id": "140120260326589830",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589830.pdf",
+      "github_path": "tekigikaizi/20260326/8713_フィデアHD_自己資本比率の算定方法の変更について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2749",
+      "company": "ＪＰＨＤ",
+      "title": "自己株式の処分の払込完了及び一部失権に関するお知らせ",
+      "time": "12:30",
+      "file_id": "140120260326589794",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589794.pdf",
+      "github_path": "tekigikaizi/20260326/2749_JPHD_自己株式の処分の払込完了及び一部失権に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3245",
+      "company": "ディア・ライフ",
+      "title": "マンション開発用地の取得に関するお知らせ",
+      "time": "12:30",
+      "file_id": "140120260325589236",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589236.pdf",
+      "github_path": "tekigikaizi/20260326/3245_ディア・ライフ_マンション開発用地の取得に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3245",
+      "company": "ディア・ライフ",
+      "title": "収益不動産（駒沢公園）の取得に関するお知らせ",
+      "time": "12:30",
+      "file_id": "140120260325589245",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589245.pdf",
+      "github_path": "tekigikaizi/20260326/3245_ディア・ライフ_収益不動産（駒沢公園）の取得に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3245",
+      "company": "ディア・ライフ",
+      "title": "収益不動産（王子神谷）の取得に関するお知らせ",
+      "time": "12:30",
+      "file_id": "140120260325589247",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589247.pdf",
+      "github_path": "tekigikaizi/20260326/3245_ディア・ライフ_収益不動産（王子神谷）の取得に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3776",
+      "company": "ＢＢタワー",
+      "title": "非上場の親会社等の決算情報に関するお知らせ",
+      "time": "12:30",
+      "file_id": "140120260326589453",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589453.pdf",
+      "github_path": "tekigikaizi/20260326/3776_BBタワー_非上場の親会社等の決算情報に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7606",
+      "company": "Ｕアローズ",
+      "title": "持株会社体制への移行準備開始および分割準備会社の設立に関するお知らせ",
+      "time": "12:30",
+      "file_id": "140120260326589625",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589625.pdf",
+      "github_path": "tekigikaizi/20260326/7606_Uアローズ_持株会社体制への移行準備開始および分割準備会社の設立に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7606",
+      "company": "Ｕアローズ",
+      "title": "内部統制システム構築の基本方針の一部改訂に関するお知らせ",
+      "time": "12:30",
+      "file_id": "140120260326589644",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589644.pdf",
+      "github_path": "tekigikaizi/20260326/7606_Uアローズ_内部統制システム構築の基本方針の一部改訂に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2211",
+      "company": "不二家",
+      "title": "支配株主等に関する事項について",
+      "time": "12:00",
+      "file_id": "140120260322585995",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260322585995.pdf",
+      "github_path": "tekigikaizi/20260326/2211_不二家_支配株主等に関する事項について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6724",
+      "company": "エプソン",
+      "title": "連結子会社の商号変更に関するお知らせ",
+      "time": "12:00",
+      "file_id": "140120260325589127",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589127.pdf",
+      "github_path": "tekigikaizi/20260326/6724_エプソン_連結子会社の商号変更に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8927",
+      "company": "明豊エンター",
+      "title": "連結子会社における当座貸越契約の締結に関するお知らせ",
+      "time": "12:00",
+      "file_id": "140120260326589405",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589405.pdf",
+      "github_path": "tekigikaizi/20260326/8927_明豊エンター_連結子会社における当座貸越契約の締結に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9425",
+      "company": "ＲｅＹｕｕＪａｐａｎ",
+      "title": "中期事業戦略",
+      "time": "12:00",
+      "file_id": "140120260324588086",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324588086.pdf",
+      "github_path": "tekigikaizi/20260326/9425_ReYuuJapan_中期事業戦略.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1982",
+      "company": "日比谷設",
+      "title": "（開示事項の変更）株式分割により増加する株式等の変更に関するお知らせ",
+      "time": "11:45",
+      "file_id": "140120260326589705",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589705.pdf",
+      "github_path": "tekigikaizi/20260326/1982_日比谷設_（開示事項の変更）株式分割により増加する株式等の変更に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2160",
+      "company": "Ｇ－ＧＮＩ",
+      "title": "2025年12月期 通期 決算説明資料",
+      "time": "11:30",
+      "file_id": "140120260325589269",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589269.pdf",
+      "github_path": "tekigikaizi/20260326/2160_G－GNI_2025年12月期 通期 決算説明資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3494",
+      "company": "マリオン",
+      "title": "資金の借入に関するお知らせ",
+      "time": "11:30",
+      "file_id": "140120260326589562",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589562.pdf",
+      "github_path": "tekigikaizi/20260326/3494_マリオン_資金の借入に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3563",
+      "company": "Ｆ＆ＬＣ",
+      "title": "コミットメントライン契約締結に関するお知らせ",
+      "time": "11:30",
+      "file_id": "140120260325588961",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588961.pdf",
+      "github_path": "tekigikaizi/20260326/3563_F＆LC_コミットメントライン契約締結に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3853",
+      "company": "アステリア",
+      "title": "中長期保有株主優待制度の拡充に関するお知らせ（ステーブルコインJPYC選択肢の追加）",
+      "time": "11:30",
+      "file_id": "140120260326589609",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589609.pdf",
+      "github_path": "tekigikaizi/20260326/3853_アステリア_中長期保有株主優待制度の拡充に関するお知らせ（ステーブルコインJPYC選択肢の追加）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4389",
+      "company": "Ｇ－プロパティＤＢＫ",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果に関するお知らせ",
+      "time": "11:00",
+      "file_id": "140120260324587834",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587834.pdf",
+      "github_path": "tekigikaizi/20260326/4389_G－プロパティDBK_自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4389",
+      "company": "Ｇ－プロパティＤＢＫ",
+      "title": "主要株主の異動に関するお知らせ",
+      "time": "11:00",
+      "file_id": "140120260324587868",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587868.pdf",
+      "github_path": "tekigikaizi/20260326/4389_G－プロパティDBK_主要株主の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5237",
+      "company": "ノザワ",
+      "title": "譲渡制限付株式としての自己株式の処分の払込完了及び一部失権に関するお知らせ",
+      "time": "11:00",
+      "file_id": "140120260324587682",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260324587682.pdf",
+      "github_path": "tekigikaizi/20260326/5237_ノザワ_譲渡制限付株式としての自己株式の処分の払込完了及び一部失権に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7790",
+      "company": "バルコス",
+      "title": "事業計画及び成長可能性に関する事項",
+      "time": "11:00",
+      "file_id": "140120260326589429",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589429.pdf",
+      "github_path": "tekigikaizi/20260326/7790_バルコス_事業計画及び成長可能性に関する事項.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8163",
+      "company": "ＳＲＳＨＤ",
+      "title": "投資有価証券売却益（特別利益）の計上額確定に関するお知らせ",
+      "time": "11:00",
+      "file_id": "140120260325589208",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589208.pdf",
+      "github_path": "tekigikaizi/20260326/8163_SRSHD_投資有価証券売却益（特別利益）の計上額確定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8304",
+      "company": "あおぞら",
+      "title": "自己資本比率の算定方法の変更について",
+      "time": "11:00",
+      "file_id": "140120260326589510",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589510.pdf",
+      "github_path": "tekigikaizi/20260326/8304_あおぞら_自己資本比率の算定方法の変更について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6173",
+      "company": "Ｇ－アクアライン",
+      "title": "上場維持基準（流通株式時価総額）への適合及び当社株式の監理銘柄（確認中）指定解除に関するお知らせ",
+      "time": "10:45",
+      "file_id": "140120260326589552",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589552.pdf",
+      "github_path": "tekigikaizi/20260326/6173_G－アクアライン_上場維持基準（流通株式時価総額）への適合及び当社株式の監理銘柄（確認中）指定解除に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1860",
+      "company": "戸田建",
+      "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による取得結果および取得終了に関するお知らせ",
+      "time": "10:30",
+      "file_id": "140120260325588171",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588171.pdf",
+      "github_path": "tekigikaizi/20260326/1860_戸田建_自己株式立会外買付取引（ToSTNeT－3）による取得結果および取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1860",
+      "company": "戸田建",
+      "title": "一括取得型自己株式取得（ASR）による自己株式取得のための第三者割当による第１回新株予約権の発行条件の決定に関するお知らせ",
+      "time": "10:30",
+      "file_id": "140120260325588158",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588158.pdf",
+      "github_path": "tekigikaizi/20260326/1860_戸田建_一括取得型自己株式取得（ASR）による自己株式取得のための第三者割当による第1回新株予約権の発行条件の決定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5391",
+      "company": "Ａ＆Ａマテリアル",
+      "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による自己株式の取得結果及び自己株式の取得終了に関するお知らせ",
+      "time": "10:30",
+      "file_id": "140120260326589403",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589403.pdf",
+      "github_path": "tekigikaizi/20260326/5391_A＆Aマテリアル_自己株式立会外買付取引（ToSTNeT－3）による自己株式の取得結果及び自己株式の取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5943",
+      "company": "ノーリツ",
+      "title": "投資有価証券売却益（特別利益）の計上に関するお知らせ",
+      "time": "10:30",
+      "file_id": "140120260325589217",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589217.pdf",
+      "github_path": "tekigikaizi/20260326/5943_ノーリツ_投資有価証券売却益（特別利益）の計上に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9274",
+      "company": "ＫＰＰグループＨＤ",
+      "title": "自己株式の取得状および取得終了に関するお知らせ",
+      "time": "10:00",
+      "file_id": "140120260326589445",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589445.pdf",
+      "github_path": "tekigikaizi/20260326/9274_KPPグループHD_自己株式の取得状および取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9780",
+      "company": "ハリマビステム",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果に関するお知らせ",
+      "time": "10:00",
+      "file_id": "140120260325589105",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589105.pdf",
+      "github_path": "tekigikaizi/20260326/9780_ハリマビステム_自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6498",
+      "company": "キッツ",
+      "title": "株式会社ブイテックスの株式の取得（子会社化）に関するお知らせ",
+      "time": "09:55",
+      "file_id": "140120260323586962",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260323586962.pdf",
+      "github_path": "tekigikaizi/20260326/6498_キッツ_株式会社ブイテックスの株式の取得（子会社化）に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7004",
+      "company": "カナデビア",
+      "title": "株式譲渡に伴う連結子会社の異動に関するお知らせ",
+      "time": "09:55",
+      "file_id": "140120260325588929",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325588929.pdf",
+      "github_path": "tekigikaizi/20260326/7004_カナデビア_株式譲渡に伴う連結子会社の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6625",
+      "company": "ＪＡＬＣＯ ＨＤ",
+      "title": "剰余金の配当（期末配当）に関するお知らせ",
+      "time": "09:45",
+      "file_id": "140120260326589406",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589406.pdf",
+      "github_path": "tekigikaizi/20260326/6625_JALCO HD_剰余金の配当（期末配当）に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9508",
+      "company": "九州電力",
+      "title": "純粋持株会社体制への移行等に関する一部報道について",
+      "time": "08:58",
+      "file_id": "140120260326589387",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589387.pdf",
+      "github_path": "tekigikaizi/20260326/9508_九州電力_純粋持株会社体制への移行等に関する一部報道について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9173",
+      "company": "東海船",
+      "title": "執行役員の異動に関するお知らせ",
+      "time": "08:55",
+      "file_id": "140120260325589301",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589301.pdf",
+      "github_path": "tekigikaizi/20260326/9173_東海船_執行役員の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6890",
+      "company": "フェローテック",
+      "title": "2028年満期ユーロ円建転換社債型新株予約権付社債の130％コールオプション条項による繰上償還の権利発生と行使に関するお知らせ",
+      "time": "08:45",
+      "file_id": "140120260323586384",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260323586384.pdf",
+      "github_path": "tekigikaizi/20260326/6890_フェローテック_2028年満期ユーロ円建転換社債型新株予約権付社債の130％コールオプション条項による繰上償還の権利発生と行使に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "530A",
+      "company": "ＮＺＡＭ Ｊリート２",
+      "title": "弊社ＥＴＦの基準価額と市場価格の重要な乖離についてのお知らせ",
+      "time": "08:30",
+      "file_id": "140120260326589320",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260326589320.pdf",
+      "github_path": "tekigikaizi/20260326/530A_NZAM Jリート2_弊社ETFの基準価額と市場価格の重要な乖離についてのお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "528A",
+      "company": "Ｐ－フリースタイル",
+      "title": "東京証券取引所 TOKYO PRO Marketへの上場のお知らせ",
+      "time": "08:00",
+      "file_id": "140120260325589180",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589180.pdf",
+      "github_path": "tekigikaizi/20260326/528A_P－フリースタイル_東京証券取引所 TOKYO PRO Marketへの上場のお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "528A",
+      "company": "Ｐ－フリースタイル",
+      "title": "東京証券取引所 TOKYO PRO Marketへの上場に伴う当社決算情報等のお知らせ",
+      "time": "08:00",
+      "file_id": "140120260325589191",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589191.pdf",
+      "github_path": "tekigikaizi/20260326/528A_P－フリースタイル_東京証券取引所 TOKYO PRO Marketへの上場に伴う当社決算情報等のお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "528A",
+      "company": "Ｐ－フリースタイル",
+      "title": "流動性プロバイダーの指定のお知らせ",
+      "time": "08:00",
+      "file_id": "140120260325589198",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260325589198.pdf",
+      "github_path": "tekigikaizi/20260326/528A_P－フリースタイル_流動性プロバイダーの指定のお知らせ.pdf",
+      "status": "uploaded"
+    }
+  ]
+}
