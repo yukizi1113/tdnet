@@ -1,0 +1,157 @@
+{
+  "date": "20260330",
+  "folder": "20260330",
+  "root": "XBRL/20260330/",
+  "items": [
+    {
+      "ticker": "8051",
+      "company": "山善",
+      "title": "2026年３月期通期連結業績予想の修正に関するお知らせ",
+      "time": "18:00",
+      "file_id": "091220260330592406",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260330592406.zip",
+      "github_path": "XBRL/20260330/8051_山善_2026年3月期通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4813",
+      "company": "ＡＣＣＥＳＳ",
+      "title": "(訂正・数値データ訂正) 「2026年１月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "17:00",
+      "file_id": "081220260330592873",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260330592873.zip",
+      "github_path": "XBRL/20260330/4813_ACCESS_(訂正・数値データ訂正) 「2026年1月期 決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7356",
+      "company": "Ｇ－Ｒｅｔｔｙ",
+      "title": "特別利益（投資有価証券売却益）の計上及び業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260324587650",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260324587650.zip",
+      "github_path": "XBRL/20260330/7356_G－Retty_特別利益（投資有価証券売却益）の計上及び業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "197A",
+      "company": "タウンズ",
+      "title": "通期業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260330592266",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260330592266.zip",
+      "github_path": "XBRL/20260330/197A_タウンズ_通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4203",
+      "company": "住友ベーク",
+      "title": "配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260330592349",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260330592349.zip",
+      "github_path": "XBRL/20260330/4203_住友ベーク_配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4320",
+      "company": "ＣＥＨＤ",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260327591465",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260327591465.zip",
+      "github_path": "XBRL/20260330/4320_CEHD_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4534",
+      "company": "持田薬",
+      "title": "2026年3月期第3四半期決算短信〔日本基準〕(連結)（公認会計士等による期中レビューの完了）",
+      "time": "15:30",
+      "file_id": "081220260317583825",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260317583825.zip",
+      "github_path": "XBRL/20260330/4534_持田薬_2026年3月期第3四半期決算短信〔日本基準〕(連結)（公認会計士等による期中レビューの完了）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6083",
+      "company": "ＥＲＩ ＨＤ",
+      "title": "2026年５月期第３四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260326590036",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260326590036.zip",
+      "github_path": "XBRL/20260330/6083_ERI HD_2026年5月期第3四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6166",
+      "company": "Ｇ－中村超硬",
+      "title": "2026年３月期配当予想の修正（記念配当）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260330592883",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260330592883.zip",
+      "github_path": "XBRL/20260330/6166_G－中村超硬_2026年3月期配当予想の修正（記念配当）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7965",
+      "company": "象印マホービン",
+      "title": "2026年11月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260325588276",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260325588276.zip",
+      "github_path": "XBRL/20260330/7965_象印マホービン_2026年11月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8165",
+      "company": "千趣会",
+      "title": "固定資産の譲渡及び特別利益の計上並びに通期業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260330592230",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260330592230.zip",
+      "github_path": "XBRL/20260330/8165_千趣会_固定資産の譲渡及び特別利益の計上並びに通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8227",
+      "company": "しまむら",
+      "title": "2026年２月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260329592096",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260329592096.zip",
+      "github_path": "XBRL/20260330/8227_しまむら_2026年2月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1719",
+      "company": "安藤ハザマ",
+      "title": "特別利益（投資有価証券売却益）の計上見込みおよび2026年３月期 通期業績予想の修正に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220260330592251",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260330592251.zip",
+      "github_path": "XBRL/20260330/1719_安藤ハザマ_特別利益（投資有価証券売却益）の計上見込みおよび2026年3月期 通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1801",
+      "company": "大成建",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "time": "13:00",
+      "file_id": "091220260327591467",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260327591467.zip",
+      "github_path": "XBRL/20260330/1801_大成建_業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "253A",
+      "company": "ＥＴＳグループ",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "11:30",
+      "file_id": "091220260324587128",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260324587128.zip",
+      "github_path": "XBRL/20260330/253A_ETSグループ_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
