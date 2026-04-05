@@ -1,0 +1,97 @@
+{
+  "date": "20260401",
+  "folder": "20260401",
+  "root": "XBRL/20260401/",
+  "items": [
+    {
+      "ticker": "3565",
+      "company": "アセンテック",
+      "title": "（訂正・数値データ訂正）「2026年１月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260331594988",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260331594988.zip",
+      "github_path": "XBRL/20260401/3565_アセンテック_（訂正・数値データ訂正）「2026年1月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5271",
+      "company": "トーヨーアサノ",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260330593128",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260330593128.zip",
+      "github_path": "XBRL/20260401/5271_トーヨーアサノ_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7975",
+      "company": "リヒトラブ",
+      "title": "2026年２月期通期連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260331594940",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260331594940.zip",
+      "github_path": "XBRL/20260401/7975_リヒトラブ_2026年2月期通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8217",
+      "company": "オークワ",
+      "title": "減損損失の計上及び業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260325589204",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260325589204.zip",
+      "github_path": "XBRL/20260401/8217_オークワ_減損損失の計上及び業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8254",
+      "company": "さいか屋",
+      "title": "業績予想の上方修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260330592956",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260330592956.zip",
+      "github_path": "XBRL/20260401/8254_さいか屋_業績予想の上方修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4238",
+      "company": "ミライアル",
+      "title": "（訂正・数値データ訂正）「2026年１月期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "14:30",
+      "file_id": "081220260401595900",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260401595900.zip",
+      "github_path": "XBRL/20260401/4238_ミライアル_（訂正・数値データ訂正）「2026年1月期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5942",
+      "company": "日フイルコン",
+      "title": "2026年11月期 第１四半期決算短信〔日本基準〕(連結)",
+      "time": "14:00",
+      "file_id": "081220260401595741",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260401595741.zip",
+      "github_path": "XBRL/20260401/5942_日フイルコン_2026年11月期 第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7063",
+      "company": "Ｇ－Ｂｉｒｄｍａｎ",
+      "title": "通期業績予想に関するお知らせ",
+      "time": "14:00",
+      "file_id": "091220260401596409",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260401596409.zip",
+      "github_path": "XBRL/20260401/7063_G－Birdman_通期業績予想に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8891",
+      "company": "ＡＭＧＨＤ",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "09:00",
+      "file_id": "091220260330592604",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260330592604.zip",
+      "github_path": "XBRL/20260401/8891_AMGHD_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
