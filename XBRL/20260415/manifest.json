@@ -1,0 +1,147 @@
+{
+  "date": "20260415",
+  "folder": "20260415",
+  "root": "XBRL/20260415/",
+  "items": [
+    {
+      "ticker": "2884",
+      "company": "ヨシムラ・Ｆ・ＨＤ",
+      "title": "2026年２月期 決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260415504508",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260415504508.zip",
+      "github_path": "XBRL/20260415/2884_ヨシムラ・F・HD_2026年2月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3648",
+      "company": "ＡＧＳ",
+      "title": "配当予想の修正（増配）に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260415504636",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260415504636.zip",
+      "github_path": "XBRL/20260415/3648_AGS_配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7343",
+      "company": "Ｇ－ブロードマインド",
+      "title": "通期連結業績予想の修正及び配当予想の修正（増配）に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260413502685",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260413502685.zip",
+      "github_path": "XBRL/20260415/7343_G－ブロードマインド_通期連結業績予想の修正及び配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1514",
+      "company": "住石ＨＤ",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260327591550",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260327591550.zip",
+      "github_path": "XBRL/20260415/1514_住石HD_業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2698",
+      "company": "キャンドゥ",
+      "title": "(訂正・数値データ訂正)「2026年２月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260415504510",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260415504510.zip",
+      "github_path": "XBRL/20260415/2698_キャンドゥ_(訂正・数値データ訂正)「2026年2月期 決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3449",
+      "company": "テクノフレックス",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260414503891",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260414503891.zip",
+      "github_path": "XBRL/20260415/3449_テクノフレックス_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4250",
+      "company": "Ｑ－フロンティア",
+      "title": "2026年11月期 第１四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260415504741",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260415504741.zip",
+      "github_path": "XBRL/20260415/4250_Q－フロンティア_2026年11月期 第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6866",
+      "company": "日置電",
+      "title": "2026年12月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260415504602",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260415504602.zip",
+      "github_path": "XBRL/20260415/6866_日置電_2026年12月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7515",
+      "company": "マルヨシセンター",
+      "title": "2026年2月期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260403597984",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260403597984.zip",
+      "github_path": "XBRL/20260415/7515_マルヨシセンター_2026年2月期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7811",
+      "company": "中本パックス",
+      "title": "（訂正・数値データ訂正）「2026年２月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "081220260415504588",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260415504588.zip",
+      "github_path": "XBRL/20260415/7811_中本パックス_（訂正・数値データ訂正）「2026年2月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8613",
+      "company": "丸三証",
+      "title": "2026年3月期 決算速報値に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260415504684",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260415504684.zip",
+      "github_path": "XBRL/20260415/8613_丸三証_2026年3月期 決算速報値に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7847",
+      "company": "グラファイトＤ",
+      "title": "2026年２月期 決算短信〔日本基準〕（非連結）",
+      "time": "15:00",
+      "file_id": "081220260414503893",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260414503893.zip",
+      "github_path": "XBRL/20260415/7847_グラファイトD_2026年2月期 決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2300",
+      "company": "きょくと",
+      "title": "2026年２月期決算短信〔日本基準〕（非連結）",
+      "time": "14:00",
+      "file_id": "081220260415504750",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260415504750.zip",
+      "github_path": "XBRL/20260415/2300_きょくと_2026年2月期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3198",
+      "company": "ＳＦＰＨＤ",
+      "title": "（訂正・数値データ訂正）「２０２６年２月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "11:30",
+      "file_id": "081220260414504351",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260414504351.zip",
+      "github_path": "XBRL/20260415/3198_SFPHD_（訂正・数値データ訂正）「2026年2月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
