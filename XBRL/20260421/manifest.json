@@ -1,0 +1,157 @@
+{
+  "date": "20260421",
+  "folder": "20260421",
+  "root": "XBRL/20260421/",
+  "items": [
+    {
+      "ticker": "6750",
+      "company": "エレコム",
+      "title": "期末配当予想の修正（40周年記念配当）に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260420506585",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260420506585.zip",
+      "github_path": "XBRL/20260421/6750_エレコム_期末配当予想の修正（40周年記念配当）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3091",
+      "company": "ブロンコＢ",
+      "title": "2026年12月期第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260420506528",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260420506528.zip",
+      "github_path": "XBRL/20260421/3091_ブロンコB_2026年12月期第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3440",
+      "company": "日創グループ",
+      "title": "（数値データ訂正）「2026年８月期第１四半期決算短信〔日本基準〕（連結）」における数値データ（XBRL）の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260420507015",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260420507015.zip",
+      "github_path": "XBRL/20260421/3440_日創グループ_（数値データ訂正）「2026年8月期第1四半期決算短信〔日本基準〕（連結）」における数値データ（XBRL）の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4293",
+      "company": "セプテーニＨＤ",
+      "title": "剰余金配当方針ならびに配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260420506993",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260420506993.zip",
+      "github_path": "XBRL/20260421/4293_セプテーニHD_剰余金配当方針ならびに配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4684",
+      "company": "オービック",
+      "title": "2026年３月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260420506584",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260420506584.zip",
+      "github_path": "XBRL/20260421/4684_オービック_2026年3月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9793",
+      "company": "ダイセキ",
+      "title": "（訂正・数値データ訂正）「2026年2月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260421507501",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260421507501.zip",
+      "github_path": "XBRL/20260421/9793_ダイセキ_（訂正・数値データ訂正）「2026年2月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4733",
+      "company": "ＯＢＣ",
+      "title": "2026年３月期 決算短信〔日本基準〕（非連結）",
+      "time": "15:00",
+      "file_id": "081220260420506480",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260420506480.zip",
+      "github_path": "XBRL/20260421/4733_OBC_2026年3月期 決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8386",
+      "company": "百十四銀",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220260420506748",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260420506748.zip",
+      "github_path": "XBRL/20260421/8386_百十四銀_業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4042",
+      "company": "東ソー",
+      "title": "連結業績予想の修正に関するお知らせ",
+      "time": "14:00",
+      "file_id": "091220260420507004",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260420507004.zip",
+      "github_path": "XBRL/20260421/4042_東ソー_連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8935",
+      "company": "ＦＪネクストＨＤ",
+      "title": "通期連結業績予想及び期末配当予想の修正に関するお知らせ",
+      "time": "14:00",
+      "file_id": "091220260421507160",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260421507160.zip",
+      "github_path": "XBRL/20260421/8935_FJネクストHD_通期連結業績予想及び期末配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4367",
+      "company": "広栄化学",
+      "title": "2026年３月期業績予想の修正に関するお知らせ",
+      "time": "13:00",
+      "file_id": "091220260421507152",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260421507152.zip",
+      "github_path": "XBRL/20260421/4367_広栄化学_2026年3月期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6101",
+      "company": "ツガミ",
+      "title": "業績予想および配当予想の修正に関するお知らせ",
+      "time": "13:00",
+      "file_id": "091220260420506560",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260420506560.zip",
+      "github_path": "XBRL/20260421/6101_ツガミ_業績予想および配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5845",
+      "company": "全保連",
+      "title": "2026年3月期通期業績予想の上方修正に関するお知らせ",
+      "time": "12:30",
+      "file_id": "091220260417506270",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260417506270.zip",
+      "github_path": "XBRL/20260421/5845_全保連_2026年3月期通期業績予想の上方修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8622",
+      "company": "水戸証",
+      "title": "2026年３月期決算速報値に関するお知らせ",
+      "time": "11:30",
+      "file_id": "091220260417505944",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260417505944.zip",
+      "github_path": "XBRL/20260421/8622_水戸証_2026年3月期決算速報値に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1813",
+      "company": "不動テトラ",
+      "title": "業績予想の修正及び配当予想の修正（増配）に関するお知らせ",
+      "time": "11:00",
+      "file_id": "091220260420506958",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260420506958.zip",
+      "github_path": "XBRL/20260421/1813_不動テトラ_業績予想の修正及び配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
