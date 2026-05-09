@@ -1,0 +1,557 @@
+{
+  "date": "20260501",
+  "folder": "20260501",
+  "root": "XBRL/20260501/",
+  "items": [
+    {
+      "ticker": "5423",
+      "company": "東製鉄",
+      "title": "( 訂正・数値データ訂正) 「 2026 年３月期 決算短信〔日本基準〕（非連結）」の一部訂正について",
+      "time": "18:30",
+      "file_id": "081220260501517010",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501517010.zip",
+      "github_path": "XBRL/20260501/5423_東製鉄_( 訂正・数値データ訂正) 「 2026 年3月期 決算短信〔日本基準〕（非連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2148",
+      "company": "ＩＴＭ",
+      "title": "2026年３月期 決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "17:00",
+      "file_id": "081220260430515635",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260430515635.zip",
+      "github_path": "XBRL/20260501/2148_ITM_2026年3月期 決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9929",
+      "company": "平和紙業",
+      "title": "2026年３月期連結業績予想の修正に関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220260501516936",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260501516936.zip",
+      "github_path": "XBRL/20260501/9929_平和紙業_2026年3月期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9799",
+      "company": "旭情報",
+      "title": "2026年3月期 決算短信〔日本基準〕（非連結）",
+      "time": "16:30",
+      "file_id": "081220260501515873",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501515873.zip",
+      "github_path": "XBRL/20260501/9799_旭情報_2026年3月期 決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2551",
+      "company": "マルサンアイ",
+      "title": "2026年９月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "16:00",
+      "file_id": "081220260501516201",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501516201.zip",
+      "github_path": "XBRL/20260501/2551_マルサンアイ_2026年9月期第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2551",
+      "company": "マルサンアイ",
+      "title": "第２四半期（中間期）業績予想と実績値との差異及び通期業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260501516231",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260501516231.zip",
+      "github_path": "XBRL/20260501/2551_マルサンアイ_第2四半期（中間期）業績予想と実績値との差異及び通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6420",
+      "company": "ガリレイ",
+      "title": "2026年３月期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260501515767",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501515767.zip",
+      "github_path": "XBRL/20260501/6420_ガリレイ_2026年3月期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8281",
+      "company": "ゼビオＨＤ",
+      "title": "特別損失の計上ならびに通期業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260430515700",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260430515700.zip",
+      "github_path": "XBRL/20260501/8281_ゼビオHD_特別損失の計上ならびに通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9950",
+      "company": "ハチバン",
+      "title": "2026年３月期 決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260501516029",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501516029.zip",
+      "github_path": "XBRL/20260501/9950_ハチバン_2026年3月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6632",
+      "company": "ＪＶＣＫＷ",
+      "title": "2026年３月期 決算短信〔IFRS〕（連結）",
+      "time": "15:45",
+      "file_id": "081220260501516649",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501516649.zip",
+      "github_path": "XBRL/20260501/6632_JVCKW_2026年3月期 決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4206",
+      "company": "アイカ工",
+      "title": "2026年３月期 決算短信〔日本基準〕（連結）",
+      "time": "15:40",
+      "file_id": "081220260501515855",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501515855.zip",
+      "github_path": "XBRL/20260501/4206_アイカ工_2026年3月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2413",
+      "company": "エムスリー",
+      "title": "2026年３月期 決算短信 [IFRS]（連結）",
+      "time": "15:30",
+      "file_id": "081220260424510153",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260424510153.zip",
+      "github_path": "XBRL/20260501/2413_エムスリー_2026年3月期 決算短信 [IFRS]（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2480",
+      "company": "シスロケ",
+      "title": "2026年３月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260325588926",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260325588926.zip",
+      "github_path": "XBRL/20260501/2480_シスロケ_2026年3月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2907",
+      "company": "あじかん",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260501515878",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260501515878.zip",
+      "github_path": "XBRL/20260501/2907_あじかん_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "299A",
+      "company": "Ｇ－クラシル",
+      "title": "2026年３月期 決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260501516294",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501516294.zip",
+      "github_path": "XBRL/20260501/299A_G－クラシル_2026年3月期 決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3177",
+      "company": "ありがとうＳ",
+      "title": "（訂正・数値データ訂正）「2026年２月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260430515091",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260430515091.zip",
+      "github_path": "XBRL/20260501/3177_ありがとうS_（訂正・数値データ訂正）「2026年2月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4107",
+      "company": "伊勢化",
+      "title": "2026年12月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260428513632",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260428513632.zip",
+      "github_path": "XBRL/20260501/4107_伊勢化_2026年12月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4120",
+      "company": "スガイ化学工業",
+      "title": "業績予想の修正および配当予想の修正（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260428513393",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260428513393.zip",
+      "github_path": "XBRL/20260501/4120_スガイ化学工業_業績予想の修正および配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4565",
+      "company": "ネクセラファーマ",
+      "title": "2026年12月期第１四半期決算短信〔ＩＦＲＳ〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260501516324",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501516324.zip",
+      "github_path": "XBRL/20260501/4565_ネクセラファーマ_2026年12月期第1四半期決算短信〔IFRS〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5367",
+      "company": "ニッカトー",
+      "title": "2026年3月期 決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260427511957",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260427511957.zip",
+      "github_path": "XBRL/20260501/5367_ニッカトー_2026年3月期 決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5857",
+      "company": "ＡＲＥＨＤ",
+      "title": "2026年３月期 決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260501516555",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501516555.zip",
+      "github_path": "XBRL/20260501/5857_AREHD_2026年3月期 決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5906",
+      "company": "エムケー精工",
+      "title": "2026年３月期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260417506114",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260417506114.zip",
+      "github_path": "XBRL/20260501/5906_エムケー精工_2026年3月期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5933",
+      "company": "アルインコ",
+      "title": "2026年３月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260501516445",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501516445.zip",
+      "github_path": "XBRL/20260501/5933_アルインコ_2026年3月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5951",
+      "company": "ダイニチ工",
+      "title": "業績予想および期末配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260423509200",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260423509200.zip",
+      "github_path": "XBRL/20260501/5951_ダイニチ工_業績予想および期末配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6022",
+      "company": "赤阪鉄",
+      "title": "通期業績予想の修正及び配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260501516007",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260501516007.zip",
+      "github_path": "XBRL/20260501/6022_赤阪鉄_通期業績予想の修正及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6099",
+      "company": "エラン",
+      "title": "2026年12月期第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260430515144",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260430515144.zip",
+      "github_path": "XBRL/20260501/6099_エラン_2026年12月期第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6141",
+      "company": "ＤＭＧ森精機",
+      "title": "2026年12月期 第１四半期決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260501516505",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501516505.zip",
+      "github_path": "XBRL/20260501/6141_DMG森精機_2026年12月期 第1四半期決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6724",
+      "company": "エプソン",
+      "title": "2026年３月期 決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260429514136",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260429514136.zip",
+      "github_path": "XBRL/20260501/6724_エプソン_2026年3月期 決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7446",
+      "company": "東北化学",
+      "title": "2026年９月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260428513919",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260428513919.zip",
+      "github_path": "XBRL/20260501/7446_東北化学_2026年9月期 第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7740",
+      "company": "タムロン",
+      "title": "2026年12月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260427512198",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260427512198.zip",
+      "github_path": "XBRL/20260501/7740_タムロン_2026年12月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8165",
+      "company": "千趣会",
+      "title": "2026年12月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260501516526",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501516526.zip",
+      "github_path": "XBRL/20260501/8165_千趣会_2026年12月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8185",
+      "company": "チヨダ",
+      "title": "（訂正・数値データ訂正）2026年２月期 決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260501516465",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501516465.zip",
+      "github_path": "XBRL/20260501/8185_チヨダ_（訂正・数値データ訂正）2026年2月期 決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8214",
+      "company": "ＡＯＫＩ ＨＤ",
+      "title": "連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260430514618",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260430514618.zip",
+      "github_path": "XBRL/20260501/8214_AOKI HD_連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8713",
+      "company": "フィデアＨＤ",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260501516288",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260501516288.zip",
+      "github_path": "XBRL/20260501/8713_フィデアHD_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9619",
+      "company": "イチネンＨＤ",
+      "title": "2026年３月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260430515573",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260430515573.zip",
+      "github_path": "XBRL/20260501/9619_イチネンHD_2026年3月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9682",
+      "company": "ＤＴＳ",
+      "title": "2026年３月期 決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260430515331",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260430515331.zip",
+      "github_path": "XBRL/20260501/9682_DTS_2026年3月期 決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9849",
+      "company": "共同紙",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260501515969",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260501515969.zip",
+      "github_path": "XBRL/20260501/9849_共同紙_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3191",
+      "company": "ジョイフル本田",
+      "title": "2026年6月期 第3四半期決算短信〔日本基準〕（連結）",
+      "time": "15:00",
+      "file_id": "081220260430515296",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260430515296.zip",
+      "github_path": "XBRL/20260501/3191_ジョイフル本田_2026年6月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6467",
+      "company": "ニチダイ",
+      "title": "2026年３月期 決算短信〔日本基準〕（連結）",
+      "time": "15:00",
+      "file_id": "081220260429514084",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260429514084.zip",
+      "github_path": "XBRL/20260501/6467_ニチダイ_2026年3月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5832",
+      "company": "ちゅうぎんＦＧ",
+      "title": "2026年３月期決算短信〔日本基準〕(連結)",
+      "time": "14:00",
+      "file_id": "081220260430515131",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260430515131.zip",
+      "github_path": "XBRL/20260501/5832_ちゅうぎんFG_2026年3月期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8058",
+      "company": "三菱商事",
+      "title": "2026年3月期 決算短信〔ＩＦＲＳ〕(連結)",
+      "time": "14:00",
+      "file_id": "081220260430515679",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260430515679.zip",
+      "github_path": "XBRL/20260501/8058_三菱商事_2026年3月期 決算短信〔IFRS〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8860",
+      "company": "フジ住宅",
+      "title": "2026年３月期 決算短信〔日本基準〕（連結）",
+      "time": "14:00",
+      "file_id": "081220260423509126",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260423509126.zip",
+      "github_path": "XBRL/20260501/8860_フジ住宅_2026年3月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4772",
+      "company": "Ｇ－ＳＭ ＥＮＴＥＲ",
+      "title": "2026年12月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "13:30",
+      "file_id": "081220260430515538",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260430515538.zip",
+      "github_path": "XBRL/20260501/4772_G－SM ENTER_2026年12月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9310",
+      "company": "トランスシティ",
+      "title": "業績予想および配当予想の修正に関するお知らせ",
+      "time": "13:30",
+      "file_id": "091220260501516424",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260501516424.zip",
+      "github_path": "XBRL/20260501/9310_トランスシティ_業績予想および配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8001",
+      "company": "伊藤忠",
+      "title": "2026年3月期 決算短信〔IFRS〕（連結）",
+      "time": "13:00",
+      "file_id": "081220260501516183",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501516183.zip",
+      "github_path": "XBRL/20260501/8001_伊藤忠_2026年3月期 決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8053",
+      "company": "住友商",
+      "title": "2026年3月期決算短信〔IFRS〕(連結)",
+      "time": "13:00",
+      "file_id": "081220260430515781",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260430515781.zip",
+      "github_path": "XBRL/20260501/8053_住友商_2026年3月期決算短信〔IFRS〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3909",
+      "company": "ショーケース",
+      "title": "通期連結業績予想に関するお知らせ",
+      "time": "12:30",
+      "file_id": "091220260430515042",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260430515042.zip",
+      "github_path": "XBRL/20260501/3909_ショーケース_通期連結業績予想に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2768",
+      "company": "双日",
+      "title": "2026年3月期 決算短信[IFRS会計基準](連結)",
+      "time": "12:15",
+      "file_id": "081220260327590884",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260327590884.zip",
+      "github_path": "XBRL/20260501/2768_双日_2026年3月期 決算短信[IFRS会計基準](連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2296",
+      "company": "伊藤ハム米久ＨＤ",
+      "title": "2026年3月期 決算短信〔日本基準〕(連結)",
+      "time": "12:00",
+      "file_id": "081220260430515730",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260430515730.zip",
+      "github_path": "XBRL/20260501/2296_伊藤ハム米久HD_2026年3月期 決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8031",
+      "company": "三井物産",
+      "title": "2026年3月期 決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "12:00",
+      "file_id": "081220260430515683",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260430515683.zip",
+      "github_path": "XBRL/20260501/8031_三井物産_2026年3月期 決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8002",
+      "company": "丸紅",
+      "title": "2026年3月期 決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "11:00",
+      "file_id": "081220260501515953",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501515953.zip",
+      "github_path": "XBRL/20260501/8002_丸紅_2026年3月期 決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5386",
+      "company": "鶴弥",
+      "title": "2026年３月期決算短信〔日本基準〕(非連結)",
+      "time": "10:40",
+      "file_id": "081220260501515808",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260501515808.zip",
+      "github_path": "XBRL/20260501/5386_鶴弥_2026年3月期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7774",
+      "company": "Ｇ－Ｊ・ＴＥＣ",
+      "title": "2026年３月期 決算短信〔日本基準〕（非連結）",
+      "time": "10:30",
+      "file_id": "081220260430514959",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260430514959.zip",
+      "github_path": "XBRL/20260501/7774_G－J・TEC_2026年3月期 決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8473",
+      "company": "ＳＢＩ",
+      "title": "2026年３月期 決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "10:10",
+      "file_id": "081220260430515452",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260430515452.zip",
+      "github_path": "XBRL/20260501/8473_SBI_2026年3月期 決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8303",
+      "company": "ＳＢＩ新生銀行",
+      "title": "2026年３月期 決算短信〔日本基準〕（連結）",
+      "time": "10:00",
+      "file_id": "081220260416505343",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260416505343.zip",
+      "github_path": "XBRL/20260501/8303_SBI新生銀行_2026年3月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
