@@ -1,0 +1,137 @@
+{
+  "date": "20260528",
+  "folder": "20260528",
+  "root": "XBRL/20260528/",
+  "items": [
+    {
+      "ticker": "5821",
+      "company": "平河ヒューテ",
+      "title": "(訂正・数値データ訂正)「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "18:00",
+      "file_id": "081220260528553288",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260528553288.zip",
+      "github_path": "XBRL/20260528/5821_平河ヒューテ_(訂正・数値データ訂正)「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7803",
+      "company": "Ｇ－ブシロード",
+      "title": "（訂正・数値データ訂正）連結子会社の異動（株式譲渡）、特別利益の計上（見込み）、及び通期連結業績予想の修正に関するお知らせ",
+      "time": "18:00",
+      "file_id": "091220260528553538",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260528553538.zip",
+      "github_path": "XBRL/20260528/7803_G－ブシロード_（訂正・数値データ訂正）連結子会社の異動（株式譲渡）、特別利益の計上（見込み）、及び通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4800",
+      "company": "オリコン",
+      "title": "2027年３月期配当予想の修正（無配）に関するお知らせ",
+      "time": "17:30",
+      "file_id": "091220260520542077",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260520542077.zip",
+      "github_path": "XBRL/20260528/4800_オリコン_2027年3月期配当予想の修正（無配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9348",
+      "company": "Ｇ－ｉｓｐａｃｅ",
+      "title": "（訂正・数値データ訂正）「2026年3月期 決算短信」及び「2026年３月期通期 決算説明資料」の一部訂正についてのお知らせ",
+      "time": "17:30",
+      "file_id": "081220260528553399",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260528553399.zip",
+      "github_path": "XBRL/20260528/9348_G－ispace_（訂正・数値データ訂正）「2026年3月期 決算短信」及び「2026年3月期通期 決算説明資料」の一部訂正についてのお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3905",
+      "company": "Ｇ－データセクション",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "17:10",
+      "file_id": "081220260528553279",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260528553279.zip",
+      "github_path": "XBRL/20260528/3905_G－データセクション_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2593",
+      "company": "伊藤園",
+      "title": "業績予想（連結・個別）の修正に関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220260527549703",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260527549703.zip",
+      "github_path": "XBRL/20260528/2593_伊藤園_業績予想（連結・個別）の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4069",
+      "company": "Ｇ－ＢｌｕｅＭｅｍｅ",
+      "title": "通期業績予想の修正に関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220260528552696",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260528552696.zip",
+      "github_path": "XBRL/20260528/4069_G－BlueMeme_通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8143",
+      "company": "ラピーヌ",
+      "title": "（訂正・数値データ訂正）「2026年２月期 決算短信〔日本基準〕（連結）」の 一部訂正について",
+      "time": "17:00",
+      "file_id": "081220260525547388",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260525547388.zip",
+      "github_path": "XBRL/20260528/8143_ラピーヌ_（訂正・数値データ訂正）「2026年2月期 決算短信〔日本基準〕（連結）」の 一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3063",
+      "company": "Ｇ－ｊＧｒｏｕｐ",
+      "title": "配当予想の修正(30周年記念配当 増配)に関するお知らせ",
+      "time": "16:30",
+      "file_id": "091220260528552858",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260528552858.zip",
+      "github_path": "XBRL/20260528/3063_G－jGroup_配当予想の修正(30周年記念配当 増配)に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7425",
+      "company": "初穂商事",
+      "title": "株式分割、株式分割に伴う定款の一部変更及び配当予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260512525787",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260512525787.zip",
+      "github_path": "XBRL/20260528/7425_初穂商事_株式分割、株式分割に伴う定款の一部変更及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6047",
+      "company": "Ｇｕｎｏｓｙ",
+      "title": "連結子会社からの配当金受領並びに業績予想（個別）の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260528552260",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260528552260.zip",
+      "github_path": "XBRL/20260528/6047_Gunosy_連結子会社からの配当金受領並びに業績予想（個別）の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6615",
+      "company": "ＵＭＣエレ",
+      "title": "（訂正・数値データ訂正）「2026 年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260528551866",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260528551866.zip",
+      "github_path": "XBRL/20260528/6615_UMCエレ_（訂正・数値データ訂正）「2026 年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9060",
+      "company": "日ロジテム",
+      "title": "（訂正・数値データ訂正）「2026年３月期決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "081220260527550485",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260527550485.zip",
+      "github_path": "XBRL/20260528/9060_日ロジテム_（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
