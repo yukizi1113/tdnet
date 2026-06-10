@@ -1,0 +1,207 @@
+{
+  "date": "20260522",
+  "folder": "20260522",
+  "root": "XBRL/20260522/",
+  "items": [
+    {
+      "ticker": "7578",
+      "company": "ニチリョク",
+      "title": "(訂正・数値データ訂正)「2025年３月期 第１四半期決算短信〔日本基準〕（非連結）」の一部訂正のお知らせ",
+      "time": "17:30",
+      "file_id": "081220260515539013",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260515539013.zip",
+      "github_path": "XBRL/20260522/7578_ニチリョク_(訂正・数値データ訂正)「2025年3月期 第1四半期決算短信〔日本基準〕（非連結）」の一部訂正のお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7578",
+      "company": "ニチリョク",
+      "title": "(訂正・数値データ訂正)「2025年３月期 第３四半期決算短信〔日本基準〕（非連結）」の一部訂正 のお知らせ",
+      "time": "17:30",
+      "file_id": "081220260519540652",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260519540652.zip",
+      "github_path": "XBRL/20260522/7578_ニチリョク_(訂正・数値データ訂正)「2025年3月期 第3四半期決算短信〔日本基準〕（非連結）」の一部訂正 のお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7578",
+      "company": "ニチリョク",
+      "title": "(訂正・数値データ訂正)「2025年３月期 決算短信〔日本基準〕（非連結）」の一部訂正のお知らせ",
+      "time": "17:30",
+      "file_id": "081220260515538715",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260515538715.zip",
+      "github_path": "XBRL/20260522/7578_ニチリョク_(訂正・数値データ訂正)「2025年3月期 決算短信〔日本基準〕（非連結）」の一部訂正のお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7578",
+      "company": "ニチリョク",
+      "title": "(訂正・数値データ訂正)「2026年３月期 第１四半期決算短信〔日本基準〕（非連結）」の一部訂正 のお知らせ",
+      "time": "17:30",
+      "file_id": "081220260515538180",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260515538180.zip",
+      "github_path": "XBRL/20260522/7578_ニチリョク_(訂正・数値データ訂正)「2026年3月期 第1四半期決算短信〔日本基準〕（非連結）」の一部訂正 のお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7578",
+      "company": "ニチリョク",
+      "title": "(訂正・数値データ訂正)「2026年３月期 第２四半期（中間期）決算短信〔日本基準〕（非連結）」 の一部訂正のお知らせ",
+      "time": "17:30",
+      "file_id": "081220260515538006",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260515538006.zip",
+      "github_path": "XBRL/20260522/7578_ニチリョク_(訂正・数値データ訂正)「2026年3月期 第2四半期（中間期）決算短信〔日本基準〕（非連結）」 の一部訂正のお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7578",
+      "company": "ニチリョク",
+      "title": "(訂正・数値データ訂正)「2026年３月期 第３四半期決算短信〔日本基準〕（非連結）」の一部訂正 のお知らせ",
+      "time": "17:30",
+      "file_id": "081220260515537716",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260515537716.zip",
+      "github_path": "XBRL/20260522/7578_ニチリョク_(訂正・数値データ訂正)「2026年3月期 第3四半期決算短信〔日本基準〕（非連結）」の一部訂正 のお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4635",
+      "company": "東インキ",
+      "title": "（訂正・数値データ）「2026年３月期 決算短信〔日本基準〕（連結）」",
+      "time": "16:30",
+      "file_id": "081220260520542829",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260520542829.zip",
+      "github_path": "XBRL/20260522/4635_東インキ_（訂正・数値データ）「2026年3月期 決算短信〔日本基準〕（連結）」__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3571",
+      "company": "ソトー",
+      "title": "（訂正・数値データ訂正) 「2026 年３月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "081220260522545194",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260522545194.zip",
+      "github_path": "XBRL/20260522/3571_ソトー_（訂正・数値データ訂正) 「2026 年3月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5131",
+      "company": "Ｇ－リンカーズ",
+      "title": "2026年７月期通期業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260521543647",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260521543647.zip",
+      "github_path": "XBRL/20260522/5131_G－リンカーズ_2026年7月期通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6800",
+      "company": "ヨコオ",
+      "title": "（訂正・数値データ訂正） 「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "081220260521543508",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260521543508.zip",
+      "github_path": "XBRL/20260522/6800_ヨコオ_（訂正・数値データ訂正） 「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7460",
+      "company": "ヤギ",
+      "title": "(訂正・数値データ訂正)「2026年3月期 決算短信〔日本基準〕(連結)」及び「2026年3月期決算補足説明資料」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260518540286",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260518540286.zip",
+      "github_path": "XBRL/20260522/7460_ヤギ_(訂正・数値データ訂正)「2026年3月期 決算短信〔日本基準〕(連結)」及び「2026年3月期決算補足説明資料」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9692",
+      "company": "シーイーシー",
+      "title": "2027年1月期第2四半期（中間期）の連結業績予想の修正（上方修正）および中間配当予想の修正（増配）に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260522544270",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260522544270.zip",
+      "github_path": "XBRL/20260522/9692_シーイーシー_2027年1月期第2四半期（中間期）の連結業績予想の修正（上方修正）および中間配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7709",
+      "company": "クボテック",
+      "title": "(訂正・数値データ訂正)「2026年3月期決算短信[日本基準](連結)」の一部訂正について",
+      "time": "15:40",
+      "file_id": "081220260520541889",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260520541889.zip",
+      "github_path": "XBRL/20260522/7709_クボテック_(訂正・数値データ訂正)「2026年3月期決算短信[日本基準](連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9878",
+      "company": "セキド",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（非連結）」の一部訂正及び特別損失の計上について",
+      "time": "15:40",
+      "file_id": "081220260522545281",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260522545281.zip",
+      "github_path": "XBRL/20260522/9878_セキド_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（非連結）」の一部訂正及び特別損失の計上について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4017",
+      "company": "Ｇ－クリーマ",
+      "title": "（訂正・数値データ訂正）「2026年2月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "081220260521544136",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260521544136.zip",
+      "github_path": "XBRL/20260522/4017_G－クリーマ_（訂正・数値データ訂正）「2026年2月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6810",
+      "company": "マクセル",
+      "title": "(訂正・数値データ訂正)「2026年３月期決算短信[日本基準](連結)」の一部訂正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "081220260520541865",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260520541865.zip",
+      "github_path": "XBRL/20260522/6810_マクセル_(訂正・数値データ訂正)「2026年3月期決算短信[日本基準](連結)」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7031",
+      "company": "Ｇ－インバウンド",
+      "title": "（訂正・数値データ訂正）2026年３月期 決算短信〔日本基準〕（連結）の一部訂正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "081220260522544620",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260522544620.zip",
+      "github_path": "XBRL/20260522/7031_G－インバウンド_（訂正・数値データ訂正）2026年3月期 決算短信〔日本基準〕（連結）の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9165",
+      "company": "Ｇ－クオルテック",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260521542913",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260521542913.zip",
+      "github_path": "XBRL/20260522/9165_G－クオルテック_業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4202",
+      "company": "ダイセル",
+      "title": "配当予想の修正に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220260514532279",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260514532279.zip",
+      "github_path": "XBRL/20260522/4202_ダイセル_配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3001",
+      "company": "片倉",
+      "title": "特別利益（投資有価証券売却益）の計上及び業績予想の修正に関するお知らせ",
+      "time": "12:30",
+      "file_id": "091220260522544845",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260522544845.zip",
+      "github_path": "XBRL/20260522/3001_片倉_特別利益（投資有価証券売却益）の計上及び業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
