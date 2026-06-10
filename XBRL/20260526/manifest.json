@@ -1,0 +1,157 @@
+{
+  "date": "20260526",
+  "folder": "20260526",
+  "root": "XBRL/20260526/",
+  "items": [
+    {
+      "ticker": "7192",
+      "company": "日本モーゲージＳ",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "17:55",
+      "file_id": "081220260526549033",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260526549033.zip",
+      "github_path": "XBRL/20260526/7192_日本モーゲージS_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3823",
+      "company": "ＷＨＹ ＨＯＷ ＤＯ",
+      "title": "業績予想の公表に関するお知らせ",
+      "time": "16:29",
+      "file_id": "091220260526548246",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260526548246.zip",
+      "github_path": "XBRL/20260526/3823_WHY HOW DO_業績予想の公表に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5133",
+      "company": "テリロジーＨＤ",
+      "title": "（訂正・数値データ訂正）2026年３月期決算短信[日本基準]（連結）の一部訂正について",
+      "time": "16:15",
+      "file_id": "081220260526548276",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260526548276.zip",
+      "github_path": "XBRL/20260526/5133_テリロジーHD_（訂正・数値データ訂正）2026年3月期決算短信[日本基準]（連結）の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5982",
+      "company": "マルゼン",
+      "title": "（訂正・数値データ訂正）「2026年2月期 決算短信[日本基準]（連結）」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260526548198",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260526548198.zip",
+      "github_path": "XBRL/20260526/5982_マルゼン_（訂正・数値データ訂正）「2026年2月期 決算短信[日本基準]（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6034",
+      "company": "Ｇ－ＭＲＴ",
+      "title": "当社連結子会社の株式譲渡及び通期業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260525547487",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260525547487.zip",
+      "github_path": "XBRL/20260526/6034_G－MRT_当社連結子会社の株式譲渡及び通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7427",
+      "company": "エコーＴＤ",
+      "title": "（訂正・数値データ訂正）「2026年２月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:40",
+      "file_id": "081220260519541214",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260519541214.zip",
+      "github_path": "XBRL/20260526/7427_エコーTD_（訂正・数値データ訂正）「2026年2月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1878",
+      "company": "大東建",
+      "title": "（ 訂正・数値データ訂正）「2026年３月期決算短信〔日本基準〕（連結） 」の一部訂正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "081220260526548302",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260526548302.zip",
+      "github_path": "XBRL/20260526/1878_大東建_（ 訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕（連結） 」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "192A",
+      "company": "Ｇ－インテグループ",
+      "title": "業績予想および配当予想の修正（未定）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260526547742",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260526547742.zip",
+      "github_path": "XBRL/20260526/192A_G－インテグループ_業績予想および配当予想の修正（未定）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2590",
+      "company": "ＤｙＤｏ",
+      "title": "2027年1月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260526547951",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260526547951.zip",
+      "github_path": "XBRL/20260526/2590_DyDo_2027年1月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7590",
+      "company": "タカショー",
+      "title": "2027年１月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260525546529",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260525546529.zip",
+      "github_path": "XBRL/20260526/7590_タカショー_2027年1月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7621",
+      "company": "うかい",
+      "title": "（訂正・数値データ訂正）2026年３月期 決算短信〔日本基準〕（非連結）の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260525546418",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260525546418.zip",
+      "github_path": "XBRL/20260526/7621_うかい_（訂正・数値データ訂正）2026年3月期 決算短信〔日本基準〕（非連結）の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9065",
+      "company": "山九",
+      "title": "（訂正・数値データ訂正）「2026年３月期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260525546399",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260525546399.zip",
+      "github_path": "XBRL/20260526/9065_山九_（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6044",
+      "company": "三機サービス",
+      "title": "配当予想の修正に関するお知らせ",
+      "time": "11:55",
+      "file_id": "091220260526548219",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260526548219.zip",
+      "github_path": "XBRL/20260526/6044_三機サービス_配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2928",
+      "company": "Ａ－ＲＩＺＡＰ Ｇ",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔ＩＦＲＳ〕（連結）」の一部訂正について",
+      "time": "11:00",
+      "file_id": "081220260526547805",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260526547805.zip",
+      "github_path": "XBRL/20260526/2928_A－RIZAP G_（訂正・数値データ訂正）「2026年3月期 決算短信〔IFRS〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6926",
+      "company": "ＯＫＡＹＡ",
+      "title": "（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "10:00",
+      "file_id": "081220260525546561",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260525546561.zip",
+      "github_path": "XBRL/20260526/6926_OKAYA_（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
