@@ -1,0 +1,127 @@
+{
+  "date": "20260601",
+  "folder": "20260601",
+  "root": "XBRL/20260601/",
+  "items": [
+    {
+      "ticker": "7602",
+      "company": "レダックス",
+      "title": "（訂正・数値データ訂正）「2026年３月期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "18:00",
+      "file_id": "081220260601557201",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260601557201.zip",
+      "github_path": "XBRL/20260601/7602_レダックス_（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6613",
+      "company": "Ｇ－ＱＤレーザ",
+      "title": "2027年３月期通期業績予想の修正に関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220260527551501",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260527551501.zip",
+      "github_path": "XBRL/20260601/6613_G－QDレーザ_2027年3月期通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "195A",
+      "company": "Ｇ－ＭＵＳＣＡＴ Ｇ",
+      "title": "個別決算における関係会社株式評価損の計上及び （訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕(連結)」の 一部訂正に関するお知らせ",
+      "time": "16:30",
+      "file_id": "081220260601557613",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260601557613.zip",
+      "github_path": "XBRL/20260601/195A_G－MUSCAT G_個別決算における関係会社株式評価損の計上及び （訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕(連結)」の 一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7865",
+      "company": "ピープル",
+      "title": "2027年１月期第１四半期決算短信〔日本基準〕(非連結)",
+      "time": "16:00",
+      "file_id": "081220260529555240",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260529555240.zip",
+      "github_path": "XBRL/20260601/7865_ピープル_2027年1月期第1四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1942",
+      "company": "関電工",
+      "title": "（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正のお知らせ",
+      "time": "15:30",
+      "file_id": "081220260601556468",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260601556468.zip",
+      "github_path": "XBRL/20260601/1942_関電工_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正のお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2593",
+      "company": "伊藤園",
+      "title": "2026年4月期決算短信[日本基準]（連結）",
+      "time": "15:30",
+      "file_id": "081220260529556144",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260529556144.zip",
+      "github_path": "XBRL/20260601/2593_伊藤園_2026年4月期決算短信[日本基準]（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3997",
+      "company": "トレードワークス",
+      "title": "(訂正・数値データ訂正)「2025年12月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260529555432",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260529555432.zip",
+      "github_path": "XBRL/20260601/3997_トレードワークス_(訂正・数値データ訂正)「2025年12月期 決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "550A",
+      "company": "ソフトテックス",
+      "title": "（再訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕(非連結)」の一部訂正のお知らせ",
+      "time": "15:30",
+      "file_id": "081220260528552855",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260528552855.zip",
+      "github_path": "XBRL/20260601/550A_ソフトテックス_（再訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕(非連結)」の一部訂正のお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6562",
+      "company": "Ｇ－ジーニー",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔ＩＦＲＳ〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260601557819",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260601557819.zip",
+      "github_path": "XBRL/20260601/6562_G－ジーニー_（訂正・数値データ訂正）「2026年3月期 決算短信〔IFRS〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9627",
+      "company": "アインＨＤ",
+      "title": "業績予想の修正（上方修正）及び期末配当予想の修正（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260601557873",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260601557873.zip",
+      "github_path": "XBRL/20260601/9627_アインHD_業績予想の修正（上方修正）及び期末配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9678",
+      "company": "カナモト",
+      "title": "2026年10月期業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260601556709",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260601556709.zip",
+      "github_path": "XBRL/20260601/9678_カナモト_2026年10月期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4238",
+      "company": "ミライアル",
+      "title": "2027年１月期第１四半期連結業績予想の修正に関するお知らせ",
+      "time": "14:30",
+      "file_id": "091220260601557275",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260601557275.zip",
+      "github_path": "XBRL/20260601/4238_ミライアル_2027年1月期第1四半期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
