@@ -1,0 +1,117 @@
+{
+  "date": "20260525",
+  "folder": "20260525",
+  "root": "XBRL/20260525/",
+  "items": [
+    {
+      "ticker": "1948",
+      "company": "弘電社",
+      "title": "2027年３月期の配当予想の修正（無配）に関するお知らせ",
+      "time": "16:30",
+      "file_id": "091220260522545230",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260522545230.zip",
+      "github_path": "XBRL/20260525/1948_弘電社_2027年3月期の配当予想の修正（無配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7236",
+      "company": "ティラド",
+      "title": "株式分割ならびに株式分割に伴う定款の一部変更及び配当予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260525546492",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260525546492.zip",
+      "github_path": "XBRL/20260525/7236_ティラド_株式分割ならびに株式分割に伴う定款の一部変更及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3110",
+      "company": "日東紡",
+      "title": "株式分割、株式分割に伴う定款の一部変更及び配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260518540008",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260518540008.zip",
+      "github_path": "XBRL/20260525/3110_日東紡_株式分割、株式分割に伴う定款の一部変更及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5991",
+      "company": "ニッパツ",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260520542666",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260520542666.zip",
+      "github_path": "XBRL/20260525/5991_ニッパツ_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6104",
+      "company": "芝浦機械",
+      "title": "2026年3月期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260525546447",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260525546447.zip",
+      "github_path": "XBRL/20260525/6104_芝浦機械_2026年3月期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6104",
+      "company": "芝浦機械",
+      "title": "（訂正・数値データ訂正）「2026年3月期 第3四半期決算短信〔日本基準〕(連結)」の一部訂正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "081220260525546600",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260525546600.zip",
+      "github_path": "XBRL/20260525/6104_芝浦機械_（訂正・数値データ訂正）「2026年3月期 第3四半期決算短信〔日本基準〕(連結)」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7277",
+      "company": "ＴＢＫ",
+      "title": "(訂正・数値データ訂正)「2026年３月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260520541937",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260520541937.zip",
+      "github_path": "XBRL/20260525/7277_TBK_(訂正・数値データ訂正)「2026年3月期 決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7433",
+      "company": "伯東",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260522545461",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260522545461.zip",
+      "github_path": "XBRL/20260525/7433_伯東_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7013",
+      "company": "ＩＨＩ",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔IFRS〕（連結）」の一部訂正に関するお知らせ",
+      "time": "15:00",
+      "file_id": "081220260522544232",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260522544232.zip",
+      "github_path": "XBRL/20260525/7013_IHI_（訂正・数値データ訂正）「2026年3月期 決算短信〔IFRS〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6062",
+      "company": "チャームケア",
+      "title": "通期業績予想の修正及び配当予想の修正（増配）に関するお知らせ",
+      "time": "14:00",
+      "file_id": "091220260525545932",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260525545932.zip",
+      "github_path": "XBRL/20260525/6062_チャームケア_通期業績予想の修正及び配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2984",
+      "company": "ヤマイチ",
+      "title": "（訂正・数値データ訂正） 2026年3月期決算短信〔日本基準〕（連結）の一部訂正について",
+      "time": "13:00",
+      "file_id": "081220260525546385",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260525546385.zip",
+      "github_path": "XBRL/20260525/2984_ヤマイチ_（訂正・数値データ訂正） 2026年3月期決算短信〔日本基準〕（連結）の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
