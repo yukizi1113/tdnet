@@ -1,0 +1,67 @@
+{
+  "date": "20260602",
+  "folder": "20260602",
+  "root": "XBRL/20260602/",
+  "items": [
+    {
+      "ticker": "2134",
+      "company": "キタハマキャピタル",
+      "title": "（訂正・数値データ訂正）「2026年３月期決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "16:15",
+      "file_id": "081220260602559595",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260602559595.zip",
+      "github_path": "XBRL/20260602/2134_キタハマキャピタル_（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3521",
+      "company": "テルマー湯ＨＤ",
+      "title": "（訂正・数値データ訂正）「2026 年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260601558380",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260601558380.zip",
+      "github_path": "XBRL/20260602/3521_テルマー湯HD_（訂正・数値データ訂正）「2026 年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5998",
+      "company": "アドバネクス",
+      "title": "（訂正・数値データ訂正）「2026年３月期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260602558901",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260602558901.zip",
+      "github_path": "XBRL/20260602/5998_アドバネクス_（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2818",
+      "company": "ピエトロ",
+      "title": "（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260602559370",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260602559370.zip",
+      "github_path": "XBRL/20260602/2818_ピエトロ_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4750",
+      "company": "ダイサン",
+      "title": "2026年４月期 決算短信[日本基準]（連結）",
+      "time": "15:30",
+      "file_id": "081220260602559173",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260602559173.zip",
+      "github_path": "XBRL/20260602/4750_ダイサン_2026年4月期 決算短信[日本基準]（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6810",
+      "company": "マクセル",
+      "title": "(訂正・数値データ訂正)「2026年３月期決算短信[日本基準](連結)」の一部訂正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "081220260601558441",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260601558441.zip",
+      "github_path": "XBRL/20260602/6810_マクセル_(訂正・数値データ訂正)「2026年3月期決算短信[日本基準](連結)」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
