@@ -1,0 +1,117 @@
+{
+  "date": "20260604",
+  "folder": "20260604",
+  "root": "XBRL/20260604/",
+  "items": [
+    {
+      "ticker": "7551",
+      "company": "ウェッズ",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "18:00",
+      "file_id": "081220260528553666",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260528553666.zip",
+      "github_path": "XBRL/20260604/7551_ウェッズ_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7677",
+      "company": "ヤシマキザイ",
+      "title": "(訂正・数値データ訂正)「2026年3月期決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260602559867",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260602559867.zip",
+      "github_path": "XBRL/20260604/7677_ヤシマキザイ_(訂正・数値データ訂正)「2026年3月期決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2138",
+      "company": "クルーズ",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260604562851",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260604562851.zip",
+      "github_path": "XBRL/20260604/2138_クルーズ_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6393",
+      "company": "油研工",
+      "title": "(訂正・数値データ訂正)「2026年３月期決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260602559099",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260602559099.zip",
+      "github_path": "XBRL/20260604/6393_油研工_(訂正・数値データ訂正)「2026年3月期決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6654",
+      "company": "不二電機工業",
+      "title": "2027年1月期第1四半期決算短信[日本基準](非連結)",
+      "time": "15:30",
+      "file_id": "081220260525547104",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260525547104.zip",
+      "github_path": "XBRL/20260604/6654_不二電機工業_2027年1月期第1四半期決算短信[日本基準](非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8425",
+      "company": "みずほリース",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260603561689",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260603561689.zip",
+      "github_path": "XBRL/20260604/8425_みずほリース_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9158",
+      "company": "Ｇ－シーユーシー",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔ＩＦＲＳ〕（連結）」の一部訂正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "081220260604562604",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260604562604.zip",
+      "github_path": "XBRL/20260604/9158_G－シーユーシー_（訂正・数値データ訂正）「2026年3月期 決算短信〔IFRS〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3172",
+      "company": "ティーライフ",
+      "title": "2026年７月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:00",
+      "file_id": "081220260525546373",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260525546373.zip",
+      "github_path": "XBRL/20260604/3172_ティーライフ_2026年7月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9824",
+      "company": "泉州電業",
+      "title": "2026年10月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "14:00",
+      "file_id": "081220260604562624",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260604562624.zip",
+      "github_path": "XBRL/20260604/9824_泉州電業_2026年10月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1928",
+      "company": "積水ハウス",
+      "title": "2027年1月期 第1四半期決算短信〔日本基準〕(連結)",
+      "time": "12:00",
+      "file_id": "081220260603562240",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260603562240.zip",
+      "github_path": "XBRL/20260604/1928_積水ハウス_2027年1月期 第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6696",
+      "company": "Ｇ－トラースＯＰ",
+      "title": "2027年１月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "12:00",
+      "file_id": "081220260604562285",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260604562285.zip",
+      "github_path": "XBRL/20260604/6696_G－トラースOP_2027年1月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
