@@ -1,0 +1,87 @@
+{
+  "date": "20260603",
+  "folder": "20260603",
+  "root": "XBRL/20260603/",
+  "items": [
+    {
+      "ticker": "3815",
+      "company": "Ｇ－メディア",
+      "title": "コスト削減等の施策の実施及びこれに伴う特別損失の計上並びに通期業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260602559451",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260602559451.zip",
+      "github_path": "XBRL/20260603/3815_G－メディア_コスト削減等の施策の実施及びこれに伴う特別損失の計上並びに通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8057",
+      "company": "内田洋行",
+      "title": "2026年７月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260602560867",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260602560867.zip",
+      "github_path": "XBRL/20260603/8057_内田洋行_2026年7月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8057",
+      "company": "内田洋行",
+      "title": "業績予想の修正および配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260603561449",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260603561449.zip",
+      "github_path": "XBRL/20260603/8057_内田洋行_業績予想の修正および配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4026",
+      "company": "神島化学工業",
+      "title": "通期業績予想の修正に関するお知らせ",
+      "time": "14:30",
+      "file_id": "091220260601558048",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260601558048.zip",
+      "github_path": "XBRL/20260603/4026_神島化学工業_通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4826",
+      "company": "ＣＩＪ",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "time": "14:00",
+      "file_id": "091220260603560985",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260603560985.zip",
+      "github_path": "XBRL/20260603/4826_CIJ_業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3083",
+      "company": "スターシーズ",
+      "title": "2027年２月期第２四半期（中間期）業績予想の修正（上方修正）に関するお知らせ",
+      "time": "13:00",
+      "file_id": "091220260602560880",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260602560880.zip",
+      "github_path": "XBRL/20260603/3083_スターシーズ_2027年2月期第2四半期（中間期）業績予想の修正（上方修正）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3925",
+      "company": "ダブルスタンダード",
+      "title": "(訂正・数値データ訂正)2026年３月期 決算短信[日本基準]（連結）の一部訂正について",
+      "time": "11:30",
+      "file_id": "081220260528553293",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260528553293.zip",
+      "github_path": "XBRL/20260603/3925_ダブルスタンダード_(訂正・数値データ訂正)2026年3月期 決算短信[日本基準]（連結）の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6768",
+      "company": "タムラ製",
+      "title": "（訂正・数値データ訂正)「2026年3月期決算短信[日本基準](連結)」の一部訂正に関するお知らせ",
+      "time": "08:30",
+      "file_id": "081220260602559783",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260602559783.zip",
+      "github_path": "XBRL/20260603/6768_タムラ製_（訂正・数値データ訂正)「2026年3月期決算短信[日本基準](連結)」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
