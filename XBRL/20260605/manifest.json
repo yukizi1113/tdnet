@@ -1,0 +1,267 @@
+{
+  "date": "20260605",
+  "folder": "20260605",
+  "root": "XBRL/20260605/",
+  "items": [
+    {
+      "ticker": "2894",
+      "company": "石井食",
+      "title": "（訂正・数値データ訂正）「2026年３月期決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "18:30",
+      "file_id": "081220260604563582",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260604563582.zip",
+      "github_path": "XBRL/20260605/2894_石井食_（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6574",
+      "company": "Ｇ－コンヴァノ",
+      "title": "（再訂正・数値データ訂正）2026年３月期決算短信〔IFRS〕（連結）の一部訂正について",
+      "time": "16:30",
+      "file_id": "081220260603561910",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260603561910.zip",
+      "github_path": "XBRL/20260605/6574_G－コンヴァノ_（再訂正・数値データ訂正）2026年3月期決算短信〔IFRS〕（連結）の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7078",
+      "company": "Ｇ－ＩＮＣ ＨＤ",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信 〔日本基準〕（連結）」の一部訂正について",
+      "time": "16:30",
+      "file_id": "081220260605564164",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260605564164.zip",
+      "github_path": "XBRL/20260605/7078_G－INC HD_（訂正・数値データ訂正）「2026年3月期 決算短信 〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3816",
+      "company": "大和コン",
+      "title": "2026年7月期 第3四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260604563433",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260604563433.zip",
+      "github_path": "XBRL/20260605/3816_大和コン_2026年7月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4436",
+      "company": "Ｇ－ミンカブ",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260605564360",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260605564360.zip",
+      "github_path": "XBRL/20260605/4436_G－ミンカブ_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6309",
+      "company": "巴工業",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260602559841",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260602559841.zip",
+      "github_path": "XBRL/20260605/6309_巴工業_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6309",
+      "company": "巴工業",
+      "title": "剰余金の配当（中間配当）および期末配当予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260605564220",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260605564220.zip",
+      "github_path": "XBRL/20260605/6309_巴工業_剰余金の配当（中間配当）および期末配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8917",
+      "company": "ファースト住建",
+      "title": "令和８年10月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260605564471",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260605564471.zip",
+      "github_path": "XBRL/20260605/8917_ファースト住建_令和8年10月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6999",
+      "company": "ＫＯＡ",
+      "title": "（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕(連結)」、「2026年3月期 決算補足資料」及び「2026年3月期 決算説明会資料」の一部訂正について",
+      "time": "15:50",
+      "file_id": "081220260605564445",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260605564445.zip",
+      "github_path": "XBRL/20260605/6999_KOA_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕(連結)」、「2026年3月期 決算補足資料」及び「2026年3月期 決算説明会資料」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3733",
+      "company": "ソフトウェアＳ",
+      "title": "2026年10月期第2四半期決算短信〔日本基準〕（連結）",
+      "time": "15:45",
+      "file_id": "081220260603562181",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260603562181.zip",
+      "github_path": "XBRL/20260605/3733_ソフトウェアS_2026年10月期第2四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3854",
+      "company": "アイル",
+      "title": "2026年７月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:40",
+      "file_id": "081220260604563189",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260604563189.zip",
+      "github_path": "XBRL/20260605/3854_アイル_2026年7月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2353",
+      "company": "日駐",
+      "title": "2026年７月期第３四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260604563589",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260604563589.zip",
+      "github_path": "XBRL/20260605/2353_日駐_2026年7月期第3四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3193",
+      "company": "エターナルホスピＧ",
+      "title": "2026年７月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260605563896",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260605563896.zip",
+      "github_path": "XBRL/20260605/3193_エターナルホスピG_2026年7月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3662",
+      "company": "エイチームＨＤ",
+      "title": "2026年7月期 第3四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260605564325",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260605564325.zip",
+      "github_path": "XBRL/20260605/3662_エイチームHD_2026年7月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "436A",
+      "company": "Ｇ－サイバーＳＯＬ",
+      "title": "2026年４月期 決算短信〔ＩＦＲＳ〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260605563734",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260605563734.zip",
+      "github_path": "XBRL/20260605/436A_G－サイバーSOL_2026年4月期 決算短信〔IFRS〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4502",
+      "company": "武田薬",
+      "title": "（訂正・数値データ訂正）修正後発事象による引当金の計上および「2026年３月期決算短信〔IFRS〕（連結）」の修正について",
+      "time": "15:30",
+      "file_id": "081220260605563772",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260605563772.zip",
+      "github_path": "XBRL/20260605/4502_武田薬_（訂正・数値データ訂正）修正後発事象による引当金の計上および「2026年3月期決算短信〔IFRS〕（連結）」の修正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6040",
+      "company": "Ｇ－日本スキー",
+      "title": "2026年7月期第3四半期 決算短信[日本基準](連結）",
+      "time": "15:30",
+      "file_id": "081220260605564307",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260605564307.zip",
+      "github_path": "XBRL/20260605/6040_G－日本スキー_2026年7月期第3四半期 決算短信[日本基準](連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6675",
+      "company": "サクサ",
+      "title": "連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260605564320",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260605564320.zip",
+      "github_path": "XBRL/20260605/6675_サクサ_連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6866",
+      "company": "日置電",
+      "title": "連結業績予想及び配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260604563631",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260604563631.zip",
+      "github_path": "XBRL/20260605/6866_日置電_連結業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8253",
+      "company": "クレセゾン",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔ＩＦＲＳ〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260604563577",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260604563577.zip",
+      "github_path": "XBRL/20260605/8253_クレセゾン_（訂正・数値データ訂正）「2026年3月期 決算短信〔IFRS〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9678",
+      "company": "カナモト",
+      "title": "2026年10月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260605563784",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260605563784.zip",
+      "github_path": "XBRL/20260605/9678_カナモト_2026年10月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1914",
+      "company": "日基礎",
+      "title": "（訂正・数値データ訂正）「令和８年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "14:30",
+      "file_id": "081220260605564195",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260605564195.zip",
+      "github_path": "XBRL/20260605/1914_日基礎_（訂正・数値データ訂正）「令和8年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7265",
+      "company": "エイケン工業",
+      "title": "2026年10月期 第２四半期（中間期）決算短信〔日本基準〕（非連結）",
+      "time": "14:30",
+      "file_id": "081220260605563975",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260605563975.zip",
+      "github_path": "XBRL/20260605/7265_エイケン工業_2026年10月期 第2四半期（中間期）決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7279",
+      "company": "ハイレックス",
+      "title": "2026年10月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "12:00",
+      "file_id": "081220260603561080",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260603561080.zip",
+      "github_path": "XBRL/20260605/7279_ハイレックス_2026年10月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3663",
+      "company": "セルシス",
+      "title": "中間配当予想の修正（増配）に関するお知らせ",
+      "time": "11:00",
+      "file_id": "091220260602560834",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260602560834.zip",
+      "github_path": "XBRL/20260605/3663_セルシス_中間配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7777",
+      "company": "Ｇ－３Ｄマトリックス",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "08:00",
+      "file_id": "091220260604563496",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260604563496.zip",
+      "github_path": "XBRL/20260605/7777_G－3Dマトリックス_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
