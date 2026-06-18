@@ -1,0 +1,97 @@
+{
+  "date": "20260608",
+  "folder": "20260608",
+  "root": "XBRL/20260608/",
+  "items": [
+    {
+      "ticker": "4287",
+      "company": "ジャストプラ",
+      "title": "2027年１月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "17:00",
+      "file_id": "081220260608564952",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260608564952.zip",
+      "github_path": "XBRL/20260608/4287_ジャストプラ_2027年1月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3359",
+      "company": "Ｇ－ｃｏｔｔａ",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260604562695",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260604562695.zip",
+      "github_path": "XBRL/20260608/3359_G－cotta_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4382",
+      "company": "ＨＥＲＯＺ",
+      "title": "2026年４月期 通期連結業績予想の修正並びに子会社株式売却益、法人税等調整額（益）及び暗号資産評価損の計上に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260608565515",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260608565515.zip",
+      "github_path": "XBRL/20260608/4382_HEROZ_2026年4月期 通期連結業績予想の修正並びに子会社株式売却益、法人税等調整額（益）及び暗号資産評価損の計上に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7872",
+      "company": "エステールＨＤ",
+      "title": "(訂正・数値データ訂正)「2026 年３月期決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260525546672",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260525546672.zip",
+      "github_path": "XBRL/20260608/7872_エステールHD_(訂正・数値データ訂正)「2026 年3月期決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2301",
+      "company": "学情",
+      "title": "2026年10月期 第2四半期（中間期）決算短信（日本基準）（非連結）",
+      "time": "15:30",
+      "file_id": "081220260602560355",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260602560355.zip",
+      "github_path": "XBRL/20260608/2301_学情_2026年10月期 第2四半期（中間期）決算短信（日本基準）（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3246",
+      "company": "コーセーアールイー",
+      "title": "2027年1月期 第1四半期決算短信[日本基準]（連結）",
+      "time": "15:30",
+      "file_id": "081220260520542443",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260520542443.zip",
+      "github_path": "XBRL/20260608/3246_コーセーアールイー_2027年1月期 第1四半期決算短信[日本基準]（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7856",
+      "company": "萩原工業",
+      "title": "2026年10月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260608565282",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260608565282.zip",
+      "github_path": "XBRL/20260608/7856_萩原工業_2026年10月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3071",
+      "company": "ストリーム",
+      "title": "2027年１月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "15:00",
+      "file_id": "081220260603561664",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260603561664.zip",
+      "github_path": "XBRL/20260608/3071_ストリーム_2027年1月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4238",
+      "company": "ミライアル",
+      "title": "2027年１月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "14:50",
+      "file_id": "081220260608565446",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260608565446.zip",
+      "github_path": "XBRL/20260608/4238_ミライアル_2027年1月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
