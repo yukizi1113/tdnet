@@ -1,0 +1,77 @@
+{
+  "date": "20260616",
+  "folder": "20260616",
+  "root": "XBRL/20260616/",
+  "items": [
+    {
+      "ticker": "2410",
+      "company": "キャリアＤＣ",
+      "title": "配当予想の修正(増配)に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260615571253",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260615571253.zip",
+      "github_path": "XBRL/20260616/2410_キャリアDC_配当予想の修正(増配)に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4495",
+      "company": "Ｇ－アイキューブド",
+      "title": "配当予想の修正（上場５周年記念配当）に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260611568693",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260611568693.zip",
+      "github_path": "XBRL/20260616/4495_G－アイキューブド_配当予想の修正（上場5周年記念配当）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4021",
+      "company": "日産化",
+      "title": "(訂正・数値データ訂正)「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260615571193",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260615571193.zip",
+      "github_path": "XBRL/20260616/4021_日産化_(訂正・数値データ訂正)「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6254",
+      "company": "野村マイクロ",
+      "title": "（訂正・数値データ訂正）2026年３月期 決算短信〔日本基準〕（連結）の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260616571617",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260616571617.zip",
+      "github_path": "XBRL/20260616/6254_野村マイクロ_（訂正・数値データ訂正）2026年3月期 決算短信〔日本基準〕（連結）の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7740",
+      "company": "タムロン",
+      "title": "配当予想の修正（増配）および株主還元方針の変更に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260612569655",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260612569655.zip",
+      "github_path": "XBRL/20260616/7740_タムロン_配当予想の修正（増配）および株主還元方針の変更に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9007",
+      "company": "小田急",
+      "title": "（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "081220260611568616",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260611568616.zip",
+      "github_path": "XBRL/20260616/9007_小田急_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2163",
+      "company": "アルトナー",
+      "title": "株式分割及び定款の一部変更並びに配当予想の修正に関するお知らせ",
+      "time": "14:00",
+      "file_id": "091220260616571472",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260616571472.zip",
+      "github_path": "XBRL/20260616/2163_アルトナー_株式分割及び定款の一部変更並びに配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
