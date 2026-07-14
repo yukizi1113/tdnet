@@ -1,0 +1,107 @@
+{
+  "date": "20260622",
+  "folder": "20260622",
+  "root": "XBRL/20260622/",
+  "items": [
+    {
+      "ticker": "6533",
+      "company": "オーケストラＨＤ",
+      "title": "2026 年 12 月期 期末配当予想の修正および株主優待制度の今後の実施に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260622576010",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260622576010.zip",
+      "github_path": "XBRL/20260622/6533_オーケストラHD_2026 年 12 月期 期末配当予想の修正および株主優待制度の今後の実施に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3917",
+      "company": "Ｇ－アイリッジ",
+      "title": "（数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260622575643",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260622575643.zip",
+      "github_path": "XBRL/20260622/3917_G－アイリッジ_（数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5981",
+      "company": "東製綱",
+      "title": "（訂正・数値データ訂正）2026年３月期 決算短信〔日本基準〕(連結)の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260622575428",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260622575428.zip",
+      "github_path": "XBRL/20260622/5981_東製綱_（訂正・数値データ訂正）2026年3月期 決算短信〔日本基準〕(連結)の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6245",
+      "company": "ヒラノテクシード",
+      "title": "（訂正・数値データ訂正） 「2026 年3 月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260622575588",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260622575588.zip",
+      "github_path": "XBRL/20260622/6245_ヒラノテクシード_（訂正・数値データ訂正） 「2026 年3 月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7004",
+      "company": "カナデビア",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "15:00",
+      "file_id": "081220260621575225",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260621575225.zip",
+      "github_path": "XBRL/20260622/7004_カナデビア_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9658",
+      "company": "ビジ太田昭和",
+      "title": "（訂正・数値データ訂正）「2026年3月期 決算短信〔IFRS〕（連結）」の一部訂正について",
+      "time": "15:00",
+      "file_id": "081220260622575583",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260622575583.zip",
+      "github_path": "XBRL/20260622/9658_ビジ太田昭和_（訂正・数値データ訂正）「2026年3月期 決算短信〔IFRS〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3333",
+      "company": "あさひ",
+      "title": "2027年2月期 第1四半期 決算短信〔日本基準〕(非連結)",
+      "time": "13:00",
+      "file_id": "081220260622575617",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260622575617.zip",
+      "github_path": "XBRL/20260622/3333_あさひ_2027年2月期 第1四半期 決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7943",
+      "company": "ニチハ",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "12:30",
+      "file_id": "081220260619574846",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260619574846.zip",
+      "github_path": "XBRL/20260622/7943_ニチハ_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7480",
+      "company": "スズデン",
+      "title": "（訂正・数値データ訂正）「2026年３月期決算短信〔日本基準〕(連結)」添付資料の一部訂正について",
+      "time": "11:30",
+      "file_id": "081220260622575389",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260622575389.zip",
+      "github_path": "XBRL/20260622/7480_スズデン_（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕(連結)」添付資料の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4882",
+      "company": "Ｇ－ペルセウス",
+      "title": "（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕（非連結）」の一部訂正について",
+      "time": "11:00",
+      "file_id": "081220260617572404",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260617572404.zip",
+      "github_path": "XBRL/20260622/4882_G－ペルセウス_（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕（非連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
