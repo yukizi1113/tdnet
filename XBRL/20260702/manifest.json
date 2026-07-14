@@ -1,0 +1,77 @@
+{
+  "date": "20260702",
+  "folder": "20260702",
+  "root": "XBRL/20260702/",
+  "items": [
+    {
+      "ticker": "8473",
+      "company": "ＳＢＩ",
+      "title": "（訂正・数値データ訂正）2026年３月期 決算短信〔ＩＦＲＳ〕（連結）の一部訂正に関するお知らせ",
+      "time": "18:05",
+      "file_id": "081220260702587143",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260702587143.zip",
+      "github_path": "XBRL/20260702/8473_SBI_（訂正・数値データ訂正）2026年3月期 決算短信〔IFRS〕（連結）の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2493",
+      "company": "イーサポート",
+      "title": "2026年11月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260702586621",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260702586621.zip",
+      "github_path": "XBRL/20260702/2493_イーサポート_2026年11月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3549",
+      "company": "クスリのアオキＨＤ",
+      "title": "2026年5月期 決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260702586782",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260702586782.zip",
+      "github_path": "XBRL/20260702/3549_クスリのアオキHD_2026年5月期 決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4187",
+      "company": "大有機化",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260623576875",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260623576875.zip",
+      "github_path": "XBRL/20260702/4187_大有機化_業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6136",
+      "company": "ＯＳＧ",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260629583702",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260629583702.zip",
+      "github_path": "XBRL/20260702/6136_OSG_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9793",
+      "company": "ダイセキ",
+      "title": "2027年２月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260629582962",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260629582962.zip",
+      "github_path": "XBRL/20260702/9793_ダイセキ_2027年2月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7578",
+      "company": "ニチリョク",
+      "title": "(訂正・数値データ訂正)「2026年３月期 決算短信〔日本基準〕（非連結）」の一部訂正のお知らせ",
+      "time": "14:20",
+      "file_id": "081220260701586177",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260701586177.zip",
+      "github_path": "XBRL/20260702/7578_ニチリョク_(訂正・数値データ訂正)「2026年3月期 決算短信〔日本基準〕（非連結）」の一部訂正のお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
