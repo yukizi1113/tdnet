@@ -1,0 +1,87 @@
+{
+  "date": "20260617",
+  "folder": "20260617",
+  "root": "XBRL/20260617/",
+  "items": [
+    {
+      "ticker": "5867",
+      "company": "Ｇ－エスネット",
+      "title": "投資事業売上の発生及び業績予想の修正のお知らせ",
+      "time": "19:10",
+      "file_id": "091220260617572996",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260617572996.zip",
+      "github_path": "XBRL/20260617/5867_G－エスネット_投資事業売上の発生及び業績予想の修正のお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4011",
+      "company": "Ｇ－ヘッドウォーター",
+      "title": "（訂正・数値データ訂正）「2026年12月期第1四半期決算短信〔日本基準〕（連結）」の訂正について",
+      "time": "17:45",
+      "file_id": "081220260617572999",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260617572999.zip",
+      "github_path": "XBRL/20260617/4011_G－ヘッドウォーター_（訂正・数値データ訂正）「2026年12月期第1四半期決算短信〔日本基準〕（連結）」の訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7241",
+      "company": "フタバ産",
+      "title": "(訂正・数値データ訂正)「2026年３月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "16:20",
+      "file_id": "081220260616571518",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260616571518.zip",
+      "github_path": "XBRL/20260617/7241_フタバ産_(訂正・数値データ訂正)「2026年3月期 決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4368",
+      "company": "扶桑化学",
+      "title": "補助金収入に伴う特別利益の計上および連結業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260617572758",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260617572758.zip",
+      "github_path": "XBRL/20260617/4368_扶桑化学_補助金収入に伴う特別利益の計上および連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6943",
+      "company": "ＮＫＫ",
+      "title": "(訂正・数値データ訂正)「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260609566672",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260609566672.zip",
+      "github_path": "XBRL/20260617/6943_NKK_(訂正・数値データ訂正)「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7927",
+      "company": "ムトー精工",
+      "title": "通期連結業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260615570735",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260615570735.zip",
+      "github_path": "XBRL/20260617/7927_ムトー精工_通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8399",
+      "company": "琉球銀",
+      "title": "(訂正・数値データ訂正) 「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260617572406",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260617572406.zip",
+      "github_path": "XBRL/20260617/8399_琉球銀_(訂正・数値データ訂正) 「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3571",
+      "company": "ソトー",
+      "title": "（訂正・数値データ訂正) 「2026 年３月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "15:00",
+      "file_id": "081220260617572442",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260617572442.zip",
+      "github_path": "XBRL/20260617/3571_ソトー_（訂正・数値データ訂正) 「2026 年3月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
