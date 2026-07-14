@@ -1,0 +1,107 @@
+{
+  "date": "20260624",
+  "folder": "20260624",
+  "root": "XBRL/20260624/",
+  "items": [
+    {
+      "ticker": "3010",
+      "company": "ポラリスＨＤ",
+      "title": "株主還元方針の見直し及び2027 年３月期配当予想の修正（増配）に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260624578025",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260624578025.zip",
+      "github_path": "XBRL/20260624/3010_ポラリスHD_株主還元方針の見直し及び2027 年3月期配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9976",
+      "company": "セキチュー",
+      "title": "2027年２月期第１四半期決算短信〔日本基準〕(非連結)",
+      "time": "16:00",
+      "file_id": "081220260624578067",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260624578067.zip",
+      "github_path": "XBRL/20260624/9976_セキチュー_2027年2月期第1四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2224",
+      "company": "コモ",
+      "title": "（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260623576507",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260623576507.zip",
+      "github_path": "XBRL/20260624/2224_コモ_（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2742",
+      "company": "ハローズ",
+      "title": "2027年２月期 第１四半期決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260624577876",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260624577876.zip",
+      "github_path": "XBRL/20260624/2742_ハローズ_2027年2月期 第1四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "550A",
+      "company": "ソフトテックス",
+      "title": "配当予想の修正及び上場記念配当に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260622576103",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260622576103.zip",
+      "github_path": "XBRL/20260624/550A_ソフトテックス_配当予想の修正及び上場記念配当に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6298",
+      "company": "ワイエイシイＨＤ",
+      "title": "(訂正・数値データ訂正)「2026年３月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260623576966",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260623576966.zip",
+      "github_path": "XBRL/20260624/6298_ワイエイシイHD_(訂正・数値データ訂正)「2026年3月期 決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6648",
+      "company": "かわでん",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（非連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260624578400",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260624578400.zip",
+      "github_path": "XBRL/20260624/6648_かわでん_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（非連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7227",
+      "company": "アスカ",
+      "title": "2026年11月期 第2四半期（中間期）決算短信［日本基準］（連結）",
+      "time": "15:30",
+      "file_id": "081220260623577485",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260623577485.zip",
+      "github_path": "XBRL/20260624/7227_アスカ_2026年11月期 第2四半期（中間期）決算短信［日本基準］（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7318",
+      "company": "Ｇ－セレンディップ",
+      "title": "(訂正・数値データ訂正)「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260624578171",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260624578171.zip",
+      "github_path": "XBRL/20260624/7318_G－セレンディップ_(訂正・数値データ訂正)「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9193",
+      "company": "東汽船",
+      "title": "2027年３月期 業績予想及び配当予想に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220260623577343",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260623577343.zip",
+      "github_path": "XBRL/20260624/9193_東汽船_2027年3月期 業績予想及び配当予想に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
