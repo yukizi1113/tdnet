@@ -1,0 +1,217 @@
+{
+  "date": "20260619",
+  "folder": "20260619",
+  "root": "XBRL/20260619/",
+  "items": [
+    {
+      "ticker": "3544",
+      "company": "サツドラＨＤ",
+      "title": "2026年５月期決算短信〔日本基準〕(連結)",
+      "time": "17:30",
+      "file_id": "081220260619574475",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260619574475.zip",
+      "github_path": "XBRL/20260619/3544_サツドラHD_2026年5月期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6919",
+      "company": "ケル",
+      "title": "（訂正・数値データ訂正）「2026 年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260618573668",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260618573668.zip",
+      "github_path": "XBRL/20260619/6919_ケル_（訂正・数値データ訂正）「2026 年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7266",
+      "company": "今仙電機",
+      "title": "(訂正・数値データ訂正)「2026年３月期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260618573845",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260618573845.zip",
+      "github_path": "XBRL/20260619/7266_今仙電機_(訂正・数値データ訂正)「2026年3月期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7442",
+      "company": "中山福",
+      "title": "（訂正・数値データ訂正）「2025年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260619574787",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260619574787.zip",
+      "github_path": "XBRL/20260619/7442_中山福_（訂正・数値データ訂正）「2025年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7442",
+      "company": "中山福",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260619574800",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260619574800.zip",
+      "github_path": "XBRL/20260619/7442_中山福_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8228",
+      "company": "マルイチ産商",
+      "title": "（訂正・数値データ訂正）「2026年３月期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260616572134",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260616572134.zip",
+      "github_path": "XBRL/20260619/8228_マルイチ産商_（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6327",
+      "company": "北川精機",
+      "title": "2026年6月期通期連結業績予想及び配当予想の修正に関するお知らせ",
+      "time": "15:35",
+      "file_id": "091220260618573644",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260618573644.zip",
+      "github_path": "XBRL/20260619/6327_北川精機_2026年6月期通期連結業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4667",
+      "company": "アイサンテクノロ",
+      "title": "2026年３月期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260618573506",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260618573506.zip",
+      "github_path": "XBRL/20260619/4667_アイサンテクノロ_2026年3月期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4840",
+      "company": "トライアイズ",
+      "title": "特別利益の発生及び通期業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260619574598",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260619574598.zip",
+      "github_path": "XBRL/20260619/4840_トライアイズ_特別利益の発生及び通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5989",
+      "company": "エイチワン",
+      "title": "(訂正・数値データ訂正)「2026年３月期 決算短信〔ＩＦＲＳ〕(連結)」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260618573714",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260618573714.zip",
+      "github_path": "XBRL/20260619/5989_エイチワン_(訂正・数値データ訂正)「2026年3月期 決算短信〔IFRS〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8230",
+      "company": "はせがわ",
+      "title": "（訂正・数値データ訂正）2026年３月期 決算短信〔日本基準〕（連結）の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260617572860",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260617572860.zip",
+      "github_path": "XBRL/20260619/8230_はせがわ_（訂正・数値データ訂正）2026年3月期 決算短信〔日本基準〕（連結）の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8252",
+      "company": "丸井Ｇ",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260618573655",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260618573655.zip",
+      "github_path": "XBRL/20260619/8252_丸井G_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9268",
+      "company": "オプティマス",
+      "title": "（訂正・数値データ訂正）「2026年３月期決算短信〔IFRS〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260618573992",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260618573992.zip",
+      "github_path": "XBRL/20260619/9268_オプティマス_（訂正・数値データ訂正）「2026年3月期決算短信〔IFRS〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9341",
+      "company": "ＧＥＮＯＶＡ",
+      "title": "（訂正・数値データ訂正）「2026年３月期決算短信［日本基準］（連結）」の一部訂正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "081220260619574589",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260619574589.zip",
+      "github_path": "XBRL/20260619/9341_GENOVA_（訂正・数値データ訂正）「2026年3月期決算短信［日本基準］（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7914",
+      "company": "共同印",
+      "title": "（訂正・数値データ訂正）「2026 年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:00",
+      "file_id": "081220260617572776",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260617572776.zip",
+      "github_path": "XBRL/20260619/7914_共同印_（訂正・数値データ訂正）「2026 年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7883",
+      "company": "サンメッセ",
+      "title": "(訂正・数値データ訂正)「2026年３月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "14:50",
+      "file_id": "081220260616571923",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260616571923.zip",
+      "github_path": "XBRL/20260619/7883_サンメッセ_(訂正・数値データ訂正)「2026年3月期 決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6905",
+      "company": "コーセル",
+      "title": "2026年５月期 決算短信〔日本基準〕（連結）",
+      "time": "11:30",
+      "file_id": "081220260617572633",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260617572633.zip",
+      "github_path": "XBRL/20260619/6905_コーセル_2026年5月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7628",
+      "company": "オーハシテクニカ",
+      "title": "(訂正・数値データ訂正)「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "11:30",
+      "file_id": "081220260619574432",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260619574432.zip",
+      "github_path": "XBRL/20260619/7628_オーハシテクニカ_(訂正・数値データ訂正)「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9930",
+      "company": "北沢産業",
+      "title": "（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "11:05",
+      "file_id": "081220260619574398",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260619574398.zip",
+      "github_path": "XBRL/20260619/9930_北沢産業_（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5304",
+      "company": "ＳＥＣカーボン",
+      "title": "（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "11:00",
+      "file_id": "081220260616572033",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260616572033.zip",
+      "github_path": "XBRL/20260619/5304_SECカーボン_（訂正・数値データ訂正）「2026年3月期決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3032",
+      "company": "ゴルフ・ドゥ",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "10:00",
+      "file_id": "081220260616572045",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260616572045.zip",
+      "github_path": "XBRL/20260619/3032_ゴルフ・ドゥ_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
