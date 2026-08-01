@@ -1,0 +1,77 @@
+{
+  "date": "20260717",
+  "folder": "20260717",
+  "root": "XBRL/20260717/",
+  "items": [
+    {
+      "ticker": "8707",
+      "company": "岩井コスモ",
+      "title": "2027年3月期第1四半期 連結決算速報値に関するお知らせ",
+      "time": "16:30",
+      "file_id": "091220260717595540",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260717595540.zip",
+      "github_path": "XBRL/20260717/8707_岩井コスモ_2027年3月期第1四半期 連結決算速報値に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6834",
+      "company": "精工技研",
+      "title": "株式分割、株式分割に伴う定款の一部変更及び配当予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260717596054",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260717596054.zip",
+      "github_path": "XBRL/20260717/6834_精工技研_株式分割、株式分割に伴う定款の一部変更及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2411",
+      "company": "ゲンダイＡＧ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260717595907",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260717595907.zip",
+      "github_path": "XBRL/20260717/2411_ゲンダイAG_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4929",
+      "company": "アジュバンＨＤ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260717595545",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260717595545.zip",
+      "github_path": "XBRL/20260717/4929_アジュバンHD_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5933",
+      "company": "アルインコ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260717595946",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260717595946.zip",
+      "github_path": "XBRL/20260717/5933_アルインコ_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7175",
+      "company": "今村証券",
+      "title": "2027年３月期 第１四半期決算速報値に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260717595771",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260717595771.zip",
+      "github_path": "XBRL/20260717/7175_今村証券_2027年3月期 第1四半期決算速報値に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5423",
+      "company": "東製鉄",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(非連結)",
+      "time": "14:00",
+      "file_id": "081220260717595643",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260717595643.zip",
+      "github_path": "XBRL/20260717/5423_東製鉄_2027年3月期第1四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
