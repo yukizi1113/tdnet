@@ -1,0 +1,147 @@
+{
+  "date": "20260722",
+  "folder": "20260722",
+  "root": "XBRL/20260722/",
+  "items": [
+    {
+      "ticker": "6890",
+      "company": "フェローテック",
+      "title": "（開示事項の訂正）2026年12月期通期連結業績予想の修正に関するお知らせ",
+      "time": "19:35",
+      "file_id": "091220260722597893",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260722597893.zip",
+      "github_path": "XBRL/20260722/6890_フェローテック_（開示事項の訂正）2026年12月期通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6890",
+      "company": "フェローテック",
+      "title": "2026年12月期通期連結業績予想の修正に関するお知らせ",
+      "time": "18:30",
+      "file_id": "091220260722597821",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260722597821.zip",
+      "github_path": "XBRL/20260722/6890_フェローテック_2026年12月期通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1518",
+      "company": "三井松島ＨＤ",
+      "title": "2027年３月期業績予想の上方修正及び配当予想の修正（増配）に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260722597578",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260722597578.zip",
+      "github_path": "XBRL/20260722/1518_三井松島HD_2027年3月期業績予想の上方修正及び配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5576",
+      "company": "オービーシステム",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260721596401",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260721596401.zip",
+      "github_path": "XBRL/20260722/5576_オービーシステム_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1436",
+      "company": "Ｇ－グリーンエナジー",
+      "title": "（訂正・数値データ訂正）「2026年４月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "15:31",
+      "file_id": "081220260722597394",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260722597394.zip",
+      "github_path": "XBRL/20260722/1436_G－グリーンエナジー_（訂正・数値データ訂正）「2026年4月期 決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2169",
+      "company": "ＣＤＳ",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260714593597",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260714593597.zip",
+      "github_path": "XBRL/20260722/2169_CDS_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3091",
+      "company": "ブロンコＢ",
+      "title": "第２四半期（中間期）業績予想と実績の差異及び通期業績予想並びに中間配当及び株式分割後の期末配当予想の修正（増配）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260721597038",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260721597038.zip",
+      "github_path": "XBRL/20260722/3091_ブロンコB_第2四半期（中間期）業績予想と実績の差異及び通期業績予想並びに中間配当及び株式分割後の期末配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3091",
+      "company": "ブロンコＢ",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260721596924",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260721596924.zip",
+      "github_path": "XBRL/20260722/3091_ブロンコB_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3824",
+      "company": "Ｑ－メディア５",
+      "title": "（訂正・数値データ訂正）「2026年５月期決算短信〔日本基準〕（非連結）」の一部訂正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "081220260722597347",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260722597347.zip",
+      "github_path": "XBRL/20260722/3824_Q－メディア5_（訂正・数値データ訂正）「2026年5月期決算短信〔日本基準〕（非連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4684",
+      "company": "オービック",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260721596752",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260721596752.zip",
+      "github_path": "XBRL/20260722/4684_オービック_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4733",
+      "company": "ＯＢＣ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260721596926",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260721596926.zip",
+      "github_path": "XBRL/20260722/4733_OBC_2027年3月期 第1四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7422",
+      "company": "東邦レマック",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260721597074",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260721597074.zip",
+      "github_path": "XBRL/20260722/7422_東邦レマック_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7380",
+      "company": "十六ＦＧ",
+      "title": "業績予想の修正及び配当予想の修正（増配）に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220260717596038",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260717596038.zip",
+      "github_path": "XBRL/20260722/7380_十六FG_業績予想の修正及び配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3776",
+      "company": "ＢＢタワー",
+      "title": "2026年12月期第２四半期(中間期)および通期業績予想の修正に関するお知らせ",
+      "time": "12:30",
+      "file_id": "091220260722597454",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260722597454.zip",
+      "github_path": "XBRL/20260722/3776_BBタワー_2026年12月期第2四半期(中間期)および通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
