@@ -1,0 +1,87 @@
+{
+  "date": "20260716",
+  "folder": "20260716",
+  "root": "XBRL/20260716/",
+  "items": [
+    {
+      "ticker": "414A",
+      "company": "Ｇ－オーバーラップ",
+      "title": "（訂正・数値データ訂正）「2026年８月期 第３四半期決算短信〔ＩＦＲＳ〕（連結）」の一部訂正について",
+      "time": "19:00",
+      "file_id": "081220260716595376",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260716595376.zip",
+      "github_path": "XBRL/20260716/414A_G－オーバーラップ_（訂正・数値データ訂正）「2026年8月期 第3四半期決算短信〔IFRS〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "477A",
+      "company": "Ｇ－スタートライン",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（非連結）」の一部訂正のお知らせ",
+      "time": "17:30",
+      "file_id": "081220260716595403",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260716595403.zip",
+      "github_path": "XBRL/20260716/477A_G－スタートライン_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（非連結）」の一部訂正のお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5990",
+      "company": "スーパーツール",
+      "title": "2027年3月期第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:40",
+      "file_id": "081220260702586553",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260702586553.zip",
+      "github_path": "XBRL/20260716/5990_スーパーツール_2027年3月期第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7097",
+      "company": "Ｇ－さくらさく",
+      "title": "（訂正・数値データ訂正）「2026年７月期 第３四半期決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "081220260716595232",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260716595232.zip",
+      "github_path": "XBRL/20260716/7097_G－さくらさく_（訂正・数値データ訂正）「2026年7月期 第3四半期決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7808",
+      "company": "ＣＳランバー",
+      "title": "2026年５月期 決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260716595189",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260716595189.zip",
+      "github_path": "XBRL/20260716/7808_CSランバー_2026年5月期 決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8613",
+      "company": "丸三証",
+      "title": "2027年3月期 第１四半期 決算速報値に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260716595146",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260716595146.zip",
+      "github_path": "XBRL/20260716/8613_丸三証_2027年3月期 第1四半期 決算速報値に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4809",
+      "company": "パラカ",
+      "title": "通期業績予想の修正及び配当予想の修正（増配）に関するお知らせ",
+      "time": "12:30",
+      "file_id": "091220260701586503",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260701586503.zip",
+      "github_path": "XBRL/20260716/4809_パラカ_通期業績予想の修正及び配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8624",
+      "company": "いちよし",
+      "title": "2027年３月期第１四半期連結決算速報値に関するお知らせ",
+      "time": "12:00",
+      "file_id": "091220260715593831",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260715593831.zip",
+      "github_path": "XBRL/20260716/8624_いちよし_2027年3月期第1四半期連結決算速報値に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
