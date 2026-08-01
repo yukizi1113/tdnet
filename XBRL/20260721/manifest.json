@@ -1,0 +1,97 @@
+{
+  "date": "20260721",
+  "folder": "20260721",
+  "root": "XBRL/20260721/",
+  "items": [
+    {
+      "ticker": "6568",
+      "company": "Ｇ－神戸天然物化学",
+      "title": "2027年３月期 通期業績予想（第１四半期）の修正に関するお知らせ",
+      "time": "17:40",
+      "file_id": "091220260721596911",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260721596911.zip",
+      "github_path": "XBRL/20260721/6568_G－神戸天然物化学_2027年3月期 通期業績予想（第1四半期）の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6200",
+      "company": "インソース",
+      "title": "2026年９月期第３四半期決算短信〔日本基準〕(連結)",
+      "time": "17:00",
+      "file_id": "081220260721596691",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260721596691.zip",
+      "github_path": "XBRL/20260721/6200_インソース_2026年9月期第3四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8708",
+      "company": "アイザワ証Ｇ",
+      "title": "2027年３月期第１四半期 連結決算速報値に関するお知らせ",
+      "time": "16:30",
+      "file_id": "091220260721596429",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260721596429.zip",
+      "github_path": "XBRL/20260721/8708_アイザワ証G_2027年3月期第1四半期 連結決算速報値に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4820",
+      "company": "ＥＭシステムズ",
+      "title": "2026年12月期 第2四半期（中間期）連結業績予想の再修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260721596712",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260721596712.zip",
+      "github_path": "XBRL/20260721/4820_EMシステムズ_2026年12月期 第2四半期（中間期）連結業績予想の再修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6769",
+      "company": "ザイン",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260721596476",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260721596476.zip",
+      "github_path": "XBRL/20260721/6769_ザイン_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9629",
+      "company": "ピーシーエー",
+      "title": "2027年3月期第1四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260717596022",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260717596022.zip",
+      "github_path": "XBRL/20260721/9629_ピーシーエー_2027年3月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5233",
+      "company": "太平洋セメ",
+      "title": "固定資産の譲渡に伴う特別利益の計上ならびに業績予想の修正に関するお知らせ",
+      "time": "14:30",
+      "file_id": "091220260713591993",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260713591993.zip",
+      "github_path": "XBRL/20260721/5233_太平洋セメ_固定資産の譲渡に伴う特別利益の計上ならびに業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "296A",
+      "company": "Ｇ－令和ＡＨ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "11:30",
+      "file_id": "081220260717595695",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260717595695.zip",
+      "github_path": "XBRL/20260721/296A_G－令和AH_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8622",
+      "company": "水戸証",
+      "title": "2027年３月期第１四半期決算速報値に関するお知らせ",
+      "time": "11:30",
+      "file_id": "091220260717595937",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260717595937.zip",
+      "github_path": "XBRL/20260721/8622_水戸証_2027年3月期第1四半期決算速報値に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
