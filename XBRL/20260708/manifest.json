@@ -1,0 +1,137 @@
+{
+  "date": "20260708",
+  "folder": "20260708",
+  "root": "XBRL/20260708/",
+  "items": [
+    {
+      "ticker": "3490",
+      "company": "アズ企画設計",
+      "title": "2027年2月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260708589784",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260708589784.zip",
+      "github_path": "XBRL/20260708/3490_アズ企画設計_2027年2月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9861",
+      "company": "吉野家ＨＤ",
+      "title": "2027年2月期第1四半期決算短信〔日本基準〕(連結)",
+      "time": "16:00",
+      "file_id": "081220260707589069",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260707589069.zip",
+      "github_path": "XBRL/20260708/9861_吉野家HD_2027年2月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2670",
+      "company": "ＡＢＣマート",
+      "title": "2027年２月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260708589428",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260708589428.zip",
+      "github_path": "XBRL/20260708/2670_ABCマート_2027年2月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3391",
+      "company": "ツルハＨＤ",
+      "title": "2027年２月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260707589226",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260707589226.zip",
+      "github_path": "XBRL/20260708/3391_ツルハHD_2027年2月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6183",
+      "company": "ベル２４ＨＤ",
+      "title": "2027年２月期第１四半期決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260708589607",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260708589607.zip",
+      "github_path": "XBRL/20260708/6183_ベル24HD_2027年2月期第1四半期決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8166",
+      "company": "タカキュー",
+      "title": "2027年2月期 第1四半期決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260629583268",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260629583268.zip",
+      "github_path": "XBRL/20260708/8166_タカキュー_2027年2月期 第1四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9619",
+      "company": "イチネンＨＤ",
+      "title": "配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260702587167",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260702587167.zip",
+      "github_path": "XBRL/20260708/9619_イチネンHD_配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9720",
+      "company": "ニューグランド",
+      "title": "業績予想の修正及び特別利益の計上に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260706588007",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260706588007.zip",
+      "github_path": "XBRL/20260708/9720_ニューグランド_業績予想の修正及び特別利益の計上に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9846",
+      "company": "天満屋ス",
+      "title": "2027年2月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260707588738",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260707588738.zip",
+      "github_path": "XBRL/20260708/9846_天満屋ス_2027年2月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9946",
+      "company": "ミニストップ",
+      "title": "2027年２月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260707588749",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260707588749.zip",
+      "github_path": "XBRL/20260708/9946_ミニストップ_2027年2月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7921",
+      "company": "ＴＡＫＡＲＡ＆ＣＯ",
+      "title": "2026年５月期 決算短信〔日本基準〕（連結）",
+      "time": "15:00",
+      "file_id": "081220260707589312",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260707589312.zip",
+      "github_path": "XBRL/20260708/7921_TAKARA＆CO_2026年5月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2502",
+      "company": "アサヒ",
+      "title": "2025年12月期 決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "11:30",
+      "file_id": "081220260707588934",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260707588934.zip",
+      "github_path": "XBRL/20260708/2502_アサヒ_2025年12月期 決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8194",
+      "company": "ライフコーポ",
+      "title": "2027年２月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "11:30",
+      "file_id": "081220260701586013",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260701586013.zip",
+      "github_path": "XBRL/20260708/8194_ライフコーポ_2027年2月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
