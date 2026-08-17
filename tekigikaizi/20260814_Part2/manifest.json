@@ -1,0 +1,27 @@
+{
+  "date": "20260814",
+  "folder": "20260814_Part2",
+  "root": "tekigikaizi/20260814_Part2/",
+  "items": [
+    {
+      "ticker": "241A",
+      "company": "Ｇ－ＲＯＸＸ",
+      "title": "2026年９月期第３四半期 決算説明会 Transcriptの公開に関するお知らせ",
+      "time": "08:00",
+      "file_id": "140120260810517289",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260810517289.pdf",
+      "github_path": "tekigikaizi/20260814_Part2/241A_G－ROXX_2026年9月期第3四半期 決算説明会 Transcriptの公開に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "241A",
+      "company": "Ｇ－ＲＯＸＸ",
+      "title": "2026年９月期第３四半期 決算説明会 Q&Aの公開に関するお知らせ",
+      "time": "08:00",
+      "file_id": "140120260810517291",
+      "source_url": "https://www.release.tdnet.info/inbs/140120260810517291.pdf",
+      "github_path": "tekigikaizi/20260814_Part2/241A_G－ROXX_2026年9月期第3四半期 決算説明会 Q&Aの公開に関するお知らせ.pdf",
+      "status": "uploaded"
+    }
+  ]
+}
