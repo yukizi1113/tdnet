@@ -1,0 +1,2187 @@
+{
+  "date": "20260812",
+  "folder": "20260812",
+  "root": "XBRL/20260812/",
+  "items": [
+    {
+      "ticker": "332A",
+      "company": "Ｇ－ミーク",
+      "title": "2027年３月期 第１四半期 決算短信〔日本基準〕（連結）",
+      "time": "17:00",
+      "file_id": "081220260812518429",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518429.zip",
+      "github_path": "XBRL/20260812/332A_G－ミーク_2027年3月期 第1四半期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3551",
+      "company": "ダイニック",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "17:00",
+      "file_id": "081220260807515241",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807515241.zip",
+      "github_path": "XBRL/20260812/3551_ダイニック_2027年3月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4222",
+      "company": "児玉化",
+      "title": "2027年３月期 第１四半期決算〔日本基準〕（連結）",
+      "time": "17:00",
+      "file_id": "081220260812518315",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518315.zip",
+      "github_path": "XBRL/20260812/4222_児玉化_2027年3月期 第1四半期決算〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7087",
+      "company": "ウイルテック",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "17:00",
+      "file_id": "081220260812517948",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517948.zip",
+      "github_path": "XBRL/20260812/7087_ウイルテック_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9941",
+      "company": "太洋物産",
+      "title": "2026年９月期 第３四半期決算短信〔日本基準〕（非連結）",
+      "time": "17:00",
+      "file_id": "081220260812518420",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518420.zip",
+      "github_path": "XBRL/20260812/9941_太洋物産_2026年9月期 第3四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4013",
+      "company": "Ｇ－勤次郎",
+      "title": "2026年12月期 第２四半期（中間期） 決算短信〔日本基準〕(連結)",
+      "time": "16:55",
+      "file_id": "081220260715594742",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260715594742.zip",
+      "github_path": "XBRL/20260812/4013_G－勤次郎_2026年12月期 第2四半期（中間期） 決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9193",
+      "company": "東汽船",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "16:35",
+      "file_id": "081220260812517694",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517694.zip",
+      "github_path": "XBRL/20260812/9193_東汽船_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1663",
+      "company": "Ｋ＆Ｏエナジー",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "16:30",
+      "file_id": "081220260812517727",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517727.zip",
+      "github_path": "XBRL/20260812/1663_K＆Oエナジー_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2195",
+      "company": "Ｇ－アミタＨＤ",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "16:30",
+      "file_id": "081220260806512885",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260806512885.zip",
+      "github_path": "XBRL/20260812/2195_G－アミタHD_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2694",
+      "company": "焼肉坂井ＨＤ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "16:30",
+      "file_id": "081220260810516801",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516801.zip",
+      "github_path": "XBRL/20260812/2694_焼肉坂井HD_2027年3月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3800",
+      "company": "ユニリタ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+      "time": "16:30",
+      "file_id": "081220260728501063",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260728501063.zip",
+      "github_path": "XBRL/20260812/3800_ユニリタ_2027年3月期 第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "421A",
+      "company": "Ｇ－ムービン",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "16:30",
+      "file_id": "081220260812518223",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518223.zip",
+      "github_path": "XBRL/20260812/421A_G－ムービン_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "438A",
+      "company": "Ｇ－インフキュリオン",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "16:30",
+      "file_id": "081220260808515922",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260808515922.zip",
+      "github_path": "XBRL/20260812/438A_G－インフキュリオン_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6074",
+      "company": "ＪＳＳ",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "16:30",
+      "file_id": "081220260805510183",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260805510183.zip",
+      "github_path": "XBRL/20260812/6074_JSS_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9069",
+      "company": "センコーグループＨＤ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "16:30",
+      "file_id": "081220260812517958",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517958.zip",
+      "github_path": "XBRL/20260812/9069_センコーグループHD_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9227",
+      "company": "Ｇ－マイクロ波化学",
+      "title": "2026年６月期 決算短信〔日本基準〕(非連結)",
+      "time": "16:30",
+      "file_id": "081220260812518296",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518296.zip",
+      "github_path": "XBRL/20260812/9227_G－マイクロ波化学_2026年6月期 決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4258",
+      "company": "Ｇ－網屋",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "16:20",
+      "file_id": "081220260812518249",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518249.zip",
+      "github_path": "XBRL/20260812/4258_G－網屋_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "146A",
+      "company": "コロンビア・ワークス",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260812517737",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517737.zip",
+      "github_path": "XBRL/20260812/146A_コロンビア・ワークス_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2291",
+      "company": "福留ハム",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "16:00",
+      "file_id": "081220260811517512",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260811517512.zip",
+      "github_path": "XBRL/20260812/2291_福留ハム_2027年3月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2667",
+      "company": "イメージワン",
+      "title": "2026年9月期 第3四半期決算短信〔日本基準〕(非連結)",
+      "time": "16:00",
+      "file_id": "081220260812518027",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518027.zip",
+      "github_path": "XBRL/20260812/2667_イメージワン_2026年9月期 第3四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2933",
+      "company": "紀文食品",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260707588809",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260707588809.zip",
+      "github_path": "XBRL/20260812/2933_紀文食品_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2981",
+      "company": "Ｇ－ランディックス",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260812518076",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518076.zip",
+      "github_path": "XBRL/20260812/2981_G－ランディックス_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3001",
+      "company": "片倉",
+      "title": "2026年12月期 第２四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260810517349",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517349.zip",
+      "github_path": "XBRL/20260812/3001_片倉_2026年12月期 第2四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3306",
+      "company": "日製麻",
+      "title": "2027年３月期 第１四半期決算短信 〔日本基準〕 (非連結)",
+      "time": "16:00",
+      "file_id": "081220260812517611",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517611.zip",
+      "github_path": "XBRL/20260812/3306_日製麻_2027年3月期 第1四半期決算短信 〔日本基準〕 (非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3359",
+      "company": "Ｇ－ｃｏｔｔａ",
+      "title": "2026年９月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260706588374",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260706588374.zip",
+      "github_path": "XBRL/20260812/3359_G－cotta_2026年9月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3372",
+      "company": "関門海",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260722597149",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260722597149.zip",
+      "github_path": "XBRL/20260812/3372_関門海_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3392",
+      "company": "デリカフーズＨＤ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+      "time": "16:00",
+      "file_id": "081220260812517687",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517687.zip",
+      "github_path": "XBRL/20260812/3392_デリカフーズHD_2027年3月期 第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3416",
+      "company": "ピクスタ",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260811517462",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260811517462.zip",
+      "github_path": "XBRL/20260812/3416_ピクスタ_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3504",
+      "company": "丸八ホールディングス",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+      "time": "16:00",
+      "file_id": "081220260811517491",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260811517491.zip",
+      "github_path": "XBRL/20260812/3504_丸八ホールディングス_2027年3月期 第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3521",
+      "company": "テルマー湯ＨＤ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260810516231",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516231.zip",
+      "github_path": "XBRL/20260812/3521_テルマー湯HD_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3600",
+      "company": "フジックス",
+      "title": "2027年３月期 第１四半期決算短信[日本基準](連結)",
+      "time": "16:00",
+      "file_id": "081220260810516875",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516875.zip",
+      "github_path": "XBRL/20260812/3600_フジックス_2027年3月期 第1四半期決算短信[日本基準](連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3817",
+      "company": "ＳＲＡＨＤ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260812518207",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518207.zip",
+      "github_path": "XBRL/20260812/3817_SRAHD_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3848",
+      "company": "データアプリ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260806513385",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260806513385.zip",
+      "github_path": "XBRL/20260812/3848_データアプリ_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4192",
+      "company": "Ｇ－スパイダープラス",
+      "title": "2026年12月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "16:00",
+      "file_id": "081220260810517334",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517334.zip",
+      "github_path": "XBRL/20260812/4192_G－スパイダープラス_2026年12月期第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4240",
+      "company": "クラスターＴ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(非連結)",
+      "time": "16:00",
+      "file_id": "081220260810517206",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517206.zip",
+      "github_path": "XBRL/20260812/4240_クラスターT_2027年3月期第1四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4495",
+      "company": "Ｇ－アイキューブド",
+      "title": "2026年６月期 決算短信〔日本基準〕(連結)",
+      "time": "16:00",
+      "file_id": "081220260810517196",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517196.zip",
+      "github_path": "XBRL/20260812/4495_G－アイキューブド_2026年6月期 決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4720",
+      "company": "城南進研",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260807514039",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807514039.zip",
+      "github_path": "XBRL/20260812/4720_城南進研_2027年3月期第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4743",
+      "company": "アイティフォー",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕(連結)",
+      "time": "16:00",
+      "file_id": "081220260812517701",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517701.zip",
+      "github_path": "XBRL/20260812/4743_アイティフォー_2027年3月期 第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4752",
+      "company": "昭和システム",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（非連結）",
+      "time": "16:00",
+      "file_id": "081220260812517620",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517620.zip",
+      "github_path": "XBRL/20260812/4752_昭和システム_2027年3月期 第1四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5029",
+      "company": "Ｇ－サークレイス",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+      "time": "16:00",
+      "file_id": "081220260807514261",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807514261.zip",
+      "github_path": "XBRL/20260812/5029_G－サークレイス_2027年3月期 第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "520A",
+      "company": "Ｇ－ジェイファーマ",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（非連結）",
+      "time": "16:00",
+      "file_id": "081220260812518028",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518028.zip",
+      "github_path": "XBRL/20260812/520A_G－ジェイファーマ_2027年3月期 第1四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5256",
+      "company": "Ｇ－Ｆｕｓｉｃ",
+      "title": "2026年６月期決算短信〔日本基準〕(非連結)",
+      "time": "16:00",
+      "file_id": "081220260812518055",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518055.zip",
+      "github_path": "XBRL/20260812/5256_G－Fusic_2026年6月期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5599",
+      "company": "Ｇ－Ｓ＆Ｊ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（非連結）",
+      "time": "16:00",
+      "file_id": "081220260810517386",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517386.zip",
+      "github_path": "XBRL/20260812/5599_G－S＆J_2027年3月期 第1四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5858",
+      "company": "Ｇ－ＳＴＧ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "16:00",
+      "file_id": "081220260812518293",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518293.zip",
+      "github_path": "XBRL/20260812/5858_G－STG_2027年3月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6195",
+      "company": "Ｇ－ホープ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260803506497",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260803506497.zip",
+      "github_path": "XBRL/20260812/6195_G－ホープ_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6616",
+      "company": "トレックスセミ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260812517625",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517625.zip",
+      "github_path": "XBRL/20260812/6616_トレックスセミ_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6748",
+      "company": "星和電機",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260812517784",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517784.zip",
+      "github_path": "XBRL/20260812/6748_星和電機_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7059",
+      "company": "コプロＨＤ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "16:00",
+      "file_id": "081220260810516886",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516886.zip",
+      "github_path": "XBRL/20260812/7059_コプロHD_2027年3月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7343",
+      "company": "Ｇ－ブロードマインド",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260810516902",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516902.zip",
+      "github_path": "XBRL/20260812/7343_G－ブロードマインド_2027年3月期第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7359",
+      "company": "Ｇ－東京通信Ｇ",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "16:00",
+      "file_id": "081220260807514715",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807514715.zip",
+      "github_path": "XBRL/20260812/7359_G－東京通信G_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7643",
+      "company": "ダイイチ",
+      "title": "2026年９月期第３四半期決算短信［日本基準］（非連結）",
+      "time": "16:00",
+      "file_id": "081220260715594244",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260715594244.zip",
+      "github_path": "XBRL/20260812/7643_ダイイチ_2026年9月期第3四半期決算短信［日本基準］（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7918",
+      "company": "ヴィアＨＤ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260812517612",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517612.zip",
+      "github_path": "XBRL/20260812/7918_ヴィアHD_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8228",
+      "company": "マルイチ産商",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260810517393",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517393.zip",
+      "github_path": "XBRL/20260812/8228_マルイチ産商_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8789",
+      "company": "フィンテック",
+      "title": "2026年９月期第３四半期決算短信〔日本基準〕(連結)",
+      "time": "16:00",
+      "file_id": "081220260812518012",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518012.zip",
+      "github_path": "XBRL/20260812/8789_フィンテック_2026年9月期第3四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9229",
+      "company": "サンウェルズ",
+      "title": "2027年3月期 第１四半期決算短信〔日本基準〕（非連結）",
+      "time": "16:00",
+      "file_id": "081220260807515755",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807515755.zip",
+      "github_path": "XBRL/20260812/9229_サンウェルズ_2027年3月期 第1四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9996",
+      "company": "サトー商会",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260812518326",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518326.zip",
+      "github_path": "XBRL/20260812/9996_サトー商会_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2342",
+      "company": "トランスジェニックＧ",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕(連結)",
+      "time": "15:45",
+      "file_id": "081220260723598045",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260723598045.zip",
+      "github_path": "XBRL/20260812/2342_トランスジェニックG_2027年3月期 第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3096",
+      "company": "オーシャン",
+      "title": "令和9年3月期第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:40",
+      "file_id": "081220260724598887",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260724598887.zip",
+      "github_path": "XBRL/20260812/3096_オーシャン_令和9年3月期第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4391",
+      "company": "Ｇ－ロジザード",
+      "title": "2026年６月期 決算短信〔日本基準〕（非連結）",
+      "time": "15:40",
+      "file_id": "081220260810517204",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517204.zip",
+      "github_path": "XBRL/20260812/4391_G－ロジザード_2026年6月期 決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4575",
+      "company": "Ｇ－ＣＡＮＢＡＳ",
+      "title": "2026年6月期 決算短信〔日本基準〕（非連結）",
+      "time": "15:40",
+      "file_id": "081220260808515604",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260808515604.zip",
+      "github_path": "XBRL/20260812/4575_G－CANBAS_2026年6月期 決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6291",
+      "company": "エアーテック",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（非連結）",
+      "time": "15:40",
+      "file_id": "081220260812518170",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518170.zip",
+      "github_path": "XBRL/20260812/6291_エアーテック_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6666",
+      "company": "リバーエレテク",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:40",
+      "file_id": "081220260730503141",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260730503141.zip",
+      "github_path": "XBRL/20260812/6666_リバーエレテク_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9082",
+      "company": "大和自交",
+      "title": "2027年3月期第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:40",
+      "file_id": "081220260731505304",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260731505304.zip",
+      "github_path": "XBRL/20260812/9082_大和自交_2027年3月期第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9514",
+      "company": "ＥＦ－ＯＮ",
+      "title": "2026年６月期 決算短信〔日本基準〕（連結）",
+      "time": "15:40",
+      "file_id": "081220260812518197",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518197.zip",
+      "github_path": "XBRL/20260812/9514_EF－ON_2026年6月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4488",
+      "company": "Ｇ－ＡＩｉｎｓｉｄｅ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(非連結)",
+      "time": "15:35",
+      "file_id": "081220260812517556",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517556.zip",
+      "github_path": "XBRL/20260812/4488_G－AIinside_2027年3月期第1四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2993",
+      "company": "長栄",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（非連結）",
+      "time": "15:31",
+      "file_id": "081220260810516755",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516755.zip",
+      "github_path": "XBRL/20260812/2993_長栄_2027年3月期 第1四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3932",
+      "company": "アカツキ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:31",
+      "file_id": "081220260810516001",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516001.zip",
+      "github_path": "XBRL/20260812/3932_アカツキ_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1435",
+      "company": "ｒｏｂｏｔ ｈｏｍｅ",
+      "title": "2026年12月期 第２四半期（中間期） 決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260812517562",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517562.zip",
+      "github_path": "XBRL/20260812/1435_robot home_2026年12月期 第2四半期（中間期） 決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "147A",
+      "company": "Ｇ－ソラコム",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260810517429",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517429.zip",
+      "github_path": "XBRL/20260812/147A_G－ソラコム_2027年3月期第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1724",
+      "company": "シンクレイヤ",
+      "title": "2026年12月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260812517868",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517868.zip",
+      "github_path": "XBRL/20260812/1724_シンクレイヤ_2026年12月期第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2055",
+      "company": "日和産業",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260810516425",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516425.zip",
+      "github_path": "XBRL/20260812/2055_日和産業_2027年3月期 第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2120",
+      "company": "ＬＩＦＵＬＬ",
+      "title": "2026年9月期第3四半期決算短信〔IFRS〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517800",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517800.zip",
+      "github_path": "XBRL/20260812/2120_LIFULL_2026年9月期第3四半期決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2122",
+      "company": "Ｉスペース",
+      "title": "2026年９月期第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517936",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517936.zip",
+      "github_path": "XBRL/20260812/2122_Iスペース_2026年9月期第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2124",
+      "company": "ＪＡＣ",
+      "title": "2026年12月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260812517761",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517761.zip",
+      "github_path": "XBRL/20260812/2124_JAC_2026年12月期第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2304",
+      "company": "ＣＳＳＨＤ",
+      "title": "2026年９月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812518073",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518073.zip",
+      "github_path": "XBRL/20260812/2304_CSSHD_2026年9月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "231A",
+      "company": "Ｑ－Ｃｒｏｓｓ Ｅ",
+      "title": "2026年９月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260811517504",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260811517504.zip",
+      "github_path": "XBRL/20260812/231A_Q－Cross E_2026年9月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2321",
+      "company": "Ｇ－ソフトフロントＨ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260810517041",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517041.zip",
+      "github_path": "XBRL/20260812/2321_G－ソフトフロントH_2027年3月期第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2385",
+      "company": "Ｇ－総医研",
+      "title": "2026年6月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260810516965",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516965.zip",
+      "github_path": "XBRL/20260812/2385_G－総医研_2026年6月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "248A",
+      "company": "Ｇ－キッズスター",
+      "title": "2026年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260812517755",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517755.zip",
+      "github_path": "XBRL/20260812/248A_G－キッズスター_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "259A",
+      "company": "ケイ・ウノ",
+      "title": "2026年９月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260811517515",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260811517515.zip",
+      "github_path": "XBRL/20260812/259A_ケイ・ウノ_2026年9月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2689",
+      "company": "オルバヘルスケアＨＤ",
+      "title": "2026年6月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260807515890",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807515890.zip",
+      "github_path": "XBRL/20260812/2689_オルバヘルスケアHD_2026年6月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2705",
+      "company": "大戸屋ＨＤ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)（公認会計士等による期中レビューの完了）",
+      "time": "15:30",
+      "file_id": "081220260812517982",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517982.zip",
+      "github_path": "XBRL/20260812/2705_大戸屋HD_2027年3月期第1四半期決算短信〔日本基準〕(連結)（公認会計士等による期中レビューの完了）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2820",
+      "company": "やまみ",
+      "title": "2026年６月期決算短信〔日本基準〕(非連結)",
+      "time": "15:30",
+      "file_id": "081220260811517483",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260811517483.zip",
+      "github_path": "XBRL/20260812/2820_やまみ_2026年6月期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3154",
+      "company": "メディアスＨＤ",
+      "title": "2026年６月期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260811517473",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260811517473.zip",
+      "github_path": "XBRL/20260812/3154_メディアスHD_2026年6月期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3178",
+      "company": "チムニー",
+      "title": "2027年３月期 第１四半期決算短信[日本基準](連結)",
+      "time": "15:30",
+      "file_id": "081220260810517161",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517161.zip",
+      "github_path": "XBRL/20260812/3178_チムニー_2027年3月期 第1四半期決算短信[日本基準](連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3494",
+      "company": "マリオン",
+      "title": "2026年９月期 第３四半期決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260807513873",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807513873.zip",
+      "github_path": "XBRL/20260812/3494_マリオン_2026年9月期 第3四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3646",
+      "company": "駅探",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812518022",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518022.zip",
+      "github_path": "XBRL/20260812/3646_駅探_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3652",
+      "company": "Ｇ－ＤＭＰ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260812517624",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517624.zip",
+      "github_path": "XBRL/20260812/3652_G－DMP_2027年3月期第1四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3671",
+      "company": "ソフトＭＡＸ",
+      "title": "2026年12月期 第２四半期（中間期）決算短信[日本基準]（非連結）",
+      "time": "15:30",
+      "file_id": "081220260806513010",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260806513010.zip",
+      "github_path": "XBRL/20260812/3671_ソフトMAX_2026年12月期 第2四半期（中間期）決算短信[日本基準]（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3673",
+      "company": "ブロドリーフ",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812518082",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518082.zip",
+      "github_path": "XBRL/20260812/3673_ブロドリーフ_2026年12月期 第2四半期（中間期）決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3779",
+      "company": "Ｊ・エスコムＨＤ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260810516320",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516320.zip",
+      "github_path": "XBRL/20260812/3779_J・エスコムHD_2027年3月期第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3798",
+      "company": "ＵＬＳグループ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517590",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517590.zip",
+      "github_path": "XBRL/20260812/3798_ULSグループ_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "387A",
+      "company": "Ｇ－フラー",
+      "title": "2026年６月期決算短信〔日本基準〕(非連結)",
+      "time": "15:30",
+      "file_id": "081220260811517476",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260811517476.zip",
+      "github_path": "XBRL/20260812/387A_G－フラー_2026年6月期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3916",
+      "company": "ＤＩＴ",
+      "title": "2026年６月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517536",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517536.zip",
+      "github_path": "XBRL/20260812/3916_DIT_2026年6月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3986",
+      "company": "ビーブレイク",
+      "title": "2026年6月期 決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260722597776",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260722597776.zip",
+      "github_path": "XBRL/20260812/3986_ビーブレイク_2026年6月期 決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4022",
+      "company": "ラサ工",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260805509786",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260805509786.zip",
+      "github_path": "XBRL/20260812/4022_ラサ工_2027年3月期 第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4071",
+      "company": "プラスアルファ",
+      "title": "2026年９月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260810517037",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517037.zip",
+      "github_path": "XBRL/20260812/4071_プラスアルファ_2026年9月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "407A",
+      "company": "ＵＮＩＣＯＮ ＨＤ",
+      "title": "2026年６月期 決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517580",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517580.zip",
+      "github_path": "XBRL/20260812/407A_UNICON HD_2026年6月期 決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4171",
+      "company": "グローバルＩ",
+      "title": "2026年12月期 第２四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517674",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517674.zip",
+      "github_path": "XBRL/20260812/4171_グローバルI_2026年12月期 第2四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4255",
+      "company": "Ｇ－ＴＨＥＣＯＯ",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260810517089",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517089.zip",
+      "github_path": "XBRL/20260812/4255_G－THECOO_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4259",
+      "company": "Ｇ－エクサウィザーズ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260812518004",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518004.zip",
+      "github_path": "XBRL/20260812/4259_G－エクサウィザーズ_2027年3月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4356",
+      "company": "応用技術",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260810516953",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516953.zip",
+      "github_path": "XBRL/20260812/4356_応用技術_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4374",
+      "company": "Ｇ－ロボペイ",
+      "title": "2026年12月期第２四半期（中間期）決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260812517582",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517582.zip",
+      "github_path": "XBRL/20260812/4374_G－ロボペイ_2026年12月期第2四半期（中間期）決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4386",
+      "company": "ＳＩＧグループ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260807515367",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807515367.zip",
+      "github_path": "XBRL/20260812/4386_SIGグループ_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4387",
+      "company": "Ｇ－ＺＵＵ",
+      "title": "2027年３月期 第１四半期決算〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517991",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517991.zip",
+      "github_path": "XBRL/20260812/4387_G－ZUU_2027年3月期 第1四半期決算〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4389",
+      "company": "Ｇ－プロパティＤＢＫ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260804508234",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260804508234.zip",
+      "github_path": "XBRL/20260812/4389_G－プロパティDBK_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4398",
+      "company": "ＢＢＳｅｃ",
+      "title": "2026年６月期 決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260812517750",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517750.zip",
+      "github_path": "XBRL/20260812/4398_BBSec_2026年6月期 決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4416",
+      "company": "Ｇ－ＴｒｕｅＤａｔａ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260812517593",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517593.zip",
+      "github_path": "XBRL/20260812/4416_G－TrueData_2027年3月期 第1四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4419",
+      "company": "Ｇ－Ｆｉｎａｔｅｘｔ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517819",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517819.zip",
+      "github_path": "XBRL/20260812/4419_G－Finatext_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4587",
+      "company": "ペプチドリーム",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812518129",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518129.zip",
+      "github_path": "XBRL/20260812/4587_ペプチドリーム_2026年12月期 第2四半期（中間期）決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4593",
+      "company": "Ｇ－ヘリオス",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517605",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517605.zip",
+      "github_path": "XBRL/20260812/4593_G－ヘリオス_2026年12月期 第2四半期（中間期）決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "478A",
+      "company": "Ｇ－フツパー",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260812518067",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518067.zip",
+      "github_path": "XBRL/20260812/478A_G－フツパー_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4840",
+      "company": "トライアイズ",
+      "title": "2026年12月期第2四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517685",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517685.zip",
+      "github_path": "XBRL/20260812/4840_トライアイズ_2026年12月期第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4890",
+      "company": "Ｇ－坪田ラボ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260810516798",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516798.zip",
+      "github_path": "XBRL/20260812/4890_G－坪田ラボ_2027年3月期 第1四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5126",
+      "company": "Ｇ－ポーターズ",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812518151",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518151.zip",
+      "github_path": "XBRL/20260812/5126_G－ポーターズ_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5253",
+      "company": "Ｇ－カバー",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕(非連結)",
+      "time": "15:30",
+      "file_id": "081220260812518254",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518254.zip",
+      "github_path": "XBRL/20260812/5253_G－カバー_2027年3月期 第1四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5288",
+      "company": "アジアパイルＨＤ",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517995",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517995.zip",
+      "github_path": "XBRL/20260812/5288_アジアパイルHD_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5337",
+      "company": "ダントーＨＤ",
+      "title": "2026年12月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260810517181",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517181.zip",
+      "github_path": "XBRL/20260812/5337_ダントーHD_2026年12月期第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5363",
+      "company": "ＴＹＫ",
+      "title": "2027年3月期第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260804508603",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260804508603.zip",
+      "github_path": "XBRL/20260812/5363_TYK_2027年3月期第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "543A",
+      "company": "ＡＲＣＨＩＯＮ",
+      "title": "2027年3月期第1四半期決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260807515484",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807515484.zip",
+      "github_path": "XBRL/20260812/543A_ARCHION_2027年3月期第1四半期決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "545A",
+      "company": "トランヴィア",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260810517318",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517318.zip",
+      "github_path": "XBRL/20260812/545A_トランヴィア_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5530",
+      "company": "日本システムバンク",
+      "title": "2026年６月期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260810517033",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517033.zip",
+      "github_path": "XBRL/20260812/5530_日本システムバンク_2026年6月期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5842",
+      "company": "Ｇ－インテグラル",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812518264",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518264.zip",
+      "github_path": "XBRL/20260812/5842_G－インテグラル_2026年12月期 第2四半期（中間期）決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5870",
+      "company": "Ｇ－ナルネット",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(非連結)",
+      "time": "15:30",
+      "file_id": "081220260812517745",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517745.zip",
+      "github_path": "XBRL/20260812/5870_G－ナルネット_2027年3月期第1四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5891",
+      "company": "ＳＡＫＩＧＡＫＥ",
+      "title": "2026年12月期第2四半期（中間期）決算短信［日本基準］（連結）",
+      "time": "15:30",
+      "file_id": "081220260812518087",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518087.zip",
+      "github_path": "XBRL/20260812/5891_SAKIGAKE_2026年12月期第2四半期（中間期）決算短信［日本基準］（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5939",
+      "company": "大谷工業",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260812517888",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517888.zip",
+      "github_path": "XBRL/20260812/5939_大谷工業_2027年3月期 第1四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6027",
+      "company": "弁護士ドットコム",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260810517022",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517022.zip",
+      "github_path": "XBRL/20260812/6027_弁護士ドットコム_2027年3月期 第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "607A",
+      "company": "Ｇ－エブリー",
+      "title": "2026年６月期 決算短信〔日本基準〕(非連結)",
+      "time": "15:30",
+      "file_id": "081220260810517398",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517398.zip",
+      "github_path": "XBRL/20260812/607A_G－エブリー_2026年6月期 決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6181",
+      "company": "Ｇ－タメニー",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220260716595380",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260716595380.zip",
+      "github_path": "XBRL/20260812/6181_G－タメニー_2027年3月期 第1四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6265",
+      "company": "コンバム",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260812517601",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517601.zip",
+      "github_path": "XBRL/20260812/6265_コンバム_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6287",
+      "company": "サトー",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260807515748",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807515748.zip",
+      "github_path": "XBRL/20260812/6287_サトー_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6335",
+      "company": "東京機",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260804507732",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260804507732.zip",
+      "github_path": "XBRL/20260812/6335_東京機_2027年3月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6380",
+      "company": "オリチエン工業",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812518132",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518132.zip",
+      "github_path": "XBRL/20260812/6380_オリチエン工業_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6540",
+      "company": "船場",
+      "title": "2026年12月期 第２四半期（中間期）決算短信 〔日本基準〕 （連結）",
+      "time": "15:30",
+      "file_id": "081220260810517152",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517152.zip",
+      "github_path": "XBRL/20260812/6540_船場_2026年12月期 第2四半期（中間期）決算短信 〔日本基準〕 （連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6554",
+      "company": "Ｇ－エスユーエス",
+      "title": "2026年９月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812518017",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518017.zip",
+      "github_path": "XBRL/20260812/6554_G－エスユーエス_2026年9月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6786",
+      "company": "ＲＶＨ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260810516562",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516562.zip",
+      "github_path": "XBRL/20260812/6786_RVH_2027年3月期第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6871",
+      "company": "日マイクロニクス",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517771",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517771.zip",
+      "github_path": "XBRL/20260812/6871_日マイクロニクス_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6914",
+      "company": "オプテックスグループ",
+      "title": "2026年12月期 第２四半期（中間期）決算短信[日本基準]（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517716",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517716.zip",
+      "github_path": "XBRL/20260812/6914_オプテックスグループ_2026年12月期 第2四半期（中間期）決算短信[日本基準]（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7047",
+      "company": "Ｇ－ポート",
+      "title": "2027年３月期第１四半期決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517838",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517838.zip",
+      "github_path": "XBRL/20260812/7047_G－ポート_2027年3月期第1四半期決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7119",
+      "company": "Ｇ－ハルメクＨＤ",
+      "title": "2027年３月期 第１四半期決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260810517267",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517267.zip",
+      "github_path": "XBRL/20260812/7119_G－ハルメクHD_2027年3月期 第1四半期決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7133",
+      "company": "Ｇ－ヒュウガプライマ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260807515628",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807515628.zip",
+      "github_path": "XBRL/20260812/7133_G－ヒュウガプライマ_2027年3月期 第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7157",
+      "company": "ライフネット生命",
+      "title": "2027年3月期第1四半期決算短信〔IFRS〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260811517489",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260811517489.zip",
+      "github_path": "XBRL/20260812/7157_ライフネット生命_2027年3月期第1四半期決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7372",
+      "company": "Ｇ－デコルテＨＤ",
+      "title": "2026年９月期第３四半期決算短信〔IFRS〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260810517305",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517305.zip",
+      "github_path": "XBRL/20260812/7372_G－デコルテHD_2026年9月期第3四半期決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7374",
+      "company": "Ｇ－コンフィデンスＩ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260806513465",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260806513465.zip",
+      "github_path": "XBRL/20260812/7374_G－コンフィデンスI_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7412",
+      "company": "アトム",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（非連結）(公認会計士等による期中レビューの完了)",
+      "time": "15:30",
+      "file_id": "081220260810517223",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517223.zip",
+      "github_path": "XBRL/20260812/7412_アトム_2027年3月期 第1四半期決算短信〔日本基準〕（非連結）(公認会計士等による期中レビューの完了)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7421",
+      "company": "カッパ・クリエイト",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）（公認会計士等による期中レビューの完了）",
+      "time": "15:30",
+      "file_id": "081220260810517422",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517422.zip",
+      "github_path": "XBRL/20260812/7421_カッパ・クリエイト_2027年3月期 第1四半期決算短信〔日本基準〕（連結）（公認会計士等による期中レビューの完了）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7433",
+      "company": "伯東",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517906",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517906.zip",
+      "github_path": "XBRL/20260812/7433_伯東_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7602",
+      "company": "レダックス",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812518229",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518229.zip",
+      "github_path": "XBRL/20260812/7602_レダックス_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7616",
+      "company": "コロワイド",
+      "title": "2027年３月期 第１四半期決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517638",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517638.zip",
+      "github_path": "XBRL/20260812/7616_コロワイド_2027年3月期 第1四半期決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7715",
+      "company": "長野計器",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517939",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517939.zip",
+      "github_path": "XBRL/20260812/7715_長野計器_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7833",
+      "company": "アイフィスジャパン",
+      "title": "2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260724598870",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260724598870.zip",
+      "github_path": "XBRL/20260812/7833_アイフィスジャパン_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7837",
+      "company": "アールシーコア",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517805",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517805.zip",
+      "github_path": "XBRL/20260812/7837_アールシーコア_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7911",
+      "company": "ＴＯＰＰＡＮ ＨＤ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260811517449",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260811517449.zip",
+      "github_path": "XBRL/20260812/7911_TOPPAN HD_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8230",
+      "company": "はせがわ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517621",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517621.zip",
+      "github_path": "XBRL/20260812/8230_はせがわ_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8253",
+      "company": "クレセゾン",
+      "title": "2027年３月期 第１四半期決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517795",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517795.zip",
+      "github_path": "XBRL/20260812/8253_クレセゾン_2027年3月期 第1四半期決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8766",
+      "company": "東京海上",
+      "title": "2027年3月期 第1四半期決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517826",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517826.zip",
+      "github_path": "XBRL/20260812/8766_東京海上_2027年3月期 第1四半期決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8928",
+      "company": "穴吹興産",
+      "title": "2026年６月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260805509925",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260805509925.zip",
+      "github_path": "XBRL/20260812/8928_穴吹興産_2026年6月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9025",
+      "company": "鴻池運輸",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260803506208",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260803506208.zip",
+      "github_path": "XBRL/20260812/9025_鴻池運輸_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9035",
+      "company": "第一交通",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260708589497",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260708589497.zip",
+      "github_path": "XBRL/20260812/9035_第一交通_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9214",
+      "company": "Ｇ－リカバリー",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260810516414",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516414.zip",
+      "github_path": "XBRL/20260812/9214_G－リカバリー_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9221",
+      "company": "フルハシＥＰＯ",
+      "title": "2027年３月期第１四半期決算短信［日本基準］(連結)",
+      "time": "15:30",
+      "file_id": "081220260810516338",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516338.zip",
+      "github_path": "XBRL/20260812/9221_フルハシEPO_2027年3月期第1四半期決算短信［日本基準］(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9247",
+      "company": "ＴＲＥＨＤ",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812517972",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517972.zip",
+      "github_path": "XBRL/20260812/9247_TREHD_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9466",
+      "company": "アイドマＭＣ",
+      "title": "2027年３月期 第１四半期決算短信[日本基準]（連結）",
+      "time": "15:30",
+      "file_id": "081220260803507031",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260803507031.zip",
+      "github_path": "XBRL/20260812/9466_アイドマMC_2027年3月期 第1四半期決算短信[日本基準]（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9850",
+      "company": "グルメ杵屋",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260812518312",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518312.zip",
+      "github_path": "XBRL/20260812/9850_グルメ杵屋_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9856",
+      "company": "ケーユーＨＤ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260807515823",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807515823.zip",
+      "github_path": "XBRL/20260812/9856_ケーユーHD_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9900",
+      "company": "サガミＨＤ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260805510450",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260805510450.zip",
+      "github_path": "XBRL/20260812/9900_サガミHD_2027年3月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "331A",
+      "company": "メディックス",
+      "title": "2027年3月期第1四半期決算短信〔日本基準〕(連結)",
+      "time": "15:29",
+      "file_id": "081220260807514183",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807514183.zip",
+      "github_path": "XBRL/20260812/331A_メディックス_2027年3月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8160",
+      "company": "木曽路",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:20",
+      "file_id": "081220260811517446",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260811517446.zip",
+      "github_path": "XBRL/20260812/8160_木曽路_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1379",
+      "company": "ホクト",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:00",
+      "file_id": "081220260810517193",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517193.zip",
+      "github_path": "XBRL/20260812/1379_ホクト_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "142A",
+      "company": "Ｇ－ジンジブ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+      "time": "15:00",
+      "file_id": "081220260812518093",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518093.zip",
+      "github_path": "XBRL/20260812/142A_G－ジンジブ_2027年3月期 第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1914",
+      "company": "日基礎",
+      "title": "令和９年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:00",
+      "file_id": "081220260812518163",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812518163.zip",
+      "github_path": "XBRL/20260812/1914_日基礎_令和9年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2588",
+      "company": "プレミアムウォーター",
+      "title": "2027年３月期第１四半期決算短信〔ＩＦＲＳ〕(連結)",
+      "time": "15:00",
+      "file_id": "081220260810517403",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517403.zip",
+      "github_path": "XBRL/20260812/2588_プレミアムウォーター_2027年3月期第1四半期決算短信〔IFRS〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3370",
+      "company": "フジタコーポ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:00",
+      "file_id": "081220260810516780",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516780.zip",
+      "github_path": "XBRL/20260812/3370_フジタコーポ_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3571",
+      "company": "ソトー",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "15:00",
+      "file_id": "081220260812517756",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517756.zip",
+      "github_path": "XBRL/20260812/3571_ソトー_2027年3月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4072",
+      "company": "電算システムＨＤ",
+      "title": "2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:00",
+      "file_id": "081220260810517347",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517347.zip",
+      "github_path": "XBRL/20260812/4072_電算システムHD_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4827",
+      "company": "Ｑ－ＢワンＨＤ",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:00",
+      "file_id": "081220260803507551",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260803507551.zip",
+      "github_path": "XBRL/20260812/4827_Q－BワンHD_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "548A",
+      "company": "システムエグゼ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:00",
+      "file_id": "081220260810516693",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516693.zip",
+      "github_path": "XBRL/20260812/548A_システムエグゼ_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5923",
+      "company": "高田機工",
+      "title": "2027年3月期第1四半期決算短信〔日本基準〕（非連結）",
+      "time": "15:00",
+      "file_id": "081220260730502683",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260730502683.zip",
+      "github_path": "XBRL/20260812/5923_高田機工_2027年3月期第1四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6194",
+      "company": "アトラエ",
+      "title": "2026年9月期 第3四半期決算短信〔日本基準〕（非連結）",
+      "time": "15:00",
+      "file_id": "081220260810516319",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516319.zip",
+      "github_path": "XBRL/20260812/6194_アトラエ_2026年9月期 第3四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6969",
+      "company": "松尾電機",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕(非連結)",
+      "time": "15:00",
+      "file_id": "081220260716595313",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260716595313.zip",
+      "github_path": "XBRL/20260812/6969_松尾電機_2027年3月期 第1四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7819",
+      "company": "粧美堂",
+      "title": "2026年9月期第3四半期決算短信〔日本基準〕(連結)",
+      "time": "15:00",
+      "file_id": "081220260810516290",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516290.zip",
+      "github_path": "XBRL/20260812/7819_粧美堂_2026年9月期第3四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8225",
+      "company": "タカチホ",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:00",
+      "file_id": "081220260810517176",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517176.zip",
+      "github_path": "XBRL/20260812/8225_タカチホ_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9036",
+      "company": "東部ネット",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "15:00",
+      "file_id": "081220260810517158",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517158.zip",
+      "github_path": "XBRL/20260812/9036_東部ネット_2027年3月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9633",
+      "company": "テアトル",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:00",
+      "file_id": "081220260810517322",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517322.zip",
+      "github_path": "XBRL/20260812/9633_テアトル_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6846",
+      "company": "中央製",
+      "title": "2027年３月期第１四半期決算短信[日本基準](非連結)",
+      "time": "14:40",
+      "file_id": "081220260810516054",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516054.zip",
+      "github_path": "XBRL/20260812/6846_中央製_2027年3月期第1四半期決算短信[日本基準](非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2489",
+      "company": "ＡＤＷＡＹＳ",
+      "title": "2026年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "14:30",
+      "file_id": "081220260810517342",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517342.zip",
+      "github_path": "XBRL/20260812/2489_ADWAYS_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2058",
+      "company": "ヒガシマル",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "14:00",
+      "file_id": "081220260812517791",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517791.zip",
+      "github_path": "XBRL/20260812/2058_ヒガシマル_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2325",
+      "company": "ＮＪＳ",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "14:00",
+      "file_id": "081220260810516925",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516925.zip",
+      "github_path": "XBRL/20260812/2325_NJS_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3068",
+      "company": "ＷＤＩ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "14:00",
+      "file_id": "081220260812517901",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517901.zip",
+      "github_path": "XBRL/20260812/3068_WDI_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3683",
+      "company": "サイバーリンクス",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "14:00",
+      "file_id": "081220260812517827",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517827.zip",
+      "github_path": "XBRL/20260812/3683_サイバーリンクス_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3723",
+      "company": "Ｇ－ファルコム",
+      "title": "2026年９月期 第３四半期決算短信〔日本基準〕（非連結）",
+      "time": "14:00",
+      "file_id": "081220260810517360",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517360.zip",
+      "github_path": "XBRL/20260812/3723_G－ファルコム_2026年9月期 第3四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4415",
+      "company": "Ｇ－ブロードエンター",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "14:00",
+      "file_id": "081220260812517642",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517642.zip",
+      "github_path": "XBRL/20260812/4415_G－ブロードエンター_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4415",
+      "company": "Ｇ－ブロードエンター",
+      "title": "連結決算開始に伴う連結業績予想及び個別業績予想の修正に関するお知らせ",
+      "time": "14:00",
+      "file_id": "091220260812517705",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260812517705.zip",
+      "github_path": "XBRL/20260812/4415_G－ブロードエンター_連結決算開始に伴う連結業績予想及び個別業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4544",
+      "company": "ＨＵグループＨＤ",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "14:00",
+      "file_id": "081220260806511252",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260806511252.zip",
+      "github_path": "XBRL/20260812/4544_HUグループHD_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7743",
+      "company": "シード",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "14:00",
+      "file_id": "081220260807514957",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807514957.zip",
+      "github_path": "XBRL/20260812/7743_シード_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9017",
+      "company": "新潟交通",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "14:00",
+      "file_id": "081220260810516160",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516160.zip",
+      "github_path": "XBRL/20260812/9017_新潟交通_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9347",
+      "company": "日本管財ＨＤ",
+      "title": "2027年3月期第1四半期決算短信〔日本基準〕（連結）（公認会計士等による期中レビューの完了）",
+      "time": "14:00",
+      "file_id": "081220260812517983",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517983.zip",
+      "github_path": "XBRL/20260812/9347_日本管財HD_2027年3月期第1四半期決算短信〔日本基準〕（連結）（公認会計士等による期中レビューの完了）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9380",
+      "company": "東海運",
+      "title": "2027年3月期第１四半期決算短信〔日本基準〕（連結）",
+      "time": "14:00",
+      "file_id": "081220260807515679",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807515679.zip",
+      "github_path": "XBRL/20260812/9380_東海運_2027年3月期第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9755",
+      "company": "応用地質",
+      "title": "2026年12月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "14:00",
+      "file_id": "081220260803506416",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260803506416.zip",
+      "github_path": "XBRL/20260812/9755_応用地質_2026年12月期第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9033",
+      "company": "広電鉄",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "13:30",
+      "file_id": "081220260810517374",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517374.zip",
+      "github_path": "XBRL/20260812/9033_広電鉄_2027年3月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4074",
+      "company": "Ｇ－ラキール",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "13:00",
+      "file_id": "081220260810517409",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517409.zip",
+      "github_path": "XBRL/20260812/4074_G－ラキール_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4396",
+      "company": "システムサポートＨＤ",
+      "title": "2026年６月期 決算短信〔日本基準〕（連結）",
+      "time": "13:00",
+      "file_id": "081220260807515876",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807515876.zip",
+      "github_path": "XBRL/20260812/4396_システムサポートHD_2026年6月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7037",
+      "company": "テノ．",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "13:00",
+      "file_id": "081220260812517545",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517545.zip",
+      "github_path": "XBRL/20260812/7037_テノ．_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7376",
+      "company": "Ｇ－ＢＣＣ",
+      "title": "2026年９月期 第３四半期決算短信〔日本基準〕(連結)",
+      "time": "13:00",
+      "file_id": "081220260810516365",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516365.zip",
+      "github_path": "XBRL/20260812/7376_G－BCC_2026年9月期 第3四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3058",
+      "company": "三洋堂ＨＤ",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "12:30",
+      "file_id": "081220260811517505",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260811517505.zip",
+      "github_path": "XBRL/20260812/3058_三洋堂HD_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3787",
+      "company": "テクノマセマ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（非連結）",
+      "time": "12:00",
+      "file_id": "081220260804507803",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260804507803.zip",
+      "github_path": "XBRL/20260812/3787_テクノマセマ_2027年3月期 第1四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4099",
+      "company": "四国化成ＨＤ",
+      "title": "2026年12月期 第２四半期決算短信［日本基準］（連結）",
+      "time": "12:00",
+      "file_id": "081220260812517643",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517643.zip",
+      "github_path": "XBRL/20260812/4099_四国化成HD_2026年12月期 第2四半期決算短信［日本基準］（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4172",
+      "company": "Ｈｉクラテス",
+      "title": "2026年９月期第３四半期決算短信〔日本基準〕(非連結)",
+      "time": "12:00",
+      "file_id": "081220260812517782",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517782.zip",
+      "github_path": "XBRL/20260812/4172_Hiクラテス_2026年9月期第3四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4595",
+      "company": "ミズホメディー",
+      "title": "2026年12月期 第２四半期決算短信〔日本基準〕(非連結)",
+      "time": "12:00",
+      "file_id": "081220260810516013",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516013.zip",
+      "github_path": "XBRL/20260812/4595_ミズホメディー_2026年12月期 第2四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4681",
+      "company": "リゾートトラ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "12:00",
+      "file_id": "081220260812517740",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517740.zip",
+      "github_path": "XBRL/20260812/4681_リゾートトラ_2027年3月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6059",
+      "company": "ウチヤマＨＤ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）",
+      "time": "12:00",
+      "file_id": "081220260812517628",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260812517628.zip",
+      "github_path": "XBRL/20260812/6059_ウチヤマHD_2027年3月期第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3040",
+      "company": "ソリトンシステムズ",
+      "title": "2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "11:30",
+      "file_id": "081220260810517136",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810517136.zip",
+      "github_path": "XBRL/20260812/3040_ソリトンシステムズ_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "547A",
+      "company": "ムニノバＨＤ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+      "time": "11:30",
+      "file_id": "081220260810516996",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516996.zip",
+      "github_path": "XBRL/20260812/547A_ムニノバHD_2027年3月期 第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7183",
+      "company": "あんしん保証",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕(非連結)",
+      "time": "11:30",
+      "file_id": "081220260807515758",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260807515758.zip",
+      "github_path": "XBRL/20260812/7183_あんしん保証_2027年3月期第1四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9780",
+      "company": "ハリマビステム",
+      "title": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "11:30",
+      "file_id": "081220260722597555",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260722597555.zip",
+      "github_path": "XBRL/20260812/9780_ハリマビステム_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1795",
+      "company": "マサル",
+      "title": "2026年9月期第3四半期決算短信〔日本基準〕（連結）",
+      "time": "11:00",
+      "file_id": "081220260611568323",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260611568323.zip",
+      "github_path": "XBRL/20260812/1795_マサル_2026年9月期第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3241",
+      "company": "ウィル",
+      "title": "2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "09:00",
+      "file_id": "081220260721596798",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260721596798.zip",
+      "github_path": "XBRL/20260812/3241_ウィル_2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3556",
+      "company": "Ｇ－リネットジャパン",
+      "title": "2026年9月期 第3四半期決算短信〔日本基準〕（連結）",
+      "time": "08:00",
+      "file_id": "081220260810516164",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260810516164.zip",
+      "github_path": "XBRL/20260812/3556_G－リネットジャパン_2026年9月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
