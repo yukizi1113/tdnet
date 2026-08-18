@@ -1,0 +1,67 @@
+{
+  "date": "20260817",
+  "folder": "20260817",
+  "root": "XBRL/20260817/",
+  "items": [
+    {
+      "ticker": "9439",
+      "company": "ＭＨグループ",
+      "title": "2026年6月期 決算短信〔日本基準〕（連結）",
+      "time": "16:20",
+      "file_id": "081220260814521471",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260814521471.zip",
+      "github_path": "XBRL/20260817/9439_MHグループ_2026年6月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6195",
+      "company": "Ｇ－ホープ",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260817521889",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260817521889.zip",
+      "github_path": "XBRL/20260817/6195_G－ホープ_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4651",
+      "company": "サニックスＨＤ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260817521541",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260817521541.zip",
+      "github_path": "XBRL/20260817/4651_サニックスHD_2027年3月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2927",
+      "company": "ＡＦＣ－ＨＤ",
+      "title": "2026年8月期 期末配当予想の増配に関するお知らせ",
+      "time": "14:54",
+      "file_id": "091220260817521844",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260817521844.zip",
+      "github_path": "XBRL/20260817/2927_AFC－HD_2026年8月期 期末配当予想の増配に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6061",
+      "company": "ユニバ園芸",
+      "title": "（訂正・数値データ訂正）「令和８年６月期 決算短信〔日本基準〕(連結)」の一部訂正に関するお知らせ",
+      "time": "14:30",
+      "file_id": "081220260817521608",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260817521608.zip",
+      "github_path": "XBRL/20260817/6061_ユニバ園芸_（訂正・数値データ訂正）「令和8年6月期 決算短信〔日本基準〕(連結)」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8798",
+      "company": "アドバンスクリエイト",
+      "title": "（訂正・数値データ訂正）「2025年9月期 第1四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "11:30",
+      "file_id": "081220260817521640",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260817521640.zip",
+      "github_path": "XBRL/20260817/8798_アドバンスクリエイト_（訂正・数値データ訂正）「2025年9月期 第1四半期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
