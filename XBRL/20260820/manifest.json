@@ -1,0 +1,67 @@
+{
+  "date": "20260820",
+  "folder": "20260820",
+  "root": "XBRL/20260820/",
+  "items": [
+    {
+      "ticker": "9219",
+      "company": "Ｇ－ギックス",
+      "title": "（訂正）「2026年６月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "17:30",
+      "file_id": "081220260820523759",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260820523759.zip",
+      "github_path": "XBRL/20260820/9219_G－ギックス_（訂正）「2026年6月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4011",
+      "company": "Ｇ－ヘッドウォーター",
+      "title": "（訂正・数値データ訂正）「2026年12月期第2四半期（中間期）決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+      "time": "16:15",
+      "file_id": "081220260820523867",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260820523867.zip",
+      "github_path": "XBRL/20260820/4011_G－ヘッドウォーター_（訂正・数値データ訂正）「2026年12月期第2四半期（中間期）決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7966",
+      "company": "リンテック",
+      "title": "2027年3月期第1四半期決算短信〔日本基準〕(連結)（公認会計士等による期中レビューの完了）",
+      "time": "16:00",
+      "file_id": "081220260819523359",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260819523359.zip",
+      "github_path": "XBRL/20260820/7966_リンテック_2027年3月期第1四半期決算短信〔日本基準〕(連結)（公認会計士等による期中レビューの完了）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6543",
+      "company": "日宣",
+      "title": "第２四半期（中間期）業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260820523499",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260820523499.zip",
+      "github_path": "XBRL/20260820/6543_日宣_第2四半期（中間期）業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7603",
+      "company": "ジーイエット",
+      "title": "2027年２月期第２四半期（累計）及び通期連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260820523738",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260820523738.zip",
+      "github_path": "XBRL/20260820/7603_ジーイエット_2027年2月期第2四半期（累計）及び通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8928",
+      "company": "穴吹興産",
+      "title": "（訂正・数値データ訂正）「2026年６月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260820523427",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260820523427.zip",
+      "github_path": "XBRL/20260820/8928_穴吹興産_（訂正・数値データ訂正）「2026年6月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
