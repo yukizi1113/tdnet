@@ -1,0 +1,107 @@
+{
+  "date": "20260825",
+  "folder": "20260825",
+  "root": "XBRL/20260825/",
+  "items": [
+    {
+      "ticker": "5726",
+      "company": "大阪チタ",
+      "title": "2027年３月期 第１四半期決算短信〔日本基準〕（非連結）（公認会計士等による期中レビューの完了）",
+      "time": "16:00",
+      "file_id": "081220260805509537",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260805509537.zip",
+      "github_path": "XBRL/20260825/5726_大阪チタ_2027年3月期 第1四半期決算短信〔日本基準〕（非連結）（公認会計士等による期中レビューの完了）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4422",
+      "company": "Ｇ－ＶＡＬＵＥＮＥＸ",
+      "title": "2026年７月期通期業績予想（連結・個別）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260824524878",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260824524878.zip",
+      "github_path": "XBRL/20260825/4422_G－VALUENEX_2026年7月期通期業績予想（連結・個別）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4424",
+      "company": "Ｇ－Ａｍａｚｉａ",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260825525515",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260825525515.zip",
+      "github_path": "XBRL/20260825/4424_G－Amazia_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5271",
+      "company": "トーヨーアサノ",
+      "title": "2027年2月期第2四半期（中間期）及び通期連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260824525195",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260824525195.zip",
+      "github_path": "XBRL/20260825/5271_トーヨーアサノ_2027年2月期第2四半期（中間期）及び通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7590",
+      "company": "タカショー",
+      "title": "2027年１月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260824525283",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260824525283.zip",
+      "github_path": "XBRL/20260825/7590_タカショー_2027年1月期 第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7983",
+      "company": "ミロク",
+      "title": "投資有価証券売却益(特別利益)の計上見込み及び2026年10月期通期連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260825525613",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260825525613.zip",
+      "github_path": "XBRL/20260825/7983_ミロク_投資有価証券売却益(特別利益)の計上見込み及び2026年10月期通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8766",
+      "company": "東京海上",
+      "title": "株式分割、株主優待制度の導入、株式分割に伴う定款の一部変更、配当予想の修正および自己株式取得に係る事項の変更に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260825525826",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260825525826.zip",
+      "github_path": "XBRL/20260825/8766_東京海上_株式分割、株主優待制度の導入、株式分割に伴う定款の一部変更、配当予想の修正および自己株式取得に係る事項の変更に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8388",
+      "company": "阿波銀",
+      "title": "「株式分割」、株式分割に伴う「定款の一部変更」、「株主優待制度の変更」および「配当予想の修正」に関するお知らせ",
+      "time": "14:00",
+      "file_id": "091220260818522456",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260818522456.zip",
+      "github_path": "XBRL/20260825/8388_阿波銀_「株式分割」、株式分割に伴う「定款の一部変更」、「株主優待制度の変更」および「配当予想の修正」に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9687",
+      "company": "ＫＳＫ",
+      "title": "株式分割、株式分割に伴う定款の一部変更及び配当予想の修正に関するお知らせ",
+      "time": "12:00",
+      "file_id": "091220260825525622",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260825525622.zip",
+      "github_path": "XBRL/20260825/9687_KSK_株式分割、株式分割に伴う定款の一部変更及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "549A",
+      "company": "ヒトトヒトＨＤ",
+      "title": "中間配当の実施及び実施に伴う配当予想の修正に関するお知らせ",
+      "time": "11:30",
+      "file_id": "091220260825525492",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260825525492.zip",
+      "github_path": "XBRL/20260825/549A_ヒトトヒトHD_中間配当の実施及び実施に伴う配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
