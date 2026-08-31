@@ -1,0 +1,77 @@
+{
+  "date": "20260824",
+  "folder": "20260824",
+  "root": "XBRL/20260824/",
+  "items": [
+    {
+      "ticker": "8572",
+      "company": "アコム",
+      "title": "（訂正・数値データ訂正） 「2027年３月期 第１四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "18:00",
+      "file_id": "081220260824525325",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260824525325.zip",
+      "github_path": "XBRL/20260824/8572_アコム_（訂正・数値データ訂正） 「2027年3月期 第1四半期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8572",
+      "company": "アコム",
+      "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "18:00",
+      "file_id": "081220260824525328",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260824525328.zip",
+      "github_path": "XBRL/20260824/8572_アコム_（訂正・数値データ訂正）「2026年3月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "245A",
+      "company": "Ｇ－ＩＮＧＳ",
+      "title": "配当方針の変更及び2026年８月期配当予想の修正（初配）に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260824524841",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260824524841.zip",
+      "github_path": "XBRL/20260824/245A_G－INGS_配当方針の変更及び2026年8月期配当予想の修正（初配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9706",
+      "company": "日空ビル",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）（公認会計士等による期中レビューの完了）",
+      "time": "16:00",
+      "file_id": "081220260821524594",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260821524594.zip",
+      "github_path": "XBRL/20260824/9706_日空ビル_2027年3月期第1四半期決算短信〔日本基準〕（連結）（公認会計士等による期中レビューの完了）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6635",
+      "company": "大日光",
+      "title": "（訂正・数値データ訂正）「2026年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260824524995",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260824524995.zip",
+      "github_path": "XBRL/20260824/6635_大日光_（訂正・数値データ訂正）「2026年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8343",
+      "company": "秋田銀",
+      "title": "株式分割、株式分割にともなう定款の一部変更および配当予想の修正ならびに株主優待制度の変更に関するお知らせ",
+      "time": "14:00",
+      "file_id": "091220260820523912",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260820523912.zip",
+      "github_path": "XBRL/20260824/8343_秋田銀_株式分割、株式分割にともなう定款の一部変更および配当予想の修正ならびに株主優待制度の変更に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9279",
+      "company": "ギフトＨＤ",
+      "title": "連結業績予想の修正に関するお知らせ",
+      "time": "10:00",
+      "file_id": "091220260821524680",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260821524680.zip",
+      "github_path": "XBRL/20260824/9279_ギフトHD_連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
