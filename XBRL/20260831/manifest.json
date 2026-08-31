@@ -1,0 +1,147 @@
+{
+  "date": "20260831",
+  "folder": "20260831",
+  "root": "XBRL/20260831/",
+  "items": [
+    {
+      "ticker": "4666",
+      "company": "パーク２４",
+      "title": "2026年10月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220260828528038",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260828528038.zip",
+      "github_path": "XBRL/20260831/4666_パーク24_2026年10月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8894",
+      "company": "ＲＥＶＯＬＵＴＩＯＮ",
+      "title": "2026年10月期通期連結業績予想の修正（未定）及び中期経営計画の取り下げに関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260828527818",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260828527818.zip",
+      "github_path": "XBRL/20260831/8894_REVOLUTION_2026年10月期通期連結業績予想の修正（未定）及び中期経営計画の取り下げに関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1718",
+      "company": "美樹工業",
+      "title": "株式分割及び定款の一部変更並びに配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260820523541",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260820523541.zip",
+      "github_path": "XBRL/20260831/1718_美樹工業_株式分割及び定款の一部変更並びに配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2266",
+      "company": "六甲バター",
+      "title": "配当方針の変更、配当予想の修正及び株主優待制度の変更に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260828527606",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260828527606.zip",
+      "github_path": "XBRL/20260831/2266_六甲バター_配当方針の変更、配当予想の修正及び株主優待制度の変更に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3031",
+      "company": "ラクーンＨＤ",
+      "title": "2027年４月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260831528654",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260831528654.zip",
+      "github_path": "XBRL/20260831/3031_ラクーンHD_2027年4月期第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4054",
+      "company": "Ｇ－日本情報Ｃ",
+      "title": "(訂正・数値データ訂正)「2026年６月期 決算短信〔日本基準〕（非連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260831528764",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260831528764.zip",
+      "github_path": "XBRL/20260831/4054_G－日本情報C_(訂正・数値データ訂正)「2026年6月期 決算短信〔日本基準〕（非連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4369",
+      "company": "トリケミカル",
+      "title": "2027年1月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260827527069",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260827527069.zip",
+      "github_path": "XBRL/20260831/4369_トリケミカル_2027年1月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "436A",
+      "company": "Ｇ－サイバーＳＯＬ",
+      "title": "2027年４月期 第１四半期決算短信〔ＩＦＲＳ〕(非連結)",
+      "time": "15:30",
+      "file_id": "081220260828527917",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260828527917.zip",
+      "github_path": "XBRL/20260831/436A_G－サイバーSOL_2027年4月期 第1四半期決算短信〔IFRS〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4840",
+      "company": "トライアイズ",
+      "title": "2026年12月期通期業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260831528751",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260831528751.zip",
+      "github_path": "XBRL/20260831/4840_トライアイズ_2026年12月期通期業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4840",
+      "company": "トライアイズ",
+      "title": "2026年12月期通期個別業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260831528807",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260831528807.zip",
+      "github_path": "XBRL/20260831/4840_トライアイズ_2026年12月期通期個別業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5805",
+      "company": "ＳＷＣＣ",
+      "title": "「株式分割」、株式分割に伴う「定款の一部変更」および「配当予想の修正」に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260831528292",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260831528292.zip",
+      "github_path": "XBRL/20260831/5805_SWCC_「株式分割」、株式分割に伴う「定款の一部変更」および「配当予想の修正」に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6508",
+      "company": "明電舎",
+      "title": "配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260831528464",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260831528464.zip",
+      "github_path": "XBRL/20260831/6508_明電舎_配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6522",
+      "company": "Ｇ－アスタリスク",
+      "title": "2026年８月期通期連結業績予想の修正及び特別損失（投資有価証券評価損）の計上に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260831528587",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260831528587.zip",
+      "github_path": "XBRL/20260831/6522_G－アスタリスク_2026年8月期通期連結業績予想の修正及び特別損失（投資有価証券評価損）の計上に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3329",
+      "company": "東和フード",
+      "title": "2027年4月期 第１四半期決算短信（非連結・日本基準）",
+      "time": "14:20",
+      "file_id": "081220260820523438",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260820523438.zip",
+      "github_path": "XBRL/20260831/3329_東和フード_2027年4月期 第1四半期決算短信（非連結・日本基準）__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
