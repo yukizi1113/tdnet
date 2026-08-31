@@ -4,10 +4,9 @@ TDnet(指定日) PDF/ZIP(XBRL) を GitHub へアップロード
 
 ✅ 取り違え防止: 「表題リンク由来のID(pdf_id)」のみを採用
 ✅ 英字入りticker対応: 268A0 -> 268A / 331A0 -> 331A 等
-✅ 除外: JPX上場銘柄リスト(data_j.xls)のD列で以下を取得対象外:
-       ETF・ETN / PRO Market / プライム（外国株式） /
-       スタンダード（外国株式） / グロース（外国株式） /
-       REIT・ベンチャーファンド・カントリーファンド・インフラファンド / 出資証券
+✅ 対象: JPX上場銘柄リスト(data_j.xls)のD列が以下の銘柄のみ:
+       プライム（内国株式） / スタンダード（内国株式） /
+       グロース（内国株式）
 ✅ 収納先: PDF -> tekigikaizi/yyyymmdd/ , ZIP(XBRL) -> XBRL/yyyymmdd/
 ✅ 1フォルダ1000件超過時に自動分轄: yyyymmdd_Part1 / yyyymmdd_Part2 …
 ✅ manifest.json をそれぞれ保存
@@ -74,15 +73,11 @@ JPX_LISTED_URL = (
     "tvdivq0000001vg2-att/data_j.xls"
 )
 
-# 市場・商品区分のうち取得対象から除外するカテゴリ
-JPX_EXCLUDE_TYPES: FrozenSet[str] = frozenset([
-    "ETF・ETN",
-    "PRO Market",
-    "プライム（外国株式）",
-    "スタンダード（外国株式）",
-    "グロース（外国株式）",
-    "REIT・ベンチャーファンド・カントリーファンド・インフラファンド",
-    "出資証券",
+# 市場・商品区分のうち取得対象とするカテゴリ
+JPX_TARGET_TYPES: FrozenSet[str] = frozenset([
+    "プライム（内国株式）",
+    "スタンダード（内国株式）",
+    "グロース（内国株式）",
 ])
 
 # ─────────────────────────────────────────────────
@@ -135,7 +130,7 @@ SESSION.headers.update({"User-Agent": UA})
 # ─────────────────────────────────────────────────
 
 def _normalize_jpx_ticker(v) -> Optional[str]:
-    """XLSのコード値（float 1301.0 / string '130A'）を4文字tickerに正規化。"""
+    """XLSのコード値（float 1301.0 / string '130A'）をtickerに正規化。"""
     if v is None:
         return None
     s = str(v).strip().upper()
@@ -147,61 +142,82 @@ def _normalize_jpx_ticker(v) -> Optional[str]:
         return s
     if re.fullmatch(r"\d{3}[A-Z0-9]", s):
         return s
+    if re.fullmatch(r"\d{5}", s):
+        return s
     if re.fullmatch(r"\d{4}[A-Z]", s):
         return s
     return None
 
 
-def build_excluded_tickers(
+def build_target_tickers(
     url: str = JPX_LISTED_URL,
-    exclude_types: FrozenSet[str] = JPX_EXCLUDE_TYPES,
+    target_types: FrozenSet[str] = JPX_TARGET_TYPES,
 ) -> FrozenSet[str]:
-    """JPX上場銘柄リスト(data_j.xls)をダウンロードし、除外対象ticker集合を返す。
+    """JPX上場銘柄リストから取得対象のticker集合を返す。
 
     - Column B (index 1): 証券コード
     - Column D (index 3): 市場・商品区分
     Row 0 はヘッダ行、Row 1 以降がデータ。
 
-    xlrd が未インストールの場合は空の frozenset を返して警告。
+    必要なファイルの取得・解析に失敗した場合は、対象外銘柄の混入を防ぐため処理を停止する。
     """
     try:
-        import xlrd  # noqa: F401
-    except ImportError:
-        print(
-            "[warn] JPX filter: xlrd not installed. "
-            "Run `pip install xlrd` to enable. Proceeding without filter.",
-            file=sys.stderr,
-        )
-        return frozenset()
+        import xlrd as _xlrd
+    except ImportError as e:
+        raise RuntimeError(
+            "JPX filter requires xlrd. Run `pip install xlrd` and retry."
+        ) from e
 
     try:
-        import xlrd as _xlrd
         r = SESSION.get(url, timeout=60)
         r.raise_for_status()
+        if not r.content.startswith(b"\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1"):
+            raise ValueError("downloaded data is not an Excel .xls file")
+
         wb = _xlrd.open_workbook(file_contents=r.content)
         ws = wb.sheet_by_index(0)
 
-        excluded: set = set()
+        headers = [str(v).strip() for v in ws.row_values(0)]
+        try:
+            code_col = headers.index("コード")
+            market_col = headers.index("市場・商品区分")
+        except ValueError as e:
+            raise ValueError(
+                "required headers 'コード' and '市場・商品区分' were not found"
+            ) from e
+
+        targets: set = set()
+        found_types: set = set()
         for i in range(1, ws.nrows):  # row 0 = header
-            raw_code = ws.cell_value(i, 1)   # Column B: 証券コード
-            raw_type = ws.cell_value(i, 3)   # Column D: 市場・商品区分
+            raw_code = ws.cell_value(i, code_col)
+            raw_type = ws.cell_value(i, market_col)
             mtype = str(raw_type).strip() if raw_type else ""
-            if mtype not in exclude_types:
+            if mtype not in target_types:
                 continue
+            found_types.add(mtype)
             t = _normalize_jpx_ticker(raw_code)
             if t:
-                excluded.add(t)
+                targets.add(t)
 
-        result = frozenset(excluded)
+        missing_types = target_types - found_types
+        if missing_types:
+            raise ValueError(
+                "target market types were not found: " + ", ".join(sorted(missing_types))
+            )
+        if not targets:
+            raise ValueError("no target tickers were found")
+
+        result = frozenset(targets)
         print(
             f"[JPX filter] {ws.nrows - 1} listings → "
-            f"{len(result)} tickers excluded"
+            f"{len(result)} domestic Prime/Standard/Growth tickers selected"
         )
         return result
 
     except Exception as e:
-        print(f"[warn] JPX filter: failed ({e}). Proceeding without filter.", file=sys.stderr)
-        return frozenset()
+        raise RuntimeError(
+            f"JPX filter failed ({e}). Stopping to prevent non-target uploads."
+        ) from e
 
 # ─────────────────────────────────────────────────
 # GitHub API
@@ -439,9 +455,11 @@ def parse_tdnet_code_to_ticker(code_cell_text: str) -> Optional[str]:
     tok = s.split()[0].strip("()（）[]【】")
 
     patterns = [
+        (r"^(\d{5})0$",           lambda m: m.group(1)),
         (r"^(\d{4})0$",           lambda m: m.group(1)),
         (r"^(\d{3})([A-Za-z])0$", lambda m: (m.group(1) + m.group(2)).upper()),
         (r"^(\d{4})([A-Za-z])0$", lambda m: (m.group(1) + m.group(2)).upper()),
+        (r"^(\d{5})$",            lambda m: m.group(1)),
         (r"^(\d{4})$",            lambda m: m.group(1)),
         (r"^(\d{3})([A-Za-z])$",  lambda m: (m.group(1) + m.group(2)).upper()),
         (r"^(\d{4})([A-Za-z])$",  lambda m: (m.group(1) + m.group(2)).upper()),
@@ -589,11 +607,11 @@ def _split_into_chunks(items: list, chunk_size: int) -> List[list]:
 # ─────────────────────────────────────────────────
 
 def run(date_yyyymmdd: str, debug_sample: int = 25) -> None:
-    # ── Step 1: GitHub書き込み確認 ──
-    preflight_write_check(GITHUB_OWNER, GITHUB_REPO, GITHUB_TOKEN)
+    # ── Step 1: JPX ticker フィルターを構築 ──
+    target_tickers = build_target_tickers()
 
-    # ── Step 2: JPX ticker フィルターを構築 ──
-    excluded_tickers = build_excluded_tickers()
+    # ── Step 2: GitHub書き込み確認 ──
+    preflight_write_check(GITHUB_OWNER, GITHUB_REPO, GITHUB_TOKEN)
 
     # ── Step 3: TDNet一覧ページを全ページ取得・パース ──
     all_rows: List[dict] = []
@@ -622,10 +640,9 @@ def run(date_yyyymmdd: str, debug_sample: int = 25) -> None:
     print(f"Rows parsed (before JPX filter): {len(rows)}")
 
     # ── Step 4: JPX フィルター適用 ──
-    if excluded_tickers:
-        before = len(rows)
-        rows = [r for r in rows if r["ticker"] not in excluded_tickers]
-        print(f"[JPX filter] {before} → {len(rows)} rows (excluded {before - len(rows)})")
+    before = len(rows)
+    rows = [r for r in rows if r["ticker"] in target_tickers]
+    print(f"[JPX filter] {before} → {len(rows)} rows (selected {len(rows)})")
 
     if debug_sample > 0:
         print(f"DEBUG sample rows (first {debug_sample}):")
@@ -795,17 +812,9 @@ if __name__ == "__main__":
                    help="対象日 yyyymmdd (default: %(default)s)")
     p.add_argument("--debug-sample", type=int, default=25,
                    help="デバッグ用先頭N件表示 (0で無効)")
-    p.add_argument("--no-jpx-filter", action="store_true",
-                   help="JPX tickerフィルターを無効化")
     p.add_argument("--part-size", type=int, default=PART_SIZE,
                    help=f"1フォルダの最大ファイル数 (default: {PART_SIZE})")
     args = p.parse_args()
-
-    if args.no_jpx_filter:
-        # フィルターを無効化: exclude_types を空にする
-        import builtins
-        _orig_build = build_excluded_tickers
-        build_excluded_tickers = lambda **kw: frozenset()  # noqa: E731
 
     PART_SIZE = args.part_size
     run(args.date, debug_sample=args.debug_sample)
