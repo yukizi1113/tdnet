@@ -1,0 +1,97 @@
+{
+  "date": "20260819",
+  "folder": "20260819",
+  "root": "XBRL/20260819/",
+  "items": [
+    {
+      "ticker": "3076",
+      "company": "あいＨＤ",
+      "title": "2026年6月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260805510310",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260805510310.zip",
+      "github_path": "XBRL/20260819/3076_あいHD_2026年6月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9361",
+      "company": "伏木運",
+      "title": "（訂正・数値データ訂正）「2026年６月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260817522074",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260817522074.zip",
+      "github_path": "XBRL/20260819/9361_伏木運_（訂正・数値データ訂正）「2026年6月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3856",
+      "company": "Ａｂａｌａｎｃｅ",
+      "title": "2026年３月期第３四半期決算短信〔日本基準〕(連結)",
+      "time": "12:30",
+      "file_id": "081220260819522969",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260819522969.zip",
+      "github_path": "XBRL/20260819/3856_Abalance_2026年3月期第3四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3856",
+      "company": "Ａｂａｌａｎｃｅ",
+      "title": "2026年３月期決算短信〔日本基準〕(連結)",
+      "time": "12:30",
+      "file_id": "081220260819522973",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260819522973.zip",
+      "github_path": "XBRL/20260819/3856_Abalance_2026年3月期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3856",
+      "company": "Ａｂａｌａｎｃｅ",
+      "title": "(訂正・数値データ訂正)「2025年６月期第１四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "11:20",
+      "file_id": "081220260819522804",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260819522804.zip",
+      "github_path": "XBRL/20260819/3856_Abalance_(訂正・数値データ訂正)「2025年6月期第1四半期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3856",
+      "company": "Ａｂａｌａｎｃｅ",
+      "title": "(訂正・数値データ訂正)「2025年３月期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "11:20",
+      "file_id": "081220260819522865",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260819522865.zip",
+      "github_path": "XBRL/20260819/3856_Abalance_(訂正・数値データ訂正)「2025年3月期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3856",
+      "company": "Ａｂａｌａｎｃｅ",
+      "title": "(訂正・数値データ訂正)「2026年３月期第１四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "11:20",
+      "file_id": "081220260819522868",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260819522868.zip",
+      "github_path": "XBRL/20260819/3856_Abalance_(訂正・数値データ訂正)「2026年3月期第1四半期決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3856",
+      "company": "Ａｂａｌａｎｃｅ",
+      "title": "(訂正・数値データ訂正)「2026年３月期第２四半期（中間期）決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "11:20",
+      "file_id": "081220260819522872",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260819522872.zip",
+      "github_path": "XBRL/20260819/3856_Abalance_(訂正・数値データ訂正)「2026年3月期第2四半期（中間期）決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4413",
+      "company": "ボードルア",
+      "title": "2027年２月期 期末配当予想の修正(無配)のお知らせ",
+      "time": "08:00",
+      "file_id": "091220260818522655",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260818522655.zip",
+      "github_path": "XBRL/20260819/4413_ボードルア_2027年2月期 期末配当予想の修正(無配)のお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
