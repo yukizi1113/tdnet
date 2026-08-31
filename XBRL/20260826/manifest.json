@@ -1,0 +1,37 @@
+{
+  "date": "20260826",
+  "folder": "20260826",
+  "root": "XBRL/20260826/",
+  "items": [
+    {
+      "ticker": "1401",
+      "company": "Ｇ－エムビーエス",
+      "title": "(訂正・数値データ訂正)「2026年５月期決算短信〔日本基準〕（非連結）」の一部訂正について",
+      "time": "16:00",
+      "file_id": "081220260825525985",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260825525985.zip",
+      "github_path": "XBRL/20260826/1401_G－エムビーエス_(訂正・数値データ訂正)「2026年5月期決算短信〔日本基準〕（非連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8628",
+      "company": "松井証",
+      "title": "2027年3月期中間配当（予定）について",
+      "time": "16:00",
+      "file_id": "091220260825526069",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260825526069.zip",
+      "github_path": "XBRL/20260826/8628_松井証_2027年3月期中間配当（予定）について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "277A",
+      "company": "グロービング",
+      "title": "2026年５月期 決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260824525019",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260824525019.zip",
+      "github_path": "XBRL/20260826/277A_グロービング_2026年5月期 決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
