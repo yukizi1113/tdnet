@@ -1,0 +1,67 @@
+{
+  "date": "20260818",
+  "folder": "20260818",
+  "root": "XBRL/20260818/",
+  "items": [
+    {
+      "ticker": "3174",
+      "company": "ハピネス＆Ｄ",
+      "title": "2026年８月期通期連結・個別業績予想の修正に関するお知らせ",
+      "time": "15:40",
+      "file_id": "091220260818522188",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260818522188.zip",
+      "github_path": "XBRL/20260818/3174_ハピネス＆D_2026年8月期通期連結・個別業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6327",
+      "company": "北川精機",
+      "title": "2026年６月期 決算短信〔日本基準〕（連結）",
+      "time": "15:35",
+      "file_id": "081220260806512049",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260806512049.zip",
+      "github_path": "XBRL/20260818/6327_北川精機_2026年6月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1999",
+      "company": "サイタＨＤ",
+      "title": "2026年6月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260803506761",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260803506761.zip",
+      "github_path": "XBRL/20260818/1999_サイタHD_2026年6月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1999",
+      "company": "サイタＨＤ",
+      "title": "通期連結業績予想値と実績値との差異に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260803506774",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260803506774.zip",
+      "github_path": "XBRL/20260818/1999_サイタHD_通期連結業績予想値と実績値との差異に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2735",
+      "company": "ワッツ",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260818522441",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260818522441.zip",
+      "github_path": "XBRL/20260818/2735_ワッツ_業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7532",
+      "company": "パンパシフィックＨＤ",
+      "title": "2026年6月期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260809515913",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260809515913.zip",
+      "github_path": "XBRL/20260818/7532_パンパシフィックHD_2026年6月期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
