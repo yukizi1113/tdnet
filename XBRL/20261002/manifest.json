@@ -1,0 +1,157 @@
+{
+  "date": "20261002",
+  "folder": "20261002",
+  "root": "XBRL/20261002/",
+  "items": [
+    {
+      "ticker": "6652",
+      "company": "ＩＤＥＣ",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "16:30",
+      "file_id": "091220261002545326",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261002545326.zip",
+      "github_path": "XBRL/20261002/6652_IDEC_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4475",
+      "company": "Ｇ－ＨＥＮＮＧＥ",
+      "title": "2026年9月期第3四半期決算短信〔日本基準〕(連結)(開示事項の変更及び公認会計士等による期中レビューの完了)",
+      "time": "16:00",
+      "file_id": "081220261002545289",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261002545289.zip",
+      "github_path": "XBRL/20261002/4475_G－HENNGE_2026年9月期第3四半期決算短信〔日本基準〕(連結)(開示事項の変更及び公認会計士等による期中レビューの完了)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5076",
+      "company": "インフロニアＨＤ",
+      "title": "2027年３月期第１四半期決算短信〔ＩＦＲＳ〕（連結）（公認会計士等による期中レビューの完了）",
+      "time": "16:00",
+      "file_id": "081220260903531293",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260903531293.zip",
+      "github_path": "XBRL/20261002/5076_インフロニアHD_2027年3月期第1四半期決算短信〔IFRS〕（連結）（公認会計士等による期中レビューの完了）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6279",
+      "company": "瑞光",
+      "title": "2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220261001544680",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261001544680.zip",
+      "github_path": "XBRL/20261002/6279_瑞光_2027年2月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9872",
+      "company": "北恵",
+      "title": "2026年11月期第３四半期決算短信〔日本基準〕（非連結）",
+      "time": "16:00",
+      "file_id": "081220261002545339",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261002545339.zip",
+      "github_path": "XBRL/20261002/9872_北恵_2026年11月期第3四半期決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3321",
+      "company": "ミタチ",
+      "title": "2027年５月期 第１四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220261002545223",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261002545223.zip",
+      "github_path": "XBRL/20261002/3321_ミタチ_2027年5月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4394",
+      "company": "Ｇ－エクスモーション",
+      "title": "2026年11月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260930543358",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260930543358.zip",
+      "github_path": "XBRL/20261002/4394_G－エクスモーション_2026年11月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6664",
+      "company": "オプトエレクト",
+      "title": "2026年11月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220261002545403",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261002545403.zip",
+      "github_path": "XBRL/20261002/6664_オプトエレクト_2026年11月期 第3四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7965",
+      "company": "象印マホービン",
+      "title": "2026年11月期 第３四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220260928540855",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260928540855.zip",
+      "github_path": "XBRL/20261002/7965_象印マホービン_2026年11月期 第3四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7975",
+      "company": "リヒトラブ",
+      "title": "2027年2月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220261002545010",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261002545010.zip",
+      "github_path": "XBRL/20261002/7975_リヒトラブ_2027年2月期第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8127",
+      "company": "ヤマトインター",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261001544911",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261001544911.zip",
+      "github_path": "XBRL/20261002/8127_ヤマトインター_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8931",
+      "company": "和田興産",
+      "title": "2027年２月期第２四半期（中間期）決算短信[日本基準](非連結)",
+      "time": "15:30",
+      "file_id": "081220261002545036",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261002545036.zip",
+      "github_path": "XBRL/20261002/8931_和田興産_2027年2月期第2四半期（中間期）決算短信[日本基準](非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7611",
+      "company": "ハイデ日高",
+      "title": "2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（非連結）",
+      "time": "15:00",
+      "file_id": "081220261002545200",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261002545200.zip",
+      "github_path": "XBRL/20261002/7611_ハイデ日高_2027年2月期 第2四半期（中間期）決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7611",
+      "company": "ハイデ日高",
+      "title": "剰余金の配当（中間配当）および期末配当予想の修正（増配）に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220261002545230",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261002545230.zip",
+      "github_path": "XBRL/20261002/7611_ハイデ日高_剰余金の配当（中間配当）および期末配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3035",
+      "company": "ＫＴＫ",
+      "title": "2026年8月期 決算短信〔日本基準〕(連結)",
+      "time": "14:00",
+      "file_id": "081220260923539086",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260923539086.zip",
+      "github_path": "XBRL/20261002/3035_KTK_2026年8月期 決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
