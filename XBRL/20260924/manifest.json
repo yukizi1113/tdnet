@@ -1,0 +1,177 @@
+{
+  "date": "20260924",
+  "folder": "20260924",
+  "root": "XBRL/20260924/",
+  "items": [
+    {
+      "ticker": "4548",
+      "company": "生化学",
+      "title": "2027年3月期通期連結業績予想の修正、通期個別業績予想の公表及び配当予想の修正に関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220260924539535",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260924539535.zip",
+      "github_path": "XBRL/20260924/4548_生化学_2027年3月期通期連結業績予想の修正、通期個別業績予想の公表及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "410A",
+      "company": "Ｇ－ＧＭＯコマース",
+      "title": "2026年12月期通期連結業績予想の修正に関するお知らせ",
+      "time": "16:01",
+      "file_id": "091220260918538307",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260918538307.zip",
+      "github_path": "XBRL/20260924/410A_G－GMOコマース_2026年12月期通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "410A",
+      "company": "Ｇ－ＧＭＯコマース",
+      "title": "2026年12月期配当予想の修正（増配）に関するお知らせ",
+      "time": "16:01",
+      "file_id": "091220260918538308",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260918538308.zip",
+      "github_path": "XBRL/20260924/410A_G－GMOコマース_2026年12月期配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2207",
+      "company": "ｍｅｉｔｏ",
+      "title": "株式分割、定款の一部変更、自己株式取得に係る事項の一部変更、配当予想の修正および株主優待制度に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260918538643",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260918538643.zip",
+      "github_path": "XBRL/20260924/2207_meito_株式分割、定款の一部変更、自己株式取得に係る事項の一部変更、配当予想の修正および株主優待制度に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5253",
+      "company": "Ｇ－カバー",
+      "title": "2027年３月期第２四半期（累計）業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220260924539536",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260924539536.zip",
+      "github_path": "XBRL/20260924/5253_G－カバー_2027年3月期第2四半期（累計）業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7619",
+      "company": "田中商事",
+      "title": "中間配当予想の修正（増配）に関するお知らせ",
+      "time": "15:40",
+      "file_id": "091220260924539594",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260924539594.zip",
+      "github_path": "XBRL/20260924/7619_田中商事_中間配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3160",
+      "company": "大光",
+      "title": "2027年5月期 第1四半期決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220260918538541",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260918538541.zip",
+      "github_path": "XBRL/20260924/3160_大光_2027年5月期 第1四半期決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3245",
+      "company": "ディア・ライフ",
+      "title": "2026年９月期通期連結業績目標の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260924539332",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260924539332.zip",
+      "github_path": "XBRL/20260924/3245_ディア・ライフ_2026年9月期通期連結業績目標の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4716",
+      "company": "日本オラクル",
+      "title": "2027年5月期第1四半期決算短信〔日本基準〕(非連結)",
+      "time": "15:30",
+      "file_id": "081220260916537545",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260916537545.zip",
+      "github_path": "XBRL/20260924/4716_日本オラクル_2027年5月期第1四半期決算短信〔日本基準〕(非連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5801",
+      "company": "古河電工",
+      "title": "投資有価証券の売却および特別利益の計上見込み並びに2027年3月期第２四半期（中間期）連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260924539360",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260924539360.zip",
+      "github_path": "XBRL/20260924/5801_古河電工_投資有価証券の売却および特別利益の計上見込み並びに2027年3月期第2四半期（中間期）連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6030",
+      "company": "Ｇ－アドベンチャー",
+      "title": "(訂正・数値データ訂正)「2026年６月期 決算短信〔IFRS〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220260922539052",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260922539052.zip",
+      "github_path": "XBRL/20260924/6030_G－アドベンチャー_(訂正・数値データ訂正)「2026年6月期 決算短信〔IFRS〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6200",
+      "company": "インソース",
+      "title": "2026 年９月期 通期連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220260924539220",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260924539220.zip",
+      "github_path": "XBRL/20260924/6200_インソース_2026 年9月期 通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9444",
+      "company": "トーシンＨＤ",
+      "title": "2026年5月8日期 決算短信〔日本基準〕（連結）",
+      "time": "14:00",
+      "file_id": "081220260916536983",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260916536983.zip",
+      "github_path": "XBRL/20260924/9444_トーシンHD_2026年5月8日期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4068",
+      "company": "Ｇ－ベイシス",
+      "title": "（訂正・数値データ訂正）「2026年６月期 決算短信[日本基準]（連結）」の一部訂正について",
+      "time": "13:45",
+      "file_id": "081220260924539407",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260924539407.zip",
+      "github_path": "XBRL/20260924/4068_G－ベイシス_（訂正・数値データ訂正）「2026年6月期 決算短信[日本基準]（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7812",
+      "company": "クレステック",
+      "title": "（訂正・数値データ訂正）「2026年６月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "12:00",
+      "file_id": "081220260918538738",
+      "source_url": "https://www.release.tdnet.info/inbs/081220260918538738.zip",
+      "github_path": "XBRL/20260924/7812_クレステック_（訂正・数値データ訂正）「2026年6月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8697",
+      "company": "ＪＰＸ",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "time": "12:00",
+      "file_id": "091220260918538971",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260918538971.zip",
+      "github_path": "XBRL/20260924/8697_JPX_業績予想及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8706",
+      "company": "極東証券",
+      "title": "2027年3月期の中間配当予定に関するお知らせ",
+      "time": "11:30",
+      "file_id": "091220260924539202",
+      "source_url": "https://www.release.tdnet.info/inbs/091220260924539202.zip",
+      "github_path": "XBRL/20260924/8706_極東証券_2027年3月期の中間配当予定に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
