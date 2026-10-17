@@ -1,0 +1,167 @@
+{
+  "date": "20261007",
+  "folder": "20261007",
+  "root": "XBRL/20261007/",
+  "items": [
+    {
+      "ticker": "4920",
+      "company": "日本色材",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220261002545190",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261002545190.zip",
+      "github_path": "XBRL/20261007/4920_日本色材_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "428A",
+      "company": "サイプレスＨＤ",
+      "title": "2026年８月期 決算短信〔ＩＦＲＳ〕（連結）",
+      "time": "16:00",
+      "file_id": "081220261007547344",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261007547344.zip",
+      "github_path": "XBRL/20261007/428A_サイプレスHD_2026年8月期 決算短信〔IFRS〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6407",
+      "company": "ＣＫＤ",
+      "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）（公認会計士等による期中レビューの完了）",
+      "time": "16:00",
+      "file_id": "081220261006546499",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261006546499.zip",
+      "github_path": "XBRL/20261007/6407_CKD_2027年3月期第1四半期決算短信〔日本基準〕（連結）（公認会計士等による期中レビューの完了）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "218A",
+      "company": "Ｇ－リベラウェア",
+      "title": "（訂正・数値データ訂正） 「2026 年７月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "time": "15:30",
+      "file_id": "081220261007547263",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261007547263.zip",
+      "github_path": "XBRL/20261007/218A_G－リベラウェア_（訂正・数値データ訂正） 「2026 年7月期 決算短信〔日本基準〕（連結）」の一部訂正について__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2341",
+      "company": "アルバイトタイ",
+      "title": "2027年２月期通期連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261006546809",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261006546809.zip",
+      "github_path": "XBRL/20261007/2341_アルバイトタイ_2027年2月期通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2670",
+      "company": "ＡＢＣマート",
+      "title": "2027年２月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220261006546823",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261006546823.zip",
+      "github_path": "XBRL/20261007/2670_ABCマート_2027年2月期第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2670",
+      "company": "ＡＢＣマート",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261006546783",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261006546783.zip",
+      "github_path": "XBRL/20261007/2670_ABCマート_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2918",
+      "company": "わらべや",
+      "title": "2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220261006546861",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261006546861.zip",
+      "github_path": "XBRL/20261007/2918_わらべや_2027年2月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3391",
+      "company": "ツルハＨＤ",
+      "title": "2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220261006546807",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261006546807.zip",
+      "github_path": "XBRL/20261007/3391_ツルハHD_2027年2月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3723",
+      "company": "Ｇ－ファルコム",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261007546971",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261007546971.zip",
+      "github_path": "XBRL/20261007/3723_G－ファルコム_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3723",
+      "company": "Ｇ－ファルコム",
+      "title": "配当予想の修正（増配及び「軌跡シリーズ1,000万本突破」記念配当）に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261006546950",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261006546950.zip",
+      "github_path": "XBRL/20261007/3723_G－ファルコム_配当予想の修正（増配及び「軌跡シリーズ1,000万本突破」記念配当）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5932",
+      "company": "三協立山",
+      "title": "2027年5月期 第1四半期決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220261006546363",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261006546363.zip",
+      "github_path": "XBRL/20261007/5932_三協立山_2027年5月期 第1四半期決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6093",
+      "company": "ミトラＧ",
+      "title": "2027年２月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "15:30",
+      "file_id": "081220261007547046",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261007547046.zip",
+      "github_path": "XBRL/20261007/6093_ミトラG_2027年2月期 第2四半期（中間期）決算短信〔日本基準〕(連結)__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6255",
+      "company": "Ｇ－ＮＰＣ",
+      "title": "2026年8月期 決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220261007547128",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261007547128.zip",
+      "github_path": "XBRL/20261007/6255_G－NPC_2026年8月期 決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8166",
+      "company": "タカキュー",
+      "title": "2027年2月期 第2四半期(中間期)決算短信〔日本基準〕（非連結）",
+      "time": "15:30",
+      "file_id": "081220261002545176",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261002545176.zip",
+      "github_path": "XBRL/20261007/8166_タカキュー_2027年2月期 第2四半期(中間期)決算短信〔日本基準〕（非連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9846",
+      "company": "天満屋ス",
+      "title": "2027年2月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220261006546368",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261006546368.zip",
+      "github_path": "XBRL/20261007/9846_天満屋ス_2027年2月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
