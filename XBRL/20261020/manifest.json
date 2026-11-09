@@ -1,0 +1,97 @@
+{
+  "date": "20261020",
+  "folder": "20261020",
+  "root": "XBRL/20261020/",
+  "items": [
+    {
+      "ticker": "7918",
+      "company": "ヴィアＨＤ",
+      "title": "2027年３月期第２四半期（中間期）及び通期連結業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220261020553281",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261020553281.zip",
+      "github_path": "XBRL/20261020/7918_ヴィアHD_2027年3月期第2四半期（中間期）及び通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5990",
+      "company": "スーパーツール",
+      "title": "2027年3月期第2四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:40",
+      "file_id": "081220261006546844",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261006546844.zip",
+      "github_path": "XBRL/20261020/5990_スーパーツール_2027年3月期第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4591",
+      "company": "Ｇ－リボミック",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261020553410",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261020553410.zip",
+      "github_path": "XBRL/20261020/4591_G－リボミック_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5933",
+      "company": "アルインコ",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220261020553439",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261020553439.zip",
+      "github_path": "XBRL/20261020/5933_アルインコ_2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7064",
+      "company": "ハウテレビジョン",
+      "title": "2027年1月期 連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261019553139",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261019553139.zip",
+      "github_path": "XBRL/20261020/7064_ハウテレビジョン_2027年1月期 連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7175",
+      "company": "今村証券",
+      "title": "2027年３月期 第２四半期（中間期）決算速報値に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261020553358",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261020553358.zip",
+      "github_path": "XBRL/20261020/7175_今村証券_2027年3月期 第2四半期（中間期）決算速報値に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8708",
+      "company": "アイザワ証Ｇ",
+      "title": "2027年３月期第２四半期（中間期）連結決算速報値に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261020553389",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261020553389.zip",
+      "github_path": "XBRL/20261020/8708_アイザワ証G_2027年3月期第2四半期（中間期）連結決算速報値に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6101",
+      "company": "ツガミ",
+      "title": "2027 年３月期 第２四半期(中間期)の連結業績予想および中間配当予想の修正に関するお知らせ",
+      "time": "13:00",
+      "file_id": "091220261019552815",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261019552815.zip",
+      "github_path": "XBRL/20261020/6101_ツガミ_2027 年3月期 第2四半期(中間期)の連結業績予想および中間配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8622",
+      "company": "水戸証",
+      "title": "2027年３月期第２四半期（中間期）決算速報値に関するお知らせ",
+      "time": "11:30",
+      "file_id": "091220261019553037",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261019553037.zip",
+      "github_path": "XBRL/20261020/8622_水戸証_2027年3月期第2四半期（中間期）決算速報値に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
