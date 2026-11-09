@@ -1,0 +1,117 @@
+{
+  "date": "20261019",
+  "folder": "20261019",
+  "root": "XBRL/20261019/",
+  "items": [
+    {
+      "ticker": "7050",
+      "company": "Ｇ－フロンティアＩ",
+      "title": "配当方針の一部変更（中間配当の実施）及び配当予想の修正に関するお知らせ",
+      "time": "17:00",
+      "file_id": "091220261019553090",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261019553090.zip",
+      "github_path": "XBRL/20261019/7050_G－フロンティアI_配当方針の一部変更（中間配当の実施）及び配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3788",
+      "company": "ＧＭＯＧＳＨＤ",
+      "title": "通期業績予想の修正（上方修正）および配当予想の修正（増配）に関するお知らせ",
+      "time": "16:05",
+      "file_id": "091220261019553071",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261019553071.zip",
+      "github_path": "XBRL/20261019/3788_GMOGSHD_通期業績予想の修正（上方修正）および配当予想の修正（増配）に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3635",
+      "company": "コーエーテクモ",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "16:00",
+      "file_id": "091220261019552780",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261019552780.zip",
+      "github_path": "XBRL/20261019/3635_コーエーテクモ_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6176",
+      "company": "ブランジスタ",
+      "title": "通期連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261019553042",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261019553042.zip",
+      "github_path": "XBRL/20261019/6176_ブランジスタ_通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6658",
+      "company": "シライ電子",
+      "title": "2027年３月期連結業績予想(上方)及び期末配当予想(増配)の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261016552356",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261016552356.zip",
+      "github_path": "XBRL/20261019/6658_シライ電子_2027年3月期連結業績予想(上方)及び期末配当予想(増配)の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7417",
+      "company": "南陽",
+      "title": "2027年３月期第２四半期（中間期）業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261014550302",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261014550302.zip",
+      "github_path": "XBRL/20261019/7417_南陽_2027年3月期第2四半期（中間期）業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9478",
+      "company": "ＳＥ Ｈ＆Ｉ",
+      "title": "連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261014550394",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261014550394.zip",
+      "github_path": "XBRL/20261019/9478_SE H＆I_連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9353",
+      "company": "桜島埠頭",
+      "title": "2027年3月期第2四半期（中間期）連結業績予想の修正に関するお知らせ",
+      "time": "15:00",
+      "file_id": "091220261019552927",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261019552927.zip",
+      "github_path": "XBRL/20261019/9353_桜島埠頭_2027年3月期第2四半期（中間期）連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4623",
+      "company": "アサヒペン",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "13:00",
+      "file_id": "091220261019552875",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261019552875.zip",
+      "github_path": "XBRL/20261019/4623_アサヒペン_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8624",
+      "company": "いちよし",
+      "title": "2027年３月期第２四半期（中間期） 連結決算速報値に関するお知らせ",
+      "time": "12:00",
+      "file_id": "091220261016552233",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261016552233.zip",
+      "github_path": "XBRL/20261019/8624_いちよし_2027年3月期第2四半期（中間期） 連結決算速報値に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8624",
+      "company": "いちよし",
+      "title": "２０２７年３月期の中間普通配当予定の増配に関するお知らせ",
+      "time": "12:00",
+      "file_id": "091220261019552787",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261019552787.zip",
+      "github_path": "XBRL/20261019/8624_いちよし_2027年3月期の中間普通配当予定の増配に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
