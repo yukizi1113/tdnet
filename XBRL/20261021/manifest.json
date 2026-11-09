@@ -1,0 +1,87 @@
+{
+  "date": "20261021",
+  "folder": "20261021",
+  "root": "XBRL/20261021/",
+  "items": [
+    {
+      "ticker": "5576",
+      "company": "オービーシステム",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "16:00",
+      "file_id": "081220261020553504",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261020553504.zip",
+      "github_path": "XBRL/20261021/5576_オービーシステム_2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "166A",
+      "company": "タスキＨＤ",
+      "title": "業績予想の（上方）修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261021553984",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261021553984.zip",
+      "github_path": "XBRL/20261021/166A_タスキHD_業績予想の（上方）修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4929",
+      "company": "アジュバンＨＤ",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "15:30",
+      "file_id": "081220261021553814",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261021553814.zip",
+      "github_path": "XBRL/20261021/4929_アジュバンHD_2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6196",
+      "company": "ストライクＧ",
+      "title": "2026年９月期通期連結業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261021553834",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261021553834.zip",
+      "github_path": "XBRL/20261021/6196_ストライクG_2026年9月期通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6492",
+      "company": "岡野バル",
+      "title": "業績予想および配当予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261021553920",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261021553920.zip",
+      "github_path": "XBRL/20261021/6492_岡野バル_業績予想および配当予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7896",
+      "company": "セブン工",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "15:30",
+      "file_id": "091220261020553644",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261020553644.zip",
+      "github_path": "XBRL/20261021/7896_セブン工_業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8051",
+      "company": "山善",
+      "title": "2027年３月期第２四半期（中間期）及び通期連結業績予想の修正に関するお知らせ",
+      "time": "14:00",
+      "file_id": "091220261008547903",
+      "source_url": "https://www.release.tdnet.info/inbs/091220261008547903.zip",
+      "github_path": "XBRL/20261021/8051_山善_2027年3月期第2四半期（中間期）及び通期連結業績予想の修正に関するお知らせ__XBRL.zip",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "296A",
+      "company": "Ｇ－令和ＡＨ",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "11:30",
+      "file_id": "081220261020553509",
+      "source_url": "https://www.release.tdnet.info/inbs/081220261020553509.zip",
+      "github_path": "XBRL/20261021/296A_G－令和AH_2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）__XBRL.zip",
+      "status": "uploaded"
+    }
+  ]
+}
