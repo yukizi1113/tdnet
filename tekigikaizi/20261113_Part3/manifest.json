@@ -1,0 +1,807 @@
+{
+  "date": "20261113",
+  "folder": "20261113_Part3",
+  "root": "tekigikaizi/20261113_Part3/",
+  "items": [
+    {
+      "ticker": "1860",
+      "company": "戸田建",
+      "title": "2027年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "11:30",
+      "file_id": "140120261111574216",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261111574216.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/1860_戸田建_2027年3月期第2四半期（中間期）決算短信〔日本基準〕(連結).pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1860",
+      "company": "戸田建",
+      "title": "自己株式取得に係る事項の決定に関するお知らせ(会社法165条第2項の規定による定款の定めに基づく自己株式の取得)",
+      "time": "11:30",
+      "file_id": "140120261111574251",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261111574251.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/1860_戸田建_自己株式取得に係る事項の決定に関するお知らせ(会社法165条第2項の規定による定款の定めに基づく自己株式の取得).pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1969",
+      "company": "高砂熱",
+      "title": "業績予想の修正に関するお知らせ",
+      "time": "11:30",
+      "file_id": "140120261111574002",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261111574002.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/1969_高砂熱_業績予想の修正に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1969",
+      "company": "高砂熱",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "11:30",
+      "file_id": "140120261112576087",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576087.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/1969_高砂熱_2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "1969",
+      "company": "高砂熱",
+      "title": "2026年度 第２四半期決算説明資料",
+      "time": "11:30",
+      "file_id": "140120261112577469",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112577469.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/1969_高砂熱_2026年度 第2四半期決算説明資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2502",
+      "company": "アサヒ",
+      "title": "2026年12月期 第３四半期決算短信〔ＩＦＲＳ〕（連結)",
+      "time": "11:30",
+      "file_id": "140120261112575238",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112575238.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/2502_アサヒ_2026年12月期 第3四半期決算短信〔IFRS〕（連結).pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2502",
+      "company": "アサヒ",
+      "title": "2026年12月期 第３四半期決算補足資料",
+      "time": "11:30",
+      "file_id": "140120261112575290",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112575290.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/2502_アサヒ_2026年12月期 第3四半期決算補足資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "2981",
+      "company": "Ｇ－ランディックス",
+      "title": "（訂正）「2027年３月期第２四半期決算説明資料」の一部訂正に関するお知らせ",
+      "time": "11:30",
+      "file_id": "140120261113578195",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261113578195.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/2981_G－ランディックス_（訂正）「2027年3月期第2四半期決算説明資料」の一部訂正に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3927",
+      "company": "フーバーブレイン",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "11:30",
+      "file_id": "140120261112576930",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576930.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/3927_フーバーブレイン_2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3927",
+      "company": "フーバーブレイン",
+      "title": "2027年３月期 第２四半期（中間期）決算説明資料",
+      "time": "11:30",
+      "file_id": "140120261112576946",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576946.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/3927_フーバーブレイン_2027年3月期 第2四半期（中間期）決算説明資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3927",
+      "company": "フーバーブレイン",
+      "title": "剰余金の配当（中間配当）に関するお知らせ",
+      "time": "11:30",
+      "file_id": "140120261112576964",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576964.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/3927_フーバーブレイン_剰余金の配当（中間配当）に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4058",
+      "company": "Ｇ－トヨクモ",
+      "title": "2026年12月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "11:30",
+      "file_id": "140120261112575697",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112575697.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/4058_G－トヨクモ_2026年12月期 第3四半期決算短信〔日本基準〕（連結）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4058",
+      "company": "Ｇ－トヨクモ",
+      "title": "2026年12月期 第３四半期 決算説明資料",
+      "time": "11:30",
+      "file_id": "140120261112575710",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112575710.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/4058_G－トヨクモ_2026年12月期 第3四半期 決算説明資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4058",
+      "company": "Ｇ－トヨクモ",
+      "title": "2026年10月度 月次売上速報に関するお知らせ",
+      "time": "11:30",
+      "file_id": "140120261112575717",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112575717.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/4058_G－トヨクモ_2026年10月度 月次売上速報に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4372",
+      "company": "Ｇ－ユミルリンク",
+      "title": "2026年12月期 第３四半期決算短信〔日本基準〕（連結）",
+      "time": "11:30",
+      "file_id": "140120261014550447",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261014550447.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/4372_G－ユミルリンク_2026年12月期 第3四半期決算短信〔日本基準〕（連結）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4372",
+      "company": "Ｇ－ユミルリンク",
+      "title": "2026年12月期第3四半期決算説明資料",
+      "time": "11:30",
+      "file_id": "140120261113577893",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261113577893.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/4372_G－ユミルリンク_2026年12月期第3四半期決算説明資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5125",
+      "company": "Ｇ－ファインズ",
+      "title": "2027年６月期 第１四半期 決算短信〔日本基準〕（連結）",
+      "time": "11:30",
+      "file_id": "140120261112577275",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112577275.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/5125_G－ファインズ_2027年6月期 第1四半期 決算短信〔日本基準〕（連結）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5125",
+      "company": "Ｇ－ファインズ",
+      "title": "2027年６月期 第１四半期 決算説明資料",
+      "time": "11:30",
+      "file_id": "140120261112577289",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112577289.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/5125_G－ファインズ_2027年6月期 第1四半期 決算説明資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6484",
+      "company": "ＫＶＫ",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "11:30",
+      "file_id": "140120261113577739",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261113577739.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/6484_KVK_2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6484",
+      "company": "ＫＶＫ",
+      "title": "2027年３月期 第２四半期（中間期）連結業績予想と実績との差異に関するお知らせ",
+      "time": "11:30",
+      "file_id": "140120261113577770",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261113577770.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/6484_KVK_2027年3月期 第2四半期（中間期）連結業績予想と実績との差異に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6484",
+      "company": "ＫＶＫ",
+      "title": "2027年３月期 第２四半期（中間期）決算説明資料",
+      "time": "11:30",
+      "file_id": "140120261113577784",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261113577784.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/6484_KVK_2027年3月期 第2四半期（中間期）決算説明資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6563",
+      "company": "Ｇ－みらいワークス",
+      "title": "2026年９月期 決算短信〔日本基準〕(連結)",
+      "time": "11:30",
+      "file_id": "140120261112575636",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112575636.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/6563_G－みらいワークス_2026年9月期 決算短信〔日本基準〕(連結).pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6563",
+      "company": "Ｇ－みらいワークス",
+      "title": "2026年９月期 決算説明資料・事業計画および成長可能性に関する事項",
+      "time": "11:30",
+      "file_id": "140120261112575853",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112575853.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/6563_G－みらいワークス_2026年9月期 決算説明資料・事業計画および成長可能性に関する事項.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7326",
+      "company": "Ｇ－ＳＢＩインシュ",
+      "title": "臨時株主総会招集のための基準日設定に関するお知らせ",
+      "time": "11:30",
+      "file_id": "140120261112576745",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576745.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/7326_G－SBIインシュ_臨時株主総会招集のための基準日設定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7371",
+      "company": "Ｇ－Ｚｅｎｋｅｎ",
+      "title": "2027年６月期第１四半期決算短信〔日本基準〕(連結)",
+      "time": "11:30",
+      "file_id": "140120261111572842",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261111572842.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/7371_G－Zenken_2027年6月期第1四半期決算短信〔日本基準〕(連結).pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7371",
+      "company": "Ｇ－Ｚｅｎｋｅｎ",
+      "title": "2027年６月期第１四半期決算説明資料",
+      "time": "11:30",
+      "file_id": "140120261111572844",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261111572844.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/7371_G－Zenken_2027年6月期第1四半期決算説明資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7409",
+      "company": "Ｇ－ＡｅｒｏＥｄｇｅ",
+      "title": "2027年6月期 第1四半期決算短信〔日本基準〕(連結)",
+      "time": "11:30",
+      "file_id": "140120261112577252",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112577252.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/7409_G－AeroEdge_2027年6月期 第1四半期決算短信〔日本基準〕(連結).pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7409",
+      "company": "Ｇ－ＡｅｒｏＥｄｇｅ",
+      "title": "2027年6月期 第1四半期 決算補足資料",
+      "time": "11:30",
+      "file_id": "140120261112577308",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112577308.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/7409_G－AeroEdge_2027年6月期 第1四半期 決算補足資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7874",
+      "company": "レック",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "time": "11:30",
+      "file_id": "140120261112576797",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576797.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/7874_レック_自己株式の取得状況に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9423",
+      "company": "フォーバルＲＳ",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "11:30",
+      "file_id": "140120261113577656",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261113577656.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/9423_フォーバルRS_2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9767",
+      "company": "日建工学",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "11:30",
+      "file_id": "140120261112576910",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576910.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/9767_日建工学_2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5237",
+      "company": "ノザワ",
+      "title": "自己株式取得に係る事項の決定に関するお知らせ",
+      "time": "11:00",
+      "file_id": "140120261109569533",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261109569533.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/5237_ノザワ_自己株式取得に係る事項の決定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5237",
+      "company": "ノザワ",
+      "title": "2027年3月期 第2四半期(中間期) 決算補足説明資料",
+      "time": "11:00",
+      "file_id": "140120261109569522",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261109569522.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/5237_ノザワ_2027年3月期 第2四半期(中間期) 決算補足説明資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5237",
+      "company": "ノザワ",
+      "title": "2027年３月期 第２四半期(中間期)決算短信〔日本基準〕(連結)",
+      "time": "11:00",
+      "file_id": "140120261106566908",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261106566908.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/5237_ノザワ_2027年3月期 第2四半期(中間期)決算短信〔日本基準〕(連結).pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5237",
+      "company": "ノザワ",
+      "title": "2027年３月期第２四半期（中間期）連結業績予想値と実績値の差異及び通期連結業績予想の修正に関するお知らせ",
+      "time": "11:00",
+      "file_id": "140120261109569510",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261109569510.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/5237_ノザワ_2027年3月期第2四半期（中間期）連結業績予想値と実績値の差異及び通期連結業績予想の修正に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5986",
+      "company": "モリテック",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び取得終了並びに自己株式の消却、主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+      "time": "11:00",
+      "file_id": "140120261111572487",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261111572487.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/5986_モリテック_自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び取得終了並びに自己株式の消却、主要株主及び主要株主である筆頭株主の異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6699",
+      "company": "ダイヤＨＤ",
+      "title": "2027年３月期第２四半期(中間期)決算短信〔日本基準〕(連結)",
+      "time": "11:00",
+      "file_id": "140120261111574517",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261111574517.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/6699_ダイヤHD_2027年3月期第2四半期(中間期)決算短信〔日本基準〕(連結).pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6699",
+      "company": "ダイヤＨＤ",
+      "title": "2027年３月期第２四半期（中間期）決算説明資料",
+      "time": "11:00",
+      "file_id": "140120261111574555",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261111574555.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/6699_ダイヤHD_2027年3月期第2四半期（中間期）決算説明資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6699",
+      "company": "ダイヤＨＤ",
+      "title": "営業外費用の計上及び2027年３月期第２四半期連結累計期間の業績予想と実績値との差異に関するお知らせ",
+      "time": "11:00",
+      "file_id": "140120261111574578",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261111574578.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/6699_ダイヤHD_営業外費用の計上及び2027年3月期第2四半期連結累計期間の業績予想と実績値との差異に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6699",
+      "company": "ダイヤＨＤ",
+      "title": "剰余金の配当（中間配当無配）・期末配当予想の修正に関するお知らせ",
+      "time": "11:00",
+      "file_id": "140120261111574583",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261111574583.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/6699_ダイヤHD_剰余金の配当（中間配当無配）・期末配当予想の修正に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7296",
+      "company": "ＦＣＣ",
+      "title": "2027年３月期第２四半期決算説明会資料",
+      "time": "11:00",
+      "file_id": "140120261112576272",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576272.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/7296_FCC_2027年3月期第2四半期決算説明会資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8089",
+      "company": "ナイス",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "time": "11:00",
+      "file_id": "140120261112576932",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576932.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/8089_ナイス_2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8089",
+      "company": "ナイス",
+      "title": "2027年３月期 第２四半期（中間期）決算補足説明資料",
+      "time": "11:00",
+      "file_id": "140120261112576995",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576995.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/8089_ナイス_2027年3月期 第2四半期（中間期）決算補足説明資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8089",
+      "company": "ナイス",
+      "title": "剰余金の配当（中間配当）に関するお知らせ",
+      "time": "11:00",
+      "file_id": "140120261112577001",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112577001.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/8089_ナイス_剰余金の配当（中間配当）に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6101",
+      "company": "ツガミ",
+      "title": "連結子会社からの配当金受領に関するお知らせ",
+      "time": "10:35",
+      "file_id": "140120261113578265",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261113578265.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/6101_ツガミ_連結子会社からの配当金受領に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3930",
+      "company": "Ｇ－はてな",
+      "title": "人事異動に関するお知らせ",
+      "time": "10:30",
+      "file_id": "140120261112577496",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112577496.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/3930_G－はてな_人事異動に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3955",
+      "company": "イムラ",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び取得終了に関するお知らせ",
+      "time": "10:30",
+      "file_id": "140120261113577881",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261113577881.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/3955_イムラ_自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6748",
+      "company": "星和電機",
+      "title": "自己株式立会外買付取引（ ＴｏＳＴＮｅＴ－３）による自己株式の取得結果及び取得終了に関するお知らせ",
+      "time": "10:30",
+      "file_id": "140120261112576669",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576669.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/6748_星和電機_自己株式立会外買付取引（ ToSTNeT－3）による自己株式の取得結果及び取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7791",
+      "company": "ドリームベッド",
+      "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による自己株式の取得結果及び自己株式の取得終了に関するお知らせ",
+      "time": "10:30",
+      "file_id": "140120261112576814",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576814.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/7791_ドリームベッド_自己株式立会外買付取引（ToSTNeT－3）による自己株式の取得結果及び自己株式の取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7791",
+      "company": "ドリームベッド",
+      "title": "2027年3月期第2四半期決算説明資料",
+      "time": "10:30",
+      "file_id": "140120261112576865",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576865.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/7791_ドリームベッド_2027年3月期第2四半期決算説明資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6294",
+      "company": "オカダアイヨン",
+      "title": "自己株式立会外買付取引（ToSTNeT-3)による自己株式の取得結果及び取得終了に関するお知らせ",
+      "time": "10:15",
+      "file_id": "140120261113577958",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261113577958.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/6294_オカダアイヨン_自己株式立会外買付取引（ToSTNeT-3)による自己株式の取得結果及び取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3068",
+      "company": "ＷＤＩ",
+      "title": "自己株式立会外買付取引（ToSTNeT-３）による自己株式の取得結果及び取得終了に関するお知らせ",
+      "time": "10:10",
+      "file_id": "140120261112576839",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576839.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/3068_WDI_自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3798",
+      "company": "ＵＬＳグループ",
+      "title": "2027年3月期第2四半期（中間期）決算説明会資料",
+      "time": "10:00",
+      "file_id": "140120261106567616",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261106567616.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/3798_ULSグループ_2027年3月期第2四半期（中間期）決算説明会資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4318",
+      "company": "クイック",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果および自己株式の取得終了に関するお知らせ",
+      "time": "10:00",
+      "file_id": "140120261112577276",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112577276.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/4318_クイック_自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果および自己株式の取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6258",
+      "company": "平田機工",
+      "title": "【訂正】「2027年3月期 第1四半期決算短信 -日本基準-（連結）」の 一部訂正について",
+      "time": "10:00",
+      "file_id": "140120261109569851",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261109569851.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/6258_平田機工_【訂正】「2027年3月期 第1四半期決算短信 -日本基準-（連結）」の 一部訂正について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6905",
+      "company": "コーセル",
+      "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による自己株式の取得結果及び取得終了に関するお知らせ",
+      "time": "10:00",
+      "file_id": "140120261112576878",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576878.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/6905_コーセル_自己株式立会外買付取引（ToSTNeT－3）による自己株式の取得結果及び取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "8066",
+      "company": "三谷商",
+      "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による自己株式の取得結果および取得終了に関するお知らせ",
+      "time": "09:45",
+      "file_id": "140120261113577741",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261113577741.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/8066_三谷商_自己株式立会外買付取引（ToSTNeT－3）による自己株式の取得結果および取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "6145",
+      "company": "ＮＩＴＴＯＫＵ",
+      "title": "大型受注に関するお知らせ（開示事項の経過）",
+      "time": "09:30",
+      "file_id": "140120261112576682",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576682.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/6145_NITTOKU_大型受注に関するお知らせ（開示事項の経過）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9274",
+      "company": "ＫＰＰグループＨＤ",
+      "title": "剰余金の配当（中間配当）に関するお知らせ",
+      "time": "09:20",
+      "file_id": "140120261113577823",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261113577823.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/9274_KPPグループHD_剰余金の配当（中間配当）に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7309",
+      "company": "シマノ",
+      "title": "自己株式の取得結果及び取得終了に関するお知らせ",
+      "time": "09:00",
+      "file_id": "140120261112577500",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112577500.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/7309_シマノ_自己株式の取得結果及び取得終了に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "9274",
+      "company": "ＫＰＰグループＨＤ",
+      "title": "2027年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "time": "08:55",
+      "file_id": "140120261113577675",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261113577675.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/9274_KPPグループHD_2027年3月期第2四半期（中間期）決算短信〔日本基準〕(連結).pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4523",
+      "company": "エーザイ",
+      "title": "「レケンビ」の皮下注製剤「レケンビ皮下注250mg ペン」日本において早期アルツハイマー病治療剤として新発売",
+      "time": "08:30",
+      "file_id": "140120261113577591",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261113577591.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/4523_エーザイ_「レケンビ」の皮下注製剤「レケンビ皮下注250mg ペン」日本において早期アルツハイマー病治療剤として新発売.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "4578",
+      "company": "大塚ＨＤ",
+      "title": "EGFRエクソン20挿入変異を伴う非小細胞肺がんの一次治療に対するジパレルチニブと化学療法の併用について米国FDAへの新薬承認申請の提出を完了",
+      "time": "08:30",
+      "file_id": "140120261112574957",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112574957.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/4578_大塚HD_EGFRエクソン20挿入変異を伴う非小細胞肺がんの一次治療に対するジパレルチニブと化学療法の併用について米国FDAへの新薬承認申請の提出を完了.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7138",
+      "company": "Ｇ－ＴＯＲＩＣＯ",
+      "title": "イーサリアム（ETH）の追加取得に関するお知らせ",
+      "time": "08:30",
+      "file_id": "140120261112577401",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112577401.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/7138_G－TORICO_イーサリアム（ETH）の追加取得に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7600",
+      "company": "ＭＤＭ",
+      "title": "2027年3月期 第2四半期（中間期）決算説明会資料",
+      "time": "08:30",
+      "file_id": "140120261112575664",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112575664.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/7600_MDM_2027年3月期 第2四半期（中間期）決算説明会資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "7522",
+      "company": "ワタミ",
+      "title": "本日の一部報道について",
+      "time": "08:05",
+      "file_id": "140120261113577627",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261113577627.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/7522_ワタミ_本日の一部報道について.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "186A",
+      "company": "Ｇ－アストロスケール",
+      "title": "米国連結子会社に対する債権の株式化（デット・エクイティ・スワップ）の実施及び金融費用の計上に関するお知らせ",
+      "time": "08:00",
+      "file_id": "140120261030561591",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261030561591.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/186A_G－アストロスケール_米国連結子会社に対する債権の株式化（デット・エクイティ・スワップ）の実施及び金融費用の計上に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "241A",
+      "company": "Ｇ－ＲＯＸＸ",
+      "title": "2026年９月期通期 決算説明会 Transcriptの公開に関するお知らせ",
+      "time": "08:00",
+      "file_id": "140120261112577545",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112577545.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/241A_G－ROXX_2026年9月期通期 決算説明会 Transcriptの公開に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "241A",
+      "company": "Ｇ－ＲＯＸＸ",
+      "title": "2026年９月期通期 決算説明会 Q&Aの公開に関するお知らせ",
+      "time": "08:00",
+      "file_id": "140120261112577550",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112577550.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/241A_G－ROXX_2026年9月期通期 決算説明会 Q&Aの公開に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3556",
+      "company": "Ｇ－リネットジャパン",
+      "title": "2026年9月期 決算短信〔日本基準〕（連結）",
+      "time": "08:00",
+      "file_id": "140120261112576374",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576374.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/3556_G－リネットジャパン_2026年9月期 決算短信〔日本基準〕（連結）.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3556",
+      "company": "Ｇ－リネットジャパン",
+      "title": "2026年9月期決算補足資料",
+      "time": "08:00",
+      "file_id": "140120261112576447",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576447.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/3556_G－リネットジャパン_2026年9月期決算補足資料.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3556",
+      "company": "Ｇ－リネットジャパン",
+      "title": "通期連結業績予想と実績値との差異及び個別決算における前事業年度の実績値との差異に関するお知らせ",
+      "time": "08:00",
+      "file_id": "140120261112576474",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576474.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/3556_G－リネットジャパン_通期連結業績予想と実績値との差異及び個別決算における前事業年度の実績値との差異に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3556",
+      "company": "Ｇ－リネットジャパン",
+      "title": "事業計画及び成長可能性に関する事項",
+      "time": "08:00",
+      "file_id": "140120261112576503",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576503.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/3556_G－リネットジャパン_事業計画及び成長可能性に関する事項.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3556",
+      "company": "Ｇ－リネットジャパン",
+      "title": "2027年9月期配当予想（初配）及び株主優待制度の変更に関するお知らせ",
+      "time": "08:00",
+      "file_id": "140120261112576528",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576528.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/3556_G－リネットジャパン_2027年9月期配当予想（初配）及び株主優待制度の変更に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3556",
+      "company": "Ｇ－リネットジャパン",
+      "title": "定款一部変更に関するお知らせ",
+      "time": "08:00",
+      "file_id": "140120261112576538",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576538.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/3556_G－リネットジャパン_定款一部変更に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "3556",
+      "company": "Ｇ－リネットジャパン",
+      "title": "役員人事に関するお知らせ",
+      "time": "08:00",
+      "file_id": "140120261112576547",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112576547.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/3556_G－リネットジャパン_役員人事に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5137",
+      "company": "Ｇ－スマートドライブ",
+      "title": "特別損失の計上に関するお知らせ",
+      "time": "08:00",
+      "file_id": "140120261112575498",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261112575498.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/5137_G－スマートドライブ_特別損失の計上に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5137",
+      "company": "Ｇ－スマートドライブ",
+      "title": "2026年９月期決算短信〔日本基準〕(連結)",
+      "time": "08:00",
+      "file_id": "140120261111574294",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261111574294.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/5137_G－スマートドライブ_2026年9月期決算短信〔日本基準〕(連結).pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5137",
+      "company": "Ｇ－スマートドライブ",
+      "title": "自己株式取得に係る事項の決定に関するお知らせ",
+      "time": "08:00",
+      "file_id": "140120261111574316",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261111574316.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/5137_G－スマートドライブ_自己株式取得に係る事項の決定に関するお知らせ.pdf",
+      "status": "uploaded"
+    },
+    {
+      "ticker": "5137",
+      "company": "Ｇ－スマートドライブ",
+      "title": "2026年９月期第４四半期 決算説明資料",
+      "time": "08:00",
+      "file_id": "140120261111574309",
+      "source_url": "https://www.release.tdnet.info/inbs/140120261111574309.pdf",
+      "github_path": "tekigikaizi/20261113_Part3/5137_G－スマートドライブ_2026年9月期第4四半期 決算説明資料.pdf",
+      "status": "uploaded"
+    }
+  ]
+}
